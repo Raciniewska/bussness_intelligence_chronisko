@@ -1,1 +1,1 @@
-# bussness_intelligence_chronisko
+# business_intelligence_schronisko
