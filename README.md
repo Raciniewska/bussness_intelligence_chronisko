@@ -1,1 +1,1 @@
-# bussness_intelligence_chronisko
+# bussness_intelligence_schronisko
