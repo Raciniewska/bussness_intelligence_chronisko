@@ -1,0 +1,7 @@
+DPD
+DHL
+InPost
+Pocztex
+GLS
+UPS
+FedEx
