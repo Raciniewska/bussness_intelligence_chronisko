@@ -1,2179 +1,2179 @@
-ul. 11 Listopada Warszawa
-ul. 15 Sierpnia Warszawa
-ul. 17 Stycznia Warszawa
-ul. 1 Maja Warszawa
-ul. 1 Praskiego Pułku Warszawa
-ul. 1 Praskiego Pułku (Wesoła) Warszawa
-ul. 1 Sierpnia Warszawa
-ul. 20 Dywizji Piechoty Wojska Polskiego Warszawa
-ul. 21 Pułku Piechoty Dzieci Warszawy Warszawa
-ul. 27 Grudnia Warszawa
-ul. 29 Listopada Warszawa
-ul. 2 Armii Wojska Polskiego Warszawa
-ul. 36 Pułku Piechoty Legii Akademickiej Warszawa
-ul. 3 Maja Warszawa
-ul. 6 Sierpnia Warszawa
-ul. Abecadło Warszawa
-ul. Achillesa Warszawa
-ul. Adama Asnyka Warszawa
-ul. Adama Branickiego Warszawa
-ul. Adama Ciołkosza Warszawa
-ul. Adama Idźkowskiego Warszawa
-ul. Adama Jarzębskiego Warszawa
-ul. Adama Mickiewicza Warszawa
-ul. Adampolska Warszawa
-ul. Admiralska Warszawa
-ul. Adolfa Dygasińskiego Warszawa
-ul. Afrodyty Warszawa
-ul. Afrykańska Warszawa
-ul. Agatowa Warszawa
-ul. Agawy Warszawa
-ul. Agnieszki Warszawa
-ul. Agrarna Warszawa
-ul. Agrestowa Warszawa
-ul. Agrykola Warszawa
-ul. Akacjowa Warszawa
-ul. Akademicka Warszawa
-ul. Akantu Warszawa
-ul. Akcent Warszawa
-ul. Akermańska Warszawa
-ul. Aksamitna Warszawa
-ul. Aktorska Warszawa
-ul. Akurat Warszawa
-ul. Akustyczna Warszawa
-ul. Akwarelowa Warszawa
-ul. Alabastrowa Warszawa
-ul. Albatrosów Warszawa
-ul. Alberta Einsteina Warszawa
-ul. Albina Jakiela Warszawa
-ul. aleja Dzieci Polskich Warszawa
-ul. aleja Hrabska Warszawa
-ul. aleja Jana Chrystiana Szucha Warszawa
-ul. aleja Jana Pawła II Warszawa
-ul. aleja Kazimierza Kumanieckiego Warszawa
-ul. aleja Krakowska Warszawa
-ul. aleja Legionów Warszawa
-ul. Aleja Marszałka Józefa Piłsudskiego Warszawa
-ul. aleja Marszałka Józefa Piłsudskiego (Wesoła) Warszawa
-ul. aleja Niepodległości Warszawa
-ul. aleja Solidarności Warszawa
-ul. Aleja Wilanowska Warszawa
-ul. aleja Wyzwolenia Warszawa
-ul. aleja Zieleniecka Warszawa
-ul. Aleje Jerozolimskie Warszawa
-ul. Aleje Ujazdowskie Warszawa
-ul. Aleksandra Bardiniego Warszawa
-ul. Aleksandra Dyżewskiego Warszawa
-ul. Aleksandra Fleminga Warszawa
-ul. Aleksandra Fredry Warszawa
-ul. Aleksandra Gajkowicza Warszawa
-ul. Aleksandra Gierymskiego Warszawa
-ul. Aleksandra Janowskiego Warszawa
-ul. Aleksandra Kamińskiego Warszawa
-ul. Aleksandra Kostki-Napierskiego Warszawa
-ul. Aleksandra Kotsisa Warszawa
-ul. Aleksandra Kowalskiego Warszawa
-ul. Aleksandra Kraushara Warszawa
-ul. Aleksandra Krywulta Warszawa
-ul. Aleksandrowska Warszawa
-ul. Algierska Warszawa
-ul. Alojzego Felińskiego Warszawa
-ul. Alpejska Warszawa
-ul. Alternatywy Warszawa
-ul. Altowa Warszawa
-ul. Aluzyjna Warszawa
-ul. Alzacka Warszawa
-ul. Amarantowa Warszawa
-ul. Ambaras Warszawa
-ul. Amelińska Warszawa
-ul. Ametystowa Warszawa
-ul. Analityczna Warszawa
-ul. Ananasowa Warszawa
-ul. Anastazego Kowalczyka Warszawa
-ul. Andersa Warszawa
-ul. Andromedy Warszawa
-ul. Andrutowa Warszawa
-ul. Andrychowska Warszawa
-ul. Andrzeja Frycza-Modrzewskiego Warszawa
-ul. Andrzeja Krzyckiego Warszawa
-ul. Andrzejowska Warszawa
-ul. Andyjska Warszawa
-ul. Anecińska Warszawa
-ul. Angorska Warszawa
-ul. Anieli Krzywoń Warszawa
-ul. Anilinowa Warszawa
-ul. Animuszu Warszawa
-ul. Annopol Warszawa
-ul. Anny Jagiellonki Warszawa
-ul. Antenowa Warszawa
-ul. Antka Rozpylacza Warszawa
-ul. Antoniego Bolesława Dobrowolskiego Warszawa
-ul. Antoniego Brodowskiego Warszawa
-ul. Antoniego Corazziego Warszawa
-ul. Antoniego Czechowa Warszawa
-ul. Antoniego Dobiszewskiego Warszawa
-ul. Antoniego Fontany Warszawa
-ul. Antoniego Grabowskiego Warszawa
-ul. Antoniego Kacpury Warszawa
-ul. Antoniego Kocjana Warszawa
-ul. Antoniewska Warszawa
-ul. Antyczna Warszawa
-ul. Antygony Warszawa
-ul. Anyżkowa Warszawa
-ul. Apartamentowa Warszawa
-ul. Apenińska Warszawa
-ul. Aplikancka Warszawa
-ul. Apollina Warszawa
-ul. Apteczna Warszawa
-ul. Arabska Warszawa
-ul. Arachidowa Warszawa
-ul. Arbuzowa Warszawa
-ul. Archimedesa Warszawa
-ul. Architektów Warszawa
-ul. Archiwalna Warszawa
-ul. Argentyńska Warszawa
-ul. Arkadowa Warszawa
-ul. Arkadyjska Warszawa
-ul. Arkony Warszawa
-ul. Arktyczna Warszawa
-ul. Arkuszowa Warszawa
-ul. Armanda Calinescu Warszawa
-ul. Armatnia Warszawa
-ul. Armii Krajowej Warszawa
-ul. Armii Ludowej Warszawa
-ul. Arniki Warszawa
-ul. Aroniowa Warszawa
-ul. Arrasowa Warszawa
-ul. Arsenalska Warszawa
-ul. Artemidy Warszawa
-ul. Artura Grottgera Warszawa
-ul. Artyleryjska Warszawa
-ul. Artystów Warszawa
-ul. Artystyczna Warszawa
-ul. Asfaltowa Warszawa
-ul. Aspekt Warszawa
-ul. Astronautów Warszawa
-ul. Astronomów Warszawa
-ul. Astrów Warszawa
-ul. Astry Warszawa
-ul. Ateńska Warszawa
-ul. Atlasowa Warszawa
-ul. Atutowa Warszawa
-ul. Augusta Cieszkowskiego Warszawa
-ul. Augustówka Warszawa
-ul. Augustyna Kordeckiego Warszawa
-ul. Awionetki RWD Warszawa
-ul. Azaliowa Warszawa
-ul. Babicka Warszawa
-ul. Babiego Lata Warszawa
-ul. Babie Lato Warszawa
-ul. Babimojska Warszawa
-ul. Babinicza Warszawa
-ul. Baborowska Warszawa
-ul. Baboszewska Warszawa
-ul. Bachmacka Warszawa
-ul. Bachusa Warszawa
-ul. Badowska Warszawa
-ul. Badylarska Warszawa
-ul. Bagatela Warszawa
-ul. Bagażowa Warszawa
-ul. Bagno Warszawa
-ul. Bajeczna Warszawa
-ul. Bajkowa Warszawa
-ul. Bajońska Warszawa
-ul. Bakalarska Warszawa
-ul. Bakaliowa Warszawa
-ul. Balaton Warszawa
-ul. Balbinki Warszawa
-ul. Baletowa Warszawa
-ul. Balicka Warszawa
-ul. Balkonowa Warszawa
-ul. Balladyny Warszawa
-ul. Balonowa Warszawa
-ul. Baltazara Warszawa
-ul. Bałtycka Warszawa
-ul. Bambusowa Warszawa
-ul. Bananowa Warszawa
-ul. Banderii Warszawa
-ul. Bandoski Warszawa
-ul. Banioska Warszawa
-ul. Bankowa Warszawa
-ul. Baonu Zośka Warszawa
-ul. Baranowska Warszawa
-ul. Barcelońska Warszawa
-ul. Barcicka Warszawa
-ul. Barkocińska Warszawa
-ul. Barokowa Warszawa
-ul. Barska Warszawa
-ul. Barszczewska Warszawa
-ul. Bartłomieja Warszawa
-ul. Bartnicza Warszawa
-ul. Bartoka Warszawa
-ul. Bartosza Głowackiego Warszawa
-ul. Bartoszycka Warszawa
-ul. Bartycka Warszawa
-ul. Barwinkowa Warszawa
-ul. Barwna Warszawa
-ul. Barwnicza Warszawa
-ul. Baryczków Warszawa
-ul. Baśniowa Warszawa
-ul. Batalionów Chłopskich Warszawa
-ul. Batalionu "Parasol" Warszawa
-ul. Batalionu AK "Bałtyk" Warszawa
-ul. Batalionu AK "Karpaty" Warszawa
-ul. Batalionu AK "Olza" Warszawa
-ul. Batalionu AK "Pięść" Warszawa
-ul. Batalionu AK "Ryś" Warszawa
-ul. Batalionu Miotła Warszawa
-ul. Batalionu Oaza Warszawa
-ul. Batalionu Platerówek Warszawa
-ul. Batumi Warszawa
-ul. Batuty Warszawa
-ul. Batystowa Warszawa
-ul. Bawełniana Warszawa
-ul. Bażancia Warszawa
-ul. Bazyliańska Warszawa
-ul. Beczkowa Warszawa
-ul. Bednarska Warszawa
-ul. Będzińska Warszawa
-ul. Begonii Warszawa
-ul. Bekasów Warszawa
-ul. Bełchatowska Warszawa
-ul. Bełdan Warszawa
-ul. Belgijska Warszawa
-ul. Belgradzka Warszawa
-ul. Bellony Warszawa
-ul. Bełska Warszawa
-ul. Belwederska Warszawa
-ul. Bełżecka Warszawa
-ul. Benedykta Warszawa
-ul. Benedykta Dybowskiego Warszawa
-ul. Benedykta Hertza Warszawa
-ul. Berberysowa Warszawa
-ul. Berestecka Warszawa
-ul. Berezyńska Warszawa
-ul. Berka Joselewicza Warszawa
-ul. Bernardyńska Warszawa
-ul. Berneńska Warszawa
-ul. Bertolta Brechta Warszawa
-ul. Beskidzka Warszawa
-ul. Biała Warszawa
-ul. Białej Wody Warszawa
-ul. Białoborska Warszawa
-ul. Białobrzeska Warszawa
-ul. Białogońska Warszawa
-ul. Białołęcka Warszawa
-ul. Białoskórnicza Warszawa
-ul. Białostocka Warszawa
-ul. Białowiejska Warszawa
-ul. Białowieska Warszawa
-ul. Białozora Warszawa
-ul. Biały Kamień Warszawa
-ul. Biechowska Warszawa
-ul. Biedronki Warszawa
-ul. Bielańska Warszawa
-ul. Bielawska Warszawa
-ul. Bielska Warszawa
-ul. Bielszowicka Warszawa
-ul. Bieniewicka Warszawa
-ul. Biernacka Warszawa
-ul. Biernata z Lublina Warszawa
-ul. Biesiadna Warszawa
-ul. Bieszczadzka Warszawa
-ul. Bieżanowska Warszawa
-ul. Bieżuńska Warszawa
-ul. Biłgorajska Warszawa
-ul. Biruty Warszawa
-ul. Birżańska Warszawa
-ul. Biskupia Warszawa
-ul. Bitna Warszawa
-ul. Bitwy Grochowskiej Warszawa
-ul. Bitwy pod Lenino Warszawa
-ul. Bitwy pod Rokitną Warszawa
-ul. Bitwy Warszawskiej 1920 r. Warszawa
-ul. Biwakowa Warszawa
-ul. Blacharska Warszawa
-ul. Blaszana Warszawa
-ul. Bławatków Warszawa
-ul. Błażeja Warszawa
-ul. Błędowska Warszawa
-ul. Błękitna Warszawa
-ul. Bliska Warszawa
-ul. Blokowa Warszawa
-ul. Błonie Warszawa
-ul. Błońska Warszawa
-ul. Błotna Warszawa
-ul. Bluszczańska Warszawa
-ul. Bluszczowa Warszawa
-ul. Bobrowa Warszawa
-ul. Bobrowiecka Warszawa
-ul. Bocheńska Warszawa
-ul. Bociania Warszawa
-ul. Boczańska Warszawa
-ul. Boczna Warszawa
-ul. Boczniaków Warszawa
-ul. Bodzanty Warszawa
-ul. Bogatki Warszawa
-ul. Bogatyńska Warszawa
-ul. Boglarczyków Warszawa
-ul. Bogoriów Warszawa
-ul. Bogucicka Warszawa
-ul. Bogumińska Warszawa
-ul. Bogunki Warszawa
-ul. Boguszewska Warszawa
-ul. Bohaterów Warszawa
-ul. Bohaterów Getta Warszawa
-ul. Bohdziewicza Warszawa
-ul. Bohuna Warszawa
-ul. Bokserska Warszawa
-ul. Bolecha Warszawa
-ul. Boleść Warszawa
-ul. Bolesława Chrobrego Warszawa
-ul. Bolesława Gidzińskiego Warszawa
-ul. Bolesława Krzywoustego Warszawa
-ul. Bolesława Limanowskiego Warszawa
-ul. Bolesława Prusa Warszawa
-ul. Bolesława Prusa (Wesoła) Warszawa
-ul. Bolesława Śmiałego Warszawa
-ul. Bolesławicka Warszawa
-ul. Bolimowska Warszawa
-ul. Bolkowska Warszawa
-ul. Bombardierów Warszawa
-ul. Bonifraterska Warszawa
-ul. Bonisławska Warszawa
-ul. Borecka Warszawa
-ul. Boremlowska Warszawa
-ul. Borków Warszawa
-ul. Borkowska Warszawa
-ul. Borowa Warszawa
-ul. Borowej Góry Warszawa
-ul. Borowiecka Warszawa
-ul. Borowika Warszawa
-ul. Borówkowa Warszawa
-ul. Borsucza Warszawa
-ul. Boruty Warszawa
-ul. Boryny Warszawa
-ul. Borysławska Warszawa
-ul. Boryszewska Warszawa
-ul. Borzęcińska Warszawa
-ul. Borzymowska Warszawa
-ul. Bosmańska Warszawa
-ul. Botaniczna Warszawa
-ul. Bożka Arki Warszawa
-ul. Braci Wagów Warszawa
-ul. Bracka Warszawa
-ul. Bracławska Warszawa
-ul. Bramka Warszawa
-ul. Braniewska Warszawa
-ul. Brata Alberta Warszawa
-ul. Braterstwa Broni Warszawa
-ul. Bratka Warszawa
-ul. Bratnia Warszawa
-ul. Brązownicza Warszawa
-ul. Brazylijska Warszawa
-ul. Brochowska Warszawa
-ul. Brodnicka Warszawa
-ul. Brodzik Warszawa
-ul. Bronisława Czecha Warszawa
-ul. Bronisława Dobrzańskiego Warszawa
-ul. Bronisława Gembarzewskiego Warszawa
-ul. Broniwoja Warszawa
-ul. Bronowska Warszawa
-ul. Browarna Warszawa
-ul. Brukselska Warszawa
-ul. Brunona Kicińskiego Warszawa
-ul. Bruszewska Warszawa
-ul. Bruzdowa Warszawa
-ul. Brwinowska Warszawa
-ul. Brygady Pościgowej Warszawa
-ul. Brygadzistów Warszawa
-ul. Brylantowa Warszawa
-ul. Brylowska Warszawa
-ul. Brzegowa Warszawa
-ul. Brzeska Warszawa
-ul. Brzezińska Warszawa
-ul. Brzeziny Warszawa
-ul. Brzoskwiniowa Warszawa
-ul. Brzostowska Warszawa
-ul. Brzozowa Warszawa
-ul. Brzozowy Zagajnik Warszawa
-ul. Buchalteryjna Warszawa
-ul. Budki Szczęśliwickie Warszawa
-ul. Budnicza Warszawa
-ul. Budowlana Warszawa
-ul. Budrysów Warszawa
-ul. Budy Warszawa
-ul. Bugaj Warszawa
-ul. Bukietowa Warszawa
-ul. Bukowa Warszawa
-ul. Bukowiecka Warszawa
-ul. Bukowińska Warszawa
-ul. Bukszpanowa Warszawa
-ul. Buławy Warszawa
-ul. Bułgarska Warszawa
-ul. Bulwarowa Warszawa
-ul. Buńczuk Warszawa
-ul. Buraczana Warszawa
-ul. Burakowska Warszawa
-ul. Burgaska Warszawa
-ul. Burleska Warszawa
-ul. Burmistrzowska Warszawa
-ul. Bursztynowa Warszawa
-ul. Burzliwa Warszawa
-ul. Buska Warszawa
-ul. Busolowa Warszawa
-ul. Buszycka Warszawa
-ul. Bychowska Warszawa
-ul. Byczyńska Warszawa
-ul. Bylicowa Warszawa
-ul. Bysławska Warszawa
-ul. Bystra Warszawa
-ul. Bystrzycka Warszawa
-ul. Byszewska Warszawa
-ul. Bytomska Warszawa
-ul. Bzowa Warszawa
-ul. Calineczki Warszawa
-ul. Calowa Warszawa
-ul. Canaletta Warszawa
-ul. Capri Warszawa
-ul. Carla Goldoniego Warszawa
-ul. Cedrowa Warszawa
-ul. Cedzyńska Warszawa
-ul. Cegielniana Warszawa
-ul. Ceglana Warszawa
-ul. Cegłowska Warszawa
-ul. Celestynowska Warszawa
-ul. Celna Warszawa
-ul. Celofanowa Warszawa
-ul. Celtów Warszawa
-ul. Celulozy Warszawa
-ul. Cementowa Warszawa
-ul. Centralna Warszawa
-ul. Centurii Warszawa
-ul. Ceramiczna Warszawa
-ul. Cesarskiej Korony Warszawa
-ul. Chabrów Warszawa
-ul. Chabrowa Warszawa
-ul. Chałupnicza Warszawa
-ul. Chęcińska Warszawa
-ul. Chełchowska Warszawa
-ul. Chełmska Warszawa
-ul. Chełmżyńska Warszawa
-ul. Chemiczna Warszawa
-ul. Chińskiej Róży Warszawa
-ul. Chlebowa Warszawa
-ul. Chlewińska Warszawa
-ul. Chłodna Warszawa
-ul. Chłodnicza Warszawa
-ul. Chlubna Warszawa
-ul. Chmielna Warszawa
-ul. Chmurna Warszawa
-ul. Chochołowska Warszawa
-ul. Chocimska Warszawa
-ul. Chodakowska Warszawa
-ul. Chodecka Warszawa
-ul. Chodzieska Warszawa
-ul. Choinkowa Warszawa
-ul. Chojnowska Warszawa
-ul. Chorągwi Pancernej Warszawa
-ul. Chóralna Warszawa
-ul. Chorzelska Warszawa
-ul. Chorzowska Warszawa
-ul. Chotomowska Warszawa
-ul. Christa Botewa Warszawa
-ul. Chroszczewska Warszawa
-ul. Chryzantemy Warszawa
-ul. Chylicka Warszawa
-ul. Chylońska Warszawa
-ul. Chyrowska Warszawa
-ul. Ciasna Warszawa
-ul. Cicha Warszawa
-ul. Cichej Wody Warszawa
-ul. Cichociemnych Warszawa
-ul. Ciechanowska Warszawa
-ul. Ciechocińska Warszawa
-ul. Ciekawa Warszawa
-ul. Ciemna Warszawa
-ul. Cienista Warszawa
-ul. Ciepielowska Warszawa
-ul. Ciepła Warszawa
-ul. Cieplarniana Warszawa
-ul. Cieplicka Warszawa
-ul. Cierlicka Warszawa
-ul. Ciesielska Warszawa
-ul. Cieślewskich Warszawa
-ul. Cieszyńska Warszawa
-ul. Cietrzewia Warszawa
-ul. Cisowa Warszawa
-ul. Ciszewska Warszawa
-ul. Ciupagi Warszawa
-ul. Ciżemki Warszawa
-ul. Cmentarna Warszawa
-ul. Codzienna Warszawa
-ul. Cokołowa Warszawa
-ul. Cudna Warszawa
-ul. Cudne Manowce Warszawa
-ul. Cudnowska Warszawa
-ul. Cukrownicza Warszawa
-ul. Cybernetyki Warszawa
-ul. Cyganeczki Warszawa
-ul. Cygańska Warszawa
-ul. Cyklamenów Warszawa
-ul. Cyklamenowa Warszawa
-ul. Cylichowska Warszawa
-ul. Cymbalistów Warszawa
-ul. Cynamonowa Warszawa
-ul. Cynowa Warszawa
-ul. Cypriana Godebskiego Warszawa
-ul. Cypriana Norwida Warszawa
-ul. Cypryjska Warszawa
-ul. Cyprysowa Warszawa
-ul. Cyraneczki Warszawa
-ul. Cyrhli Warszawa
-ul. Cyrklowa Warszawa
-ul. Cyrkonii Warszawa
-ul. Cyrulików Warszawa
-ul. Cytadeli Warszawa
-ul. Cytrynowa Warszawa
-ul. Czajki Warszawa
-ul. Czapelska Warszawa
-ul. Czapli Warszawa
-ul. Czapnicza Warszawa
-ul. Czardasza Warszawa
-ul. Czarna Droga Warszawa
-ul. Czarnocińska Warszawa
-ul. Czarnołęcka Warszawa
-ul. Czarnoleska Warszawa
-ul. Czarnomorska Warszawa
-ul. Czarnuszki Warszawa
-ul. Czarodzieja Warszawa
-ul. Cząstkowska Warszawa
-ul. Czatów Warszawa
-ul. Czechowicka Warszawa
-ul. Czekanowska Warszawa
-ul. Czekoladowa Warszawa
-ul. Czeladnicza Warszawa
-ul. Czempińska Warszawa
-ul. Czeremchowa Warszawa
-ul. Czereśniowa Warszawa
-ul. Czerniakowska Warszawa
-ul. Czerniowiecka Warszawa
-ul. Czerska Warszawa
-ul. Czerwińska Warszawa
-ul. Czerwona Droga Warszawa
-ul. Czerwonego Krzyża Warszawa
-ul. Czerwonych Beretów Warszawa
-ul. Czerwonych Maków Warszawa
-ul. Czerwonych Wierchów Warszawa
-ul. Czeska Warszawa
-ul. Czesława Kłosia Warszawa
-ul. Cześnika Warszawa
-ul. Częstochowska Warszawa
-ul. Człuchowska Warszawa
-ul. Czółenkowa Warszawa
-ul. Czołgistów Warszawa
-ul. Czołowa Warszawa
-ul. Czorsztyńska Warszawa
-ul. Czterech Wiatrów Warszawa
-ul. Czubatki Warszawa
-ul. Czujna Warszawa
-ul. Czumy Warszawa
-ul. Czwartaków Warszawa
-ul. Czynszowa Warszawa
-ul. Czysta Warszawa
-ul. Czytelnicza Warszawa
-ul. Czyżewska Warszawa
-ul. Czyżyka Warszawa
-ul. Dąbrowiecka Warszawa
-ul. Dąbrowszczaków Warszawa
-ul. Dąbrowy Warszawa
-ul. Daglezji Warszawa
-ul. Daków Warszawa
-ul. Daktylowa Warszawa
-ul. Dalanowska Warszawa
-ul. Daleka Warszawa
-ul. Daleszycka Warszawa
-ul. Dalibora Warszawa
-ul. Daliowa Warszawa
-ul. Daniewice Warszawa
-ul. Daniłowiczowska Warszawa
-ul. Daniszewska Warszawa
-ul. Dankowicka Warszawa
-ul. Dantego Warszawa
-ul. Danusi Warszawa
-ul. Darłowska Warszawa
-ul. Darniowa Warszawa
-ul. Daszowska Warszawa
-ul. Dawidowska Warszawa
-ul. Dawna Warszawa
-ul. Dębicka Warszawa
-ul. Dębinki Warszawa
-ul. Dęblińska Warszawa
-ul. Dębowa Warszawa
-ul. Dęby Warszawa
-ul. Dedala Warszawa
-ul. Dekarska Warszawa
-ul. Delfina Warszawa
-ul. Denarowa Warszawa
-ul. Deotymy Warszawa
-ul. Deptak Warszawa
-ul. Derby Warszawa
-ul. Dereniowa Warszawa
-ul. Derkaczy Warszawa
-ul. Derwida Warszawa
-ul. Deseniowa Warszawa
-ul. Deszczowa Warszawa
-ul. Dewajtis Warszawa
-ul. Diamentowa Warszawa
-ul. Dionizosa Warszawa
-ul. Długa Warszawa
-ul. Długomiła Warszawa
-ul. Długopolska Warszawa
-ul. Długorzeczna Warszawa
-ul. Dmuchawcowa Warszawa
-ul. Dobka z Oleśnicy Warszawa
-ul. Dobosza Warszawa
-ul. Dobra Warszawa
-ul. Dobrodzieja Warszawa
-ul. Dobrogniewa Warszawa
-ul. Dobrowoja Warszawa
-ul. Dojazdowa Warszawa
-ul. Dokerów Warszawa
-ul. Dolina Służewiecka Warszawa
-ul. Dolna Warszawa
-ul. Dolnośląska Warszawa
-ul. Dolomitowa Warszawa
-ul. Dołowa Warszawa
-ul. Domaniewska Warszawa
-ul. Dominikańska Warszawa
-ul. Dominiki Warszawa
-ul. Domowa Warszawa
-ul. Don Kichota Warszawa
-ul. Dorodna Warszawa
-ul. Dorohuska Warszawa
-ul. Dorotowska Warszawa
-ul. Doroty Kłuszyńskiej Warszawa
-ul. Dorycka Warszawa
-ul. Dostatnia Warszawa
-ul. Dostępna Warszawa
-ul. Dowcip Warszawa
-ul. Dowódców Warszawa
-ul. Dożynkowa Warszawa
-ul. Do Fortu Warszawa
-ul. Dragonów Warszawa
-ul. Drapińska Warszawa
-ul. Drawska Warszawa
-ul. Drewniana Warszawa
-ul. Drewnicka Warszawa
-ul. Drezdeńska Warszawa
-ul. Drobiazg Warszawa
-ul. Droga Golfowa Warszawa
-ul. Droga Krajowa 8 Warszawa
-ul. Droga Wojewódzka 637 Warszawa
-ul. Drogistów Warszawa
-ul. Drogomilska Warszawa
-ul. Drogowa Warszawa
-ul. Drohicka Warszawa
-ul. Drohobycka Warszawa
-ul. Drozdowa Warszawa
-ul. Drożdżowa Warszawa
-ul. Druciana Warszawa
-ul. Drukarzy Warszawa
-ul. Drumli Warszawa
-ul. Drużynowa Warszawa
-ul. Drwali Warszawa
-ul. Drzemlika Warszawa
-ul. Drzeworytników Warszawa
-ul. Dubieńska Warszawa
-ul. Duchnicka Warszawa
-ul. Dudziarska Warszawa
-ul. Dukatowa Warszawa
-ul. Dukielska Warszawa
-ul. Dulczyńska Warszawa
-ul. Dumki Warszawa
-ul. Dunajecka Warszawa
-ul. Duninów Warszawa
-ul. Dusznicka Warszawa
-ul. Dwóch Mieczy Warszawa
-ul. Dworcowa Warszawa
-ul. Dworkowa Warszawa
-ul. Dworska Warszawa
-ul. Dwusieczna Warszawa
-ul. Dychowska Warszawa
-ul. Dylewska Warszawa
-ul. Dyliżansowa Warszawa
-ul. Dymińska Warszawa
-ul. Dymna Warszawa
-ul. Dynamiczna Warszawa
-ul. Dynarska Warszawa
-ul. Dynasy Warszawa
-ul. Dyngus Warszawa
-ul. Dynowska Warszawa
-ul. Dywizjonu 303 Warszawa
-ul. Dywizjonu AK "Jeleń" Warszawa
-ul. Działdowska Warszawa
-ul. Działkowa Warszawa
-ul. Działowa Warszawa
-ul. Działyńczyków Warszawa
-ul. Dziatwy Warszawa
-ul. Dzidka Warszawiaka Warszawa
-ul. Dziecięca Warszawa
-ul. Dzięcieliny Warszawa
-ul. Dzięcioła Warszawa
-ul. Dzieci Warszawy Warszawa
-ul. Dzięgielowa Warszawa
-ul. Dziekania Warszawa
-ul. Dziekanowska Warszawa
-ul. Dzielna Warszawa
-ul. Dzielnicowa Warszawa
-ul. Dziennikarska Warszawa
-ul. Dzierzby Warszawa
-ul. Dzierzgońska Warszawa
-ul. Dzierżoniowska Warszawa
-ul. Dziewanny Warszawa
-ul. Dziewanowska Warszawa
-ul. Dziewiarska Warszawa
-ul. Dziewierza Warszawa
-ul. Dziewosłęby Warszawa
-ul. Dzika Warszawa
-ul. Dzikiej Kaczki Warszawa
-ul. Dzikiej Róży Warszawa
-ul. Dziupli Warszawa
-ul. Dziwożony Warszawa
-ul. Dźwiękowa Warszawa
-ul. Dźwigowa Warszawa
-ul. Dźwińska Warszawa
-ul. Dzwonkowa Warszawa
-ul. Dzwonnicza Warszawa
-ul. Ebro Warszawa
-ul. Echa Leśne Warszawa
-ul. Edwarda Abramowskiego Warszawa
-ul. Edwarda Dembowskiego Warszawa
-ul. Edwarda Fondamińskiego Warszawa
-ul. Edwarda Gibalskiego Warszawa
-ul. Edwarda Jelinka Warszawa
-ul. Edwarda Szymańskiego Warszawa
-ul. Egejska Warszawa
-ul. Egipska Warszawa
-ul. Ekologiczna Warszawa
-ul. Ekspresowa Warszawa
-ul. Elbląska Warszawa
-ul. Elegancka Warszawa
-ul. Elegijna Warszawa
-ul. Elekcyjna Warszawa
-ul. Elektoralna Warszawa
-ul. Elektronowa Warszawa
-ul. Elektry Warszawa
-ul. Elektryczna Warszawa
-ul. Elizy Orzeszkowej Warszawa
-ul. Elsterska Warszawa
-ul. Elżbiety Drużbackiej Warszawa
-ul. Emaliowa Warszawa
-ul. Emiliana Konopczyńskiego Warszawa
-ul. Emilii Gierczak Warszawa
-ul. Emilii Plater Warszawa
-ul. Encyklopedyczna Warszawa
-ul. Epopei Warszawa
-ul. Erazma Ciołka Warszawa
-ul. Erazma z Zakroczymia Warszawa
-ul. Eryka Dahlberga Warszawa
-ul. Esej Warszawa
-ul. Eskimoska Warszawa
-ul. Eskulapów Warszawa
-ul. Esperanto Warszawa
-ul. Estońska Warszawa
-ul. Estrady Warszawa
-ul. Etiudy Rewolucyjnej Warszawa
-ul. Eugeniusza Bodo Warszawa
-ul. Eugeniusza Horbaczewskiego Warszawa
-ul. Eugeniusza Kwiatkowskiego Warszawa
-ul. Europejska Warszawa
-ul. Ewy Warszawa
-ul. Ezopa Warszawa
-ul. Fabiańska Warszawa
-ul. Fabryczna Warszawa
-ul. Fajansowa Warszawa
-ul. Falęcka Warszawa
-ul. Falenicka Warszawa
-ul. Falentyńska Warszawa
-ul. Falkowska Warszawa
-ul. Familijna Warszawa
-ul. Fanfarowa Warszawa
-ul. Fantazyjna Warszawa
-ul. Faraona Warszawa
-ul. Farbiarska Warszawa
-ul. Farysa Warszawa
-ul. Fasolowa Warszawa
-ul. Fausta Warszawa
-ul. Faustyna Czerwijowskiego Warszawa
-ul. Fawory Warszawa
-ul. Figara Warszawa
-ul. Figiel Warszawa
-ul. Figowa Warszawa
-ul. Filarecka Warszawa
-ul. Filipinki Warszawa
-ul. Filipiny Płaskowickiej Warszawa
-ul. Filmowa Warszawa
-ul. Filomatów Warszawa
-ul. Filona Warszawa
-ul. Filtrowa Warszawa
-ul. Finałowa Warszawa
-ul. Finlandzka Warszawa
-ul. Fińska Warszawa
-ul. Fioletowa Warszawa
-ul. Fiołków Warszawa
-ul. Firletki Warszawa
-ul. Fizyków Warszawa
-ul. Fizylierów Warszawa
-ul. Flagowa Warszawa
-ul. Flamenco Warszawa
-ul. Fletniowa Warszawa
-ul. Flisaków Warszawa
-ul. Floksów Warszawa
-ul. Floriana Warszawa
-ul. Floriańska Warszawa
-ul. Flory Warszawa
-ul. Foksal Warszawa
-ul. Foliałowa Warszawa
-ul. Folwarczna Warszawa
-ul. Forsycji Warszawa
-ul. Forteczna Warszawa
-ul. Fortel Warszawa
-ul. Fortowa Warszawa
-ul. Fortuny Warszawa
-ul. Fort Wola Warszawa
-ul. Fosa Warszawa
-ul. Frachtowa Warszawa
-ul. Franciszkańska Warszawa
-ul. Franciszka Achera Warszawa
-ul. Franciszka Bartoszka Warszawa
-ul. Franciszka Groëra Warszawa
-ul. Franciszka Ilskiego Warszawa
-ul. Franciszka Karpińskiego Warszawa
-ul. Franciszka Kawy Warszawa
-ul. Franciszka Kleeberga Warszawa
-ul. Franciszka Klimczaka Warszawa
-ul. Franciszka Kniaźnina Warszawa
-ul. Franciszka Kostrzewskiego Warszawa
-ul. Franciszka Ksawerego Dmochowskiego Warszawa
-ul. Franciszka Salezego Jezierskiego Warszawa
-ul. Francuska Warszawa
-ul. Frascati Warszawa
-ul. Fraszki Warszawa
-ul. Fregaty Warszawa
-ul. Freta Warszawa
-ul. Frezji Warszawa
-ul. Fromborska Warszawa
-ul. Frontowa Warszawa
-ul. Fryderyka Chopina Warszawa
-ul. Frygijska Warszawa
-ul. Frysztacka Warszawa
-ul. Fukierów Warszawa
-ul. Fuksji Warszawa
-ul. Fundamentowa Warszawa
-ul. Furmańska Warszawa
-ul. Gąbińska Warszawa
-ul. Gabriela Warszawa
-ul. Gabriela Boduena Warszawa
-ul. Gabrieli Zapolskiej Warszawa
-ul. Gaik Warszawa
-ul. Gajdy Warszawa
-ul. Gajowa Warszawa
-ul. Galaktyki Warszawa
-ul. Galileusza Warszawa
-ul. Galla Anonima Warszawa
-ul. Galopu Warszawa
-ul. Garażowa Warszawa
-ul. Garbarska Warszawa
-ul. Gardenii Warszawa
-ul. Garłaczy Warszawa
-ul. Garncarska Warszawa
-ul. Garwolińska Warszawa
-ul. Gąsek Warszawa
-ul. Gąsienicowa Warszawa
-ul. Gąsocińska Warszawa
-ul. Gawędziarzy Warszawa
-ul. Gawota Warszawa
-ul. Gazowa Warszawa
-ul. Gdańska Warszawa
-ul. Gdecka Warszawa
-ul. Gdyńska Warszawa
-ul. Gębicka Warszawa
-ul. Gedymina Warszawa
-ul. gen. Meriana C. Coopera Warszawa
-ul. gen. Mikołaja Bołtucia Warszawa
-ul. Generała Władysława Andersa Warszawa
-ul. Genewska Warszawa
-ul. Geodetów Warszawa
-ul. Geodezyjna Warszawa
-ul. Geograficzna Warszawa
-ul. Geologiczna Warszawa
-ul. Geometryczna Warszawa
-ul. Geranii Warszawa
-ul. Gerberowa Warszawa
-ul. Gerwazego Warszawa
-ul. Gęślarska Warszawa
-ul. Gęsta Warszawa
-ul. Gibraltarska Warszawa
-ul. Giełdowa Warszawa
-ul. Gierdawska Warszawa
-ul. Giermków Warszawa
-ul. Giewont Warszawa
-ul. Gilarska Warszawa
-ul. Gimnastyczna Warszawa
-ul. Gimnazjalna Warszawa
-ul. Gizów Warszawa
-ul. Gladioli Warszawa
-ul. Gładka Warszawa
-ul. Głębocka Warszawa
-ul. Głęboka Warszawa
-ul. Glebowa Warszawa
-ul. Glicynii Warszawa
-ul. Gliwicka Warszawa
-ul. Globusowa Warszawa
-ul. Głogowa Warszawa
-ul. Głogowska Warszawa
-ul. Główna Warszawa
-ul. Głubczycka Warszawa
-ul. Głucha Warszawa
-ul. Głuszca Warszawa
-ul. Głuszycka Warszawa
-ul. Gniazdowska Warszawa
-ul. Gniewkowska Warszawa
-ul. Gnieźnieńska Warszawa
-ul. Gocławska Warszawa
-ul. Goczałkowicka Warszawa
-ul. Godlewska Warszawa
-ul. Godowska Warszawa
-ul. Godziszowska Warszawa
-ul. Gogolińska Warszawa
-ul. Goławicka Warszawa
-ul. Gołdapska Warszawa
-ul. Gołębia Warszawa
-ul. Golędzinowska Warszawa
-ul. Goleszowska Warszawa
-ul. Golfowa Warszawa
-ul. Gołkowska Warszawa
-ul. Gołuchowska Warszawa
-ul. Gontarska Warszawa
-ul. Goplańska Warszawa
-ul. Gorajska Warszawa
-ul. Góralska Warszawa
-ul. Goraszewska Warszawa
-ul. Górczewska Warszawa
-ul. Gorlicka Warszawa
-ul. Górna Warszawa
-ul. Górna Droga Warszawa
-ul. Górnośląska Warszawa
-ul. Górska Warszawa
-ul. Goryczkowa Warszawa
-ul. Gorzelnicza Warszawa
-ul. Gorzykowska Warszawa
-ul. Gościeradowska Warszawa
-ul. Gościniec Warszawa
-ul. Gościnna Warszawa
-ul. Gospodarcza Warszawa
-ul. Gostyńska Warszawa
-ul. Gotarda Warszawa
-ul. Gottlieba Daimlera Warszawa
-ul. Gotycka Warszawa
-ul. Goworka Warszawa
-ul. Goworowska Warszawa
-ul. Gozdawitów Warszawa
-ul. Goździków Warszawa
-ul. Grabalówki Warszawa
-ul. Grabowska Warszawa
-ul. Grafitowa Warszawa
-ul. Grajewska Warszawa
-ul. Graniczna Warszawa
-ul. Granitowa Warszawa
-ul. Granowska Warszawa
-ul. Grawerska Warszawa
-ul. Grażyny Warszawa
-ul. Grażyny Bacewiczówny Warszawa
-ul. Grębałowska Warszawa
-ul. Grecka Warszawa
-ul. Gremplarska Warszawa
-ul. Grenadierów Warszawa
-ul. Grenady Warszawa
-ul. Grobelska Warszawa
-ul. Grocholicka Warszawa
-ul. Grochowska Warszawa
-ul. Grodkowska Warszawa
-ul. Grodzieńska Warszawa
-ul. Grodzka Warszawa
-ul. Grójecka Warszawa
-ul. Gronowa Warszawa
-ul. Groszowicka Warszawa
-ul. Groteski Warszawa
-ul. Grotowska Warszawa
-ul. Gruchacza Warszawa
-ul. Gruntowa Warszawa
-ul. Grupy AK "Kampinos" Warszawa
-ul. Grupy AK "Północ" Warszawa
-ul. Gruszy Warszawa
-ul. Gruzińska Warszawa
-ul. Gryczana Warszawa
-ul. Gryfitów Warszawa
-ul. Grzegorza Fitelberga Warszawa
-ul. Grzybowa Warszawa
-ul. Grzybowska Warszawa
-ul. Grzymalitów Warszawa
-ul. Grzywaczy Warszawa
-ul. Gubinowska Warszawa
-ul. Guliwera Warszawa
-ul. Gułowska Warszawa
-ul. Guńki Warszawa
-ul. Gustawa Warszawa
-ul. Gustawa Daniłowskiego Warszawa
-ul. Guźca Warszawa
-ul. Gwardii Warszawa
-ul. Gwarków Warszawa
-ul. Gwiaździsta Warszawa
-ul. Gwintowa Warszawa
-ul. Gżegżółki Warszawa
-ul. Haczowska Warszawa
-ul. Hafciarska Warszawa
-ul. Hajduczka Warszawa
-ul. Hajnowska Warszawa
-ul. Hajoty Warszawa
-ul. Haliny Krahelskiej Warszawa
-ul. Halki Warszawa
-ul. Halna Warszawa
-ul. Handlowa Warszawa
-ul. Hanki Czaki Warszawa
-ul. Hansa Christiana Andersena Warszawa
-ul. Harcerska Warszawa
-ul. Harendy Warszawa
-ul. Harfowa Warszawa
-ul. Harmonistów Warszawa
-ul. Harnasie Warszawa
-ul. Haubicy Warszawa
-ul. Hawajska Warszawa
-ul. Hebanowa Warszawa
-ul. Hejnałowa Warszawa
-ul. Hektarowa Warszawa
-ul. Heleny Junkiewicz Warszawa
-ul. Heleny Kozłowskiej Warszawa
-ul. Heliotropów Warszawa
-ul. Heloizy Warszawa
-ul. Henryka Arctowskiego Warszawa
-ul. Henryka Barona Warszawa
-ul. Henryka Brodatego Warszawa
-ul. Henryka Dembińskiego Warszawa
-ul. Henryka Jędrzejowskiego Warszawa
-ul. Henryka Pobożnego Warszawa
-ul. Henryka Probusa Warszawa
-ul. Henryka Sienkiewicza Warszawa
-ul. Henrykowska Warszawa
-ul. Herakliusza Billewicza Warszawa
-ul. Herbaciana Warszawa
-ul. Herbowa Warszawa
-ul. Hermanowska Warszawa
-ul. Heroldów Warszawa
-ul. Hery Warszawa
-ul. Hetmańska Warszawa
-ul. Hiacyntowa Warszawa
-ul. Hieroglif Warszawa
-ul. Himalajska Warszawa
-ul. Hipolitowo Warszawa
-ul. Hipoteczna Warszawa
-ul. Hipotezy Warszawa
-ul. Hodowlana Warszawa
-ul. Holenderska Warszawa
-ul. Hołubcowa Warszawa
-ul. Homera Warszawa
-ul. Honoriusza Balzaka Warszawa
-ul. Horacego Warszawa
-ul. Horodelska Warszawa
-ul. Hortensji Warszawa
-ul. Hoserów Warszawa
-ul. Hoża Warszawa
-ul. Hrubieszowska Warszawa
-ul. Hucisko Warszawa
-ul. Huculska Warszawa
-ul. Huczna Warszawa
-ul. Hufcowa Warszawa
-ul. Humanistów Warszawa
-ul. Humańska Warszawa
-ul. Husarii Warszawa
-ul. Husarska Warszawa
-ul. Hutnicza Warszawa
-ul. Iberyjska Warszawa
-ul. Ibisa Warszawa
-ul. Igańska Warszawa
-ul. Iglasta Warszawa
-ul. Ignacego Domeyki Warszawa
-ul. Ignacego Krasickiego Warszawa
-ul. Ignacego Kruszewskiego Warszawa
-ul. Igrzyskowa Warszawa
-ul. III Poprzeczna Warszawa
-ul. II Poprzeczna Warszawa
-ul. II Rejonu AK Warszawa
-ul. Ikara Warszawa
-ul. Iłżecka Warszawa
-ul. Imbirowa Warszawa
-ul. Imielińska Warszawa
-ul. Improwizacji Warszawa
-ul. Indiry Gandhi Warszawa
-ul. Indycza Warszawa
-ul. Indyjska Warszawa
-ul. Inflancka Warszawa
-ul. Inna Warszawa
-ul. Inowłodzka Warszawa
-ul. Inowrocławska Warszawa
-ul. Inspektowa Warszawa
-ul. Instalatorów Warszawa
-ul. Instruktorska Warszawa
-ul. Instytutowa Warszawa
-ul. Insurekcji Warszawa
-ul. Internetowa Warszawa
-ul. Inżynierska Warszawa
-ul. Ireny Warszawa
-ul. Ireny Kosmowskiej Warszawa
-ul. Irlandzka Warszawa
-ul. Irminy Warszawa
-ul. Irydowa Warszawa
-ul. Irysów Warszawa
-ul. Irysowa Warszawa
-ul. Iskry Warszawa
-ul. IV Poprzeczna Warszawa
-ul. Iwicka Warszawa
-ul. Iwonicka Warszawa
-ul. IX Poprzeczna Warszawa
-ul. Izabelli Warszawa
-ul. Izbicka Warszawa
-ul. Izdebnicka Warszawa
-ul. Izerska Warszawa
-ul. Izoldy Warszawa
-ul. I Poprzeczna Warszawa
-ul. Jabłeczna Warszawa
-ul. Jabłoni Warszawa
-ul. Jachtowa Warszawa
-ul. Jacka i Agatki Warszawa
-ul. Jadowska Warszawa
-ul. Jadwigi i Witolda Kokoszków Warszawa
-ul. Jadźwingów Warszawa
-ul. Jagiellońska Warszawa
-ul. Jagielska Warszawa
-ul. Jagienki Warszawa
-ul. Jagny Warszawa
-ul. Jagodowa Warszawa
-ul. Jagody Warszawa
-ul. Jakobinów Warszawa
-ul. Jaktorowska Warszawa
-ul. Jakuba Jasińskiego Warszawa
-ul. Jakuba Kubickiego Warszawa
-ul. Jakubowska Warszawa
-ul. Jałowcowa Warszawa
-ul. Jałtańska Warszawa
-ul. Jamesa Gordona Bennetta Warszawa
-ul. Jamińska Warszawa
-ul. Jamki Warszawa
-ul. Jana Blatona Warszawa
-ul. Jana Brożka Warszawa
-ul. Jana Brzechwy Warszawa
-ul. Jana Bułhaka Warszawa
-ul. Jana Cybisa Warszawa
-ul. Jana Czeczota Warszawa
-ul. Jana Dantyszka Warszawa
-ul. Jana Długosza Warszawa
-ul. Jana Gawińskiego Warszawa
-ul. Jana Husa Warszawa
-ul. Jana III Sobieskiego Warszawa
-ul. Jana Jabłonowskiego Warszawa
-ul. Jana Jeziorańskiego Warszawa
-ul. Jana Karola Chodkiewicza Warszawa
-ul. Jana Kasprowicza Warszawa
-ul. Jana Kazimierza Warszawa
-ul. Jana Kędzierskiego Warszawa
-ul. Jana Kiepury Warszawa
-ul. Jana Kilińskiego Warszawa
-ul. Jana Kochanowskiego Warszawa
-ul. Jana Kossakowskiego Warszawa
-ul. Jana Kozietulskiego Warszawa
-ul. Jana Krysta Warszawa
-ul. Jana Matejki Warszawa
-ul. Jana Nowaka Jeziorańskiego Warszawa
-ul. Jana Olbrachta Warszawa
-ul. Jana Pawła II Warszawa
-ul. Jana Sebastiana Bacha Warszawa
-ul. Jana Zamoyskiego Warszawa
-ul. Janczarów Warszawa
-ul. Janinówka Warszawa
-ul. Janiszowska Warszawa
-ul. Janka Bytnara „Rudego” Warszawa
-ul. Janka Muzykanta Warszawa
-ul. Jankowska Warszawa
-ul. Janosika Warszawa
-ul. Janowiecka Warszawa
-ul. Jantar Warszawa
-ul. Jantarowy Szlak Warszawa
-ul. Janusza Groszkowskiego Warszawa
-ul. Janusza Korczaka Warszawa
-ul. Janusza Kusocińskiego Warszawa
-ul. Januszewska Warszawa
-ul. Jara Warszawa
-ul. Jarmużowa Warszawa
-ul. Jarocińska Warszawa
-ul. Jarosława Dąbrowskiego Warszawa
-ul. Jarosławska Warszawa
-ul. Jarząbków Warszawa
-ul. Jarzębinowa Warszawa
-ul. Jasielska Warszawa
-ul. Jasiniec Warszawa
-ul. Jaskółcza Warszawa
-ul. Jaskrów Warszawa
-ul. Jaśminowa Warszawa
-ul. Jasna Warszawa
-ul. Jasnodworska Warszawa
-ul. Jasnoty Warszawa
-ul. Jasówka Warszawa
-ul. Jaspisowa Warszawa
-ul. Jastrzębia Warszawa
-ul. Jastrzębowskiego Warszawa
-ul. Jaszczurcza Warszawa
-ul. Jaszowiecka Warszawa
-ul. Jaworowska Warszawa
-ul. Jaworzniaków Warszawa
-ul. Jaworzyńska Warszawa
-ul. Jazdów Warszawa
-ul. Jazgarzewska Warszawa
-ul. Jedlińska Warszawa
-ul. Jedwabnicka Warszawa
-ul. Jedwabnicza Warszawa
-ul. Jelenia Warszawa
-ul. Jeleniogórska Warszawa
-ul. Jemiołowa Warszawa
-ul. Jemiołuszki Warszawa
-ul. Jerzego Warszawa
-ul. Jerzego Bajana Warszawa
-ul. Jerzego Bukowskiego Warszawa
-ul. Jerzego Iwanowa-Szajnowicza Warszawa
-ul. Jerzego Kukuczki Warszawa
-ul. Jerzego Waldorffa Warszawa
-ul. Jerzyka Warszawa
-ul. Jesienna Warszawa
-ul. Jesiennych Liści Warszawa
-ul. Jesionowa Warszawa
-ul. Jesiotrowa Warszawa
-ul. Jeża Warszawa
-ul. Jeździecka Warszawa
-ul. Jeziorki Warszawa
-ul. Jeziorna Warszawa
-ul. Jeziorowa Warszawa
-ul. Jeżowa Warszawa
-ul. Jezuicka Warszawa
-ul. Jeżynowa Warszawa
-ul. Jodłowa Warszawa
-ul. Jontka Warszawa
-ul. Jordanowska Warszawa
-ul. Josepha Conrada Warszawa
-ul. Jowisza Warszawa
-ul. Józefa Antalla Warszawa
-ul. Józefa Balcerzaka Warszawa
-ul. Józefa Bellottiego Warszawa
-ul. Józefa Bema Warszawa
-ul. Józefa Brandta Warszawa
-ul. Józefa Chełmońskiego Warszawa
-ul. Józefa Chłopickiego Warszawa
-ul. Józefa Chmiela Warszawa
-ul. Józefa Ciszewskiego Warszawa
-ul. Józefa Czechowicza Warszawa
-ul. Józefa Dwernickiego Warszawa
-ul. Józefa Elsnera Warszawa
-ul. Józefa Garibaldiego Warszawa
-ul. Józefa Hauke-Bosaka Warszawa
-ul. Józefa Hoene-Wrońskiego Warszawa
-ul. Józefa Korzeniowskiego Warszawa
-ul. Józefa Kraszewskiego Warszawa
-ul. Józefa Szymańskiego Warszawa
-ul. Józefowska Warszawa
-ul. Jubilerska Warszawa
-ul. Jugosłowiańska Warszawa
-ul. Juhasów Warszawa
-ul. Juliana Bartoszewicza Warszawa
-ul. Juliana Bruna Warszawa
-ul. Juliana Ejsmonda Warszawa
-ul. Juliana Fałata Warszawa
-ul. Juliana Kulskiego Warszawa
-ul. Juliana Smulikowskiego Warszawa
-ul. Juliana Tuwima Warszawa
-ul. Juliana Ursyna Niemcewicza Warszawa
-ul. Julianowska Warszawa
-ul. Juliusa Fučika Warszawa
-ul. Juliusza Kaden-Bandrowskiego Warszawa
-ul. Juliusza Kossaka Warszawa
-ul. Juliusza Ordona Warszawa
-ul. Juliusza Słowackiego Warszawa
-ul. Junaków Warszawa
-ul. Juranda ze Spychowa Warszawa
-ul. Juraty Warszawa
-ul. Jurija Gagarina Warszawa
-ul. Justyny Budzyńskiej-Tylickiej Warszawa
-ul. Jutrzenki Warszawa
-ul. Kabacka Warszawa
-ul. Kabacki Dukt Warszawa
-ul. Kabaretowa Warszawa
-ul. Kabrioletu Warszawa
-ul. Kacpra Karlińskiego Warszawa
-ul. Kacza Warszawa
-ul. Kaczeńca Warszawa
-ul. Kaczorowa Warszawa
-ul. Kaczorowska Warszawa
-ul. Kaczy Dół Warszawa
-ul. Kadetów Warszawa
-ul. Kadrowa Warszawa
-ul. Kadryla Warszawa
-ul. Kądziołeczki Warszawa
-ul. Kaflowa Warszawa
-ul. Kajakowa Warszawa
-ul. Kajetana Garbińskiego Warszawa
-ul. Kajetana Koźmiana Warszawa
-ul. Kajetańska Warszawa
-ul. Kakaowa Warszawa
-ul. Kąkolewska Warszawa
-ul. Kąkolowa Warszawa
-ul. Kaktusowa Warszawa
-ul. Kalambur Warszawa
-ul. Kalatówki Warszawa
-ul. Kalendarzowa Warszawa
-ul. Kaleńska Warszawa
-ul. Kaletnicza Warszawa
-ul. Kalinowa Warszawa
-ul. Kalinowej Łąki Warszawa
-ul. Kalinowska Warszawa
-ul. Kaliska Warszawa
-ul. Kaliszówka Warszawa
-ul. Kaloryczna Warszawa
-ul. Kałuszyńska Warszawa
-ul. Kamasznicza Warszawa
-ul. Kamedulska Warszawa
-ul. Kameliowa Warszawa
-ul. Kameralna Warszawa
-ul. Kamienna Warszawa
-ul. Kamienne Schodki Warszawa
-ul. Kamionkowska Warszawa
-ul. Kampinoska Warszawa
-ul. Kamyk Warszawa
-ul. Kamykowa Warszawa
-ul. Kanadyjska Warszawa
-ul. Kanałowa Warszawa
-ul. Kanarkowa Warszawa
-ul. Kaniowska Warszawa
-ul. Kanonia Warszawa
-ul. Kanonierska Warszawa
-ul. Kapelanów Armii Krajowej Warszawa
-ul. Kapeli Warszawa
-ul. Kapelusznicza Warszawa
-ul. Kąpielowa Warszawa
-ul. Kapitańska Warszawa
-ul. Kapitulna Warszawa
-ul. Kaprys Warszawa
-ul. Kapucyńska Warszawa
-ul. Karabeli Warszawa
-ul. Karatowa Warszawa
-ul. Karczewska Warszawa
-ul. Karczocha Warszawa
-ul. Karczunkowska Warszawa
-ul. Kardynała Stanisława Hozjusza Warszawa
-ul. Karkonoska Warszawa
-ul. Karkonoszy Warszawa
-ul. Karla Warszawa
-ul. Karmazynowa Warszawa
-ul. Karmelicka Warszawa
-ul. Karminowa Warszawa
-ul. Karnawał Warszawa
-ul. Karnicka Warszawa
-ul. Karola Adamieckiego Warszawa
-ul. Karola Bohdanowicza Warszawa
-ul. Karola Borsuka Warszawa
-ul. Karola Darwina Warszawa
-ul. Karola Dickensa Warszawa
-ul. Karola Irzykowskiego Warszawa
-ul. Karola Kurpińskiego Warszawa
-ul. Karolinki Warszawa
-ul. Karolkowa Warszawa
-ul. Karolówka Warszawa
-ul. Karowa Warszawa
-ul. Karpacka Warszawa
-ul. Karska Warszawa
-ul. Kartaginy Warszawa
-ul. Kartezjusza Warszawa
-ul. Kartograficzna Warszawa
-ul. Kartonowa Warszawa
-ul. Karuzela Warszawa
-ul. Karwińska Warszawa
-ul. Kąsek Warszawa
-ul. Kasjopei Warszawa
-ul. Kaskadowa Warszawa
-ul. Kaśki Kariatydy Warszawa
-ul. Kaspijska Warszawa
-ul. Kasprzaka Warszawa
-ul. Kasztanowa Warszawa
-ul. Kaszubska Warszawa
-ul. Katalogowa Warszawa
-ul. Katalońska Warszawa
-ul. Katarynki Warszawa
-ul. Katiuszy Warszawa
-ul. Kątna Warszawa
-ul. Kątowa Warszawa
-ul. Katowicka Warszawa
-ul. Kąty Grodziskie Warszawa
-ul. Kaukaska Warszawa
-ul. Kawalerii Warszawa
-ul. Kawcza Warszawa
-ul. Kawęczyńska Warszawa
-ul. Kazachska Warszawa
-ul. Kazimierza Brodzińskiego Warszawa
-ul. Kazimierza Deyny Warszawa
-ul. Kazimierza Drewnowskiego Warszawa
-ul. Kazimierza Gierdziejewskiego Warszawa
-ul. Kazimierza Grodeckiego Warszawa
-ul. Kazimierza Jagiellończyka Warszawa
-ul. Kazimierza Jeżewskiego Warszawa
-ul. Kazimierza Karasia Warszawa
-ul. Kazimierza Kuratowskiego Warszawa
-ul. Kazimierza Odnowiciela Warszawa
-ul. Kazimierza Sprawiedliwego Warszawa
-ul. Kazimierza Wielkiego Warszawa
-ul. Kazimierzowska Warszawa
-ul. Kazita Warszawa
-ul. Kazubów Warszawa
-ul. Kazuńska Warszawa
-ul. Kędzierzyńska Warszawa
-ul. Kępa Tarchomińska Warszawa
-ul. Kępna Warszawa
-ul. Ketlinga Warszawa
-ul. Kibiców Warszawa
-ul. Kiejstuta Warszawa
-ul. Kielecka Warszawa
-ul. Kiełpińska Warszawa
-ul. Kiermaszowa Warszawa
-ul. Kijowska Warszawa
-ul. Kinetyczna Warszawa
-ul. Kingi Warszawa
-ul. Kinowa Warszawa
-ul. Kiprów Warszawa
-ul. Kirasjerów Warszawa
-ul. Kircholmska Warszawa
-ul. Kisielicka Warszawa
-ul. Kiwerska Warszawa
-ul. Klamrowa Warszawa
-ul. Klarnecistów Warszawa
-ul. Klarysewska Warszawa
-ul. Klasyków Warszawa
-ul. Klasztorna Warszawa
-ul. Klaudyny Warszawa
-ul. Klecka Warszawa
-ul. Kleczewska Warszawa
-ul. Klembowska Warszawa
-ul. Klementowicka Warszawa
-ul. Klementyny Hoffmanowej Warszawa
-ul. Kleopatry Warszawa
-ul. Kleszczowa Warszawa
-ul. Klimatyczna Warszawa
-ul. Klimontowska Warszawa
-ul. Kłobucka Warszawa
-ul. Kłodawska Warszawa
-ul. Kłodzka Warszawa
-ul. Klonowa Warszawa
-ul. Kłopot Warszawa
-ul. Kłosowa Warszawa
-ul. Klubowa Warszawa
-ul. Kluczborska Warszawa
-ul. Kluczowa Warszawa
-ul. Klukowska Warszawa
-ul. Kmicica Warszawa
-ul. Kminkowa Warszawa
-ul. Kniei Warszawa
-ul. Knyszyńska Warszawa
-ul. Kobielska Warszawa
-ul. Kobierzycka Warszawa
-ul. Kobryńska Warszawa
-ul. Kobuza Warszawa
-ul. Kobylańska Warszawa
-ul. Kobzy Warszawa
-ul. Kociszewskich Warszawa
-ul. Kocka Warszawa
-ul. Kogucia Warszawa
-ul. Kokarda Warszawa
-ul. Kokoryczki Warszawa
-ul. Kokosowa Warszawa
-ul. Kołacińska Warszawa
-ul. Kolady Warszawa
-ul. Kolarska Warszawa
-ul. Kolbaczewska Warszawa
-ul. Kołczana Warszawa
-ul. Kolegiacka Warszawa
-ul. Kolejarska Warszawa
-ul. Kolejowa Warszawa
-ul. Kolektorska Warszawa
-ul. Kolendrowa Warszawa
-ul. Kolibrów Warszawa
-ul. Kolista Warszawa
-ul. Kolneńska Warszawa
-ul. Kołobrzeska Warszawa
-ul. Kołodziejska Warszawa
-ul. Kolorowa Warszawa
-ul. Kołowa Warszawa
-ul. Kolska Warszawa
-ul. Kolumbijska Warszawa
-ul. Kombajnistów Warszawa
-ul. Kominiarska Warszawa
-ul. Komorowska Warszawa
-ul. Komorska Warszawa
-ul. Kompanii Kordian Warszawa
-ul. Kompasowa Warszawa
-ul. Komputerowa Warszawa
-ul. Komunardów Warszawa
-ul. Konarowa Warszawa
-ul. Koncertowa Warszawa
-ul. Kondracka Warszawa
-ul. Konduktorska Warszawa
-ul. Konewki Warszawa
-ul. Koniczynowa Warszawa
-ul. Koniecpolska Warszawa
-ul. Konińska Warszawa
-ul. Konopacka Warszawa
-ul. Konopna Warszawa
-ul. Konotopska Warszawa
-ul. Konrada Guderskiego Warszawa
-ul. Koński Jar Warszawa
-ul. Konstancińska Warszawa
-ul. Konstantego Ciołkowskiego Warszawa
-ul. Konstantego Ildefonsa Gałczyńskiego Warszawa
-ul. Konstruktorska Warszawa
-ul. Konturowa Warszawa
-ul. Kontuszowa Warszawa
-ul. Konwaliowa Warszawa
-ul. Konwiktorska Warszawa
-ul. Konwisarska Warszawa
-ul. Kopalniana Warszawa
-ul. Kopernika Warszawa
-ul. Kopijników Warszawa
-ul. Kopińska Warszawa
-ul. Koprowa Warszawa
-ul. Koprzywiańska Warszawa
-ul. Koralowa Warszawa
-ul. Korczyńska Warszawa
-ul. Kordiana Warszawa
-ul. Koreańska Warszawa
-ul. Korkowa Warszawa
-ul. Kormoranów Warszawa
-ul. Kórnicka Warszawa
-ul. Koronacyjna Warszawa
-ul. Koronowska Warszawa
-ul. Korowodu Warszawa
-ul. Korsarska Warszawa
-ul. Korsuńska Warszawa
-ul. Korsykańska Warszawa
-ul. Koryncka Warszawa
-ul. Korytnicka Warszawa
-ul. Korzenna Warszawa
-ul. Korzystna Warszawa
-ul. Kosaćcowa Warszawa
-ul. Kośby Warszawa
-ul. Kościańska Warszawa
-ul. Kościeliska Warszawa
-ul. Kościelna Warszawa
-ul. Kościerska Warszawa
-ul. Kościeszów Warszawa
-ul. Kościuszki Warszawa
-ul. Kościuszkowców Warszawa
-ul. Kosiarzy Warszawa
-ul. Kosmatki Warszawa
-ul. Kosmosu Warszawa
-ul. Kosobudzka Warszawa
-ul. Kosodrzewiny Warszawa
-ul. Kostrzyńska Warszawa
-ul. Kosynierów Warszawa
-ul. Koszalińska Warszawa
-ul. Koszęcińska Warszawa
-ul. Koszycka Warszawa
-ul. Koszykarska Warszawa
-ul. Koszykowa Warszawa
-ul. Kotlarska Warszawa
-ul. Kotwiczna Warszawa
-ul. Kotylion Warszawa
-ul. Kowelska Warszawa
-ul. Kowieńska Warszawa
-ul. Kozia Warszawa
-ul. Kozia Górka Warszawa
-ul. Kozielska Warszawa
-ul. Koziorożca Warszawa
-ul. Koźla Warszawa
-ul. Koźlaków Warszawa
-ul. Kozłowicka Warszawa
-ul. Koźmińska Warszawa
-ul. Kożuchowska Warszawa
-ul. Krajeńska Warszawa
-ul. Krakowiaków Warszawa
-ul. Krakowskie Przedmieście Warszawa
-ul. Krakusa Warszawa
-ul. Kramarska Warszawa
-ul. Krańcowa Warszawa
-ul. Krasiczyńska Warszawa
-ul. Kraski Warszawa
-ul. Kraśnicka Warszawa
-ul. Krasnobrodzka Warszawa
-ul. Krasnołęcka Warszawa
-ul. Krasnoludków Warszawa
-ul. Krasnowolska Warszawa
-ul. Krawiecka Warszawa
-ul. Krechowiecka Warszawa
-ul. Kredytowa Warszawa
-ul. Kremowa Warszawa
-ul. Kresowa Warszawa
-ul. Kręta Warszawa
-ul. Kretonowa Warszawa
-ul. Krobińska Warszawa
-ul. Krochmalna Warszawa
-ul. Kroczewska Warszawa
-ul. Krokusów Warszawa
-ul. Krokwi Warszawa
-ul. Króla Artura Warszawa
-ul. Króla Kazimierza Warszawa
-ul. Króla Maciusia Warszawa
-ul. Królewicza Aleksandra Warszawa
-ul. Królewicza Jakuba Warszawa
-ul. Królewska Warszawa
-ul. Królowej Aldony Warszawa
-ul. Królowej Jadwigi Warszawa
-ul. Królowej Marysieńki Warszawa
-ul. Królów Polskich Warszawa
-ul. Kronikarska Warszawa
-ul. Krośniewicka Warszawa
-ul. Krótka Warszawa
-ul. Krotoszyńska Warszawa
-ul. Krowia Warszawa
-ul. Króżańska Warszawa
-ul. Krucza Warszawa
-ul. Krupnicza Warszawa
-ul. Kruszwicka Warszawa
-ul. Kruszyńska Warszawa
-ul. Kruszyny Warszawa
-ul. Krymska Warszawa
-ul. Kryniczna Warszawa
-ul. Krynoliny Warszawa
-ul. Krypska Warszawa
-ul. Kryształowa Warszawa
-ul. Krzesanego Warszawa
-ul. Krzesiwa Warszawa
-ul. Krzewna Warszawa
-ul. Krzysztofa Arciszewskiego Warszawa
-ul. Krzysztofa Kamila Baczyńskiego Warszawa
-ul. Krzysztofa Kiersnowskiego Warszawa
-ul. Krzysztofa Kieślowskiego Warszawa
-ul. Krzysztofa Klenczona Warszawa
-ul. Krzysztofa Kolumba Warszawa
-ul. Krzysztofa Komedy Warszawa
-ul. Krzywa Warszawa
-ul. Krzywe Koło Warszawa
-ul. Krzywińska Warszawa
-ul. Krzywopoboczna Warszawa
-ul. Ksawerego Bronikowskiego Warszawa
-ul. Książęca Warszawa
-ul. Książkowa Warszawa
-ul. Księcia Bolesława Warszawa
-ul. Księcia Janusza Warszawa
-ul. Księcia Trojdena Warszawa
-ul. Księcia Witolda Warszawa
-ul. Księcia Ziemowita Warszawa
-ul. księdza Biskupa Juliusza Burschego Warszawa
-ul. Księdza Ignacego Kłopotowskiego Warszawa
-ul. Księdza Ignacego Skorupki Warszawa
-ul. Księdza Jerzego Popiełuszki Warszawa
-ul. Księdza Juliana Chrościckiego Warszawa
-ul. Księdza Skorupki Warszawa
-ul. Księdza Teofila Boguckiego Warszawa
-ul. Księgarzy Warszawa
-ul. Księżnej Anny Warszawa
-ul. Księżycowa Warszawa
-ul. Kubańska Warszawa
-ul. Kubusia Puchatka Warszawa
-ul. Kudowska Warszawa
-ul. Kuflewska Warszawa
-ul. Kuglarska Warszawa
-ul. Kujawska Warszawa
-ul. Kukiełki Warszawa
-ul. Kukułki Warszawa
-ul. Kulczycka Warszawa
-ul. Kuligowska Warszawa
-ul. Kuniecka Warszawa
-ul. Kuny Warszawa
-ul. Kupiecka Warszawa
-ul. Kuracyjna Warszawa
-ul. Kurantów Warszawa
-ul. Kurhan Warszawa
-ul. Kurkowa Warszawa
-ul. Kuropatwy Warszawa
-ul. Kurpiowska Warszawa
-ul. Kurzawska Warszawa
-ul. Kuszników Warszawa
-ul. Kutnowska Warszawa
-ul. Kutrzeby Warszawa
-ul. Kuźnicy Kołłątajowskiej Warszawa
-ul. Ku Wiśle Warszawa
-ul. Kwarciana Warszawa
-ul. Kwatery Głównej Warszawa
-ul. Kwiatowa Warszawa
-ul. Kwiatów Polnych Warszawa
-ul. Kwiatów Polskich Warszawa
-ul. Kwidzyńska Warszawa
-ul. Kwitnąca Warszawa
-ul. Kwitnącego Sadu Warszawa
-ul. Kwitnącej Akacji Warszawa
-ul. Kwitnącej Łąki Warszawa
-ul. Kwitnącej Wiśni Warszawa
-ul. Łagodna Warszawa
-ul. Lajosa Kossutha Warszawa
-ul. Lakowa Warszawa
-ul. Lanciego Warszawa
-ul. Lasek Brzozowy Warszawa
-ul. Lawendowa Warszawa
-ul. Lechicka Warszawa
-ul. Lekarska Warszawa
-ul. Leonarda Buczkowskiego Warszawa
-ul. Leona Berensona Warszawa
-ul. Leona Kruczkowskiego Warszawa
-ul. Leonidasa Warszawa
-ul. Leśna Warszawa
-ul. Leszczynowa Warszawa
-ul. Leszno Warszawa
-ul. Letnia Warszawa
-ul. Lewicka Warszawa
-ul. Limby Warszawa
-ul. Lipowa Warszawa
-ul. Liryczna Warszawa
-ul. Literacka Warszawa
-ul. Lokalna Warszawa
-ul. Londyńska Warszawa
-ul. Lotnicza Warszawa
-ul. Łucka Warszawa
-ul. Ludwika Hirszfelda Warszawa
-ul. Ludwika Idzikowskiego Warszawa
-ul. Ludwika Kickiego Warszawa
-ul. Ludwika Kondratowicza Warszawa
-ul. Ludwika Krzywickiego Warszawa
-ul. Ludwika Rydygiera Warszawa
-ul. Ludwika van Beethovena Warszawa
-ul. Ludwika Waryńskiego Warszawa
-ul. Ludwinowska Warszawa
-ul. Łukasza Drewny Warszawa
-ul. Łukasza Gołębiowskiego Warszawa
-ul. Łukasza Górnickiego Warszawa
-ul. Macieja Kamieńskiego Warszawa
-ul. Macierzanki Warszawa
-ul. Magnolii Warszawa
-ul. Mahatmy Gandhiego Warszawa
-ul. Majora Franciszka M. Amałowicza „Tatara” Warszawa
-ul. Majowa Warszawa
-ul. Maksymiliana Hubera Warszawa
-ul. Mała Warszawa
-ul. Malachitowa Warszawa
-ul. Malinowa Warszawa
-ul. Mangalia Warszawa
-ul. Marcelego Bacciarellego Warszawa
-ul. Marcina Bielskiego Warszawa
-ul. Marcina Flisa Warszawa
-ul. Marcina Kątskiego Warszawa
-ul. Marcina Kromera Warszawa
-ul. Mariana Falskiego Warszawa
-ul. Mariana Keniga Warszawa
-ul. Mariana Krawczyka Warszawa
-ul. Mariana Pisarka Warszawa
-ul. Mariensztat Warszawa
-ul. Marii Bohuszewiczówny Warszawa
-ul. Marii Dąbrowskiej Warszawa
-ul. Marii Grzegorzewskiej Warszawa
-ul. Marii Jasnorzewskiej Warszawa
-ul. Marii Konopnickiej Warszawa
-ul. Marii Ludwiki Gonzagi Warszawa
-ul. Marii Rodziewiczówny Warszawa
-ul. Marii Skłodowskiej-Curie Warszawa
-ul. Marka Hłaski Warszawa
-ul. Markowska Warszawa
-ul. Marmurowa Warszawa
-ul. Marszałkowska Warszawa
-ul. Marymoncka Warszawa
-ul. Marywilska Warszawa
-ul. Maślaków Warszawa
-ul. Matuszewska Warszawa
-ul. Mazowiecka Warszawa
-ul. Melchiora Wańkowicza Warszawa
-ul. Metro Wierzbno Warszawa
-ul. Michała Andriollego Warszawa
-ul. Michała Bałuckiego Warszawa
-ul. Michała Drzymały Warszawa
-ul. Michała Faradaya Warszawa
-ul. Michała Kajki Warszawa
-ul. Michała Spisaka Warszawa
-ul. Mieczysława Fersta Warszawa
-ul. Mieczysława Frenkla Warszawa
-ul. Mieczysława Karłowicza Warszawa
-ul. Mieczysława Słowikowskiego Warszawa
-ul. Miedziana Warszawa
-ul. Międzynarodowa Warszawa
-ul. Międzyparkowa Warszawa
-ul. Mikołaja Drygały Warszawa
-ul. Mikołaja Gomółki Warszawa
-ul. Mikołaja Kopernika Warszawa
-ul. Mikołaja Reja Warszawa
-ul. Mikołajska Warszawa
-ul. Miła Warszawa
-ul. Minerska Warszawa
-ul. Miodowa Warszawa
-ul. Młodzieńcza Warszawa
-ul. Młynarska Warszawa
-ul. Modlińska Warszawa
-ul. Modrzewiowa Warszawa
-ul. Mokotowska Warszawa
-ul. Mokra Warszawa
-ul. Mołdawska Warszawa
-ul. Mordechaja Anielewicza Warszawa
-ul. Morelowa Warszawa
-ul. Mszczonowska Warszawa
-ul. Muranowska Warszawa
-ul. Myśliwiecka Warszawa
-ul. Napoleona Bonaparte Warszawa
-ul. Natalii Gąsiorowskiej Warszawa
-ul. Na Grobli Warszawa
-ul. Nefrytowa Warszawa
-ul. Nizinna Warszawa
-ul. Norberta Barlickiego Warszawa
-ul. Nowa Warszawa
-ul. Nowogrodzka Warszawa
-ul. Nowomiejska Warszawa
-ul. Nowoursynowska Warszawa
-ul. Nowy Świat Warszawa
-ul. Obiegowa Warszawa
-ul. Objazdowa Warszawa
-ul. Oboźna Warszawa
-ul. Obozowa Warszawa
-ul. Odolańska Warszawa
-ul. Odrębna Warszawa
-ul. Ogrodowa Warszawa
-ul. Okopowa Warszawa
-ul. Okrężna Warszawa
-ul. Okuniewska Warszawa
-ul. Olchy Warszawa
-ul. Olgi Boznańskiej Warszawa
-ul. Omulewska Warszawa
-ul. Orla Warszawa
-ul. Orzechowa Warszawa
-ul. Oskara Kolberga Warszawa
-ul. Ossowska Warszawa
-ul. Ostrobramska Warszawa
-ul. Ostródzka Warszawa
-ul. Oszmiańska Warszawa
-ul. Otwocka Warszawa
-ul. Pańska Warszawa
-ul. Parkowa Warszawa
-ul. Patriotów Warszawa
-ul. Perłowa Warszawa
-ul. Piaskowa Warszawa
-ul. Piastowska Warszawa
-ul. Piękna Warszawa
-ul. Pionierów Warszawa
-ul. Piotra Bardowskiego Warszawa
-ul. Piotra Gruszczyńskiego Warszawa
-ul. Piotra Skargi Warszawa
-ul. plac Dąbrowskiego Warszawa
-ul. plac Konstytucji Warszawa
-ul. plac Tadeusza Kotarbińskiego Warszawa
-ul. plac Trzech Krzyży Warszawa
-ul. plac Zamkowy Warszawa
-ul. Platynowa Warszawa
-ul. Płochocińska Warszawa
-ul. Płowiecka Warszawa
-ul. Plutonowego Jerzego Ciećwierza Warszawa
-ul. Podbipięty Warszawa
-ul. Podleśna Warszawa
-ul. Podpułkownika Zbigniewa Stanisława Kiedacza Warszawa
-ul. Podskarbińska Warszawa
-ul. Podwale Warszawa
-ul. Poezji Warszawa
-ul. Pogodna Warszawa
-ul. Połczyńska Warszawa
-ul. Poleczki Warszawa
-ul. Poli Gojawiczyńskiej Warszawa
-ul. Polna Warszawa
-ul. Południowa Warszawa
-ul. Porostowa Warszawa
-ul. Powstańców Śląskich Warszawa
-ul. Poziomkowa Warszawa
-ul. Poznańska Warszawa
-ul. Promienna Warszawa
-ul. Prosta Warszawa
-ul. Przechodnia Warszawa
-ul. Przejazdowa Warszawa
-ul. Przekorna Warszawa
-ul. Przeworska Warszawa
-ul. Przyce Warszawa
-ul. Przyleśna Warszawa
-ul. Ptasia Warszawa
-ul. Pułaskiego Warszawa
-ul. Puławska Warszawa
-ul. Pułkownika Zoltána Baló Warszawa
-ul. Racławicka Warszawa
-ul. Radarowa Warszawa
-ul. Radna Warszawa
-ul. Radosna Warszawa
-ul. Raduńska Warszawa
-ul. Rafała Krajewskiego Warszawa
-ul. Regulska Warszawa
-ul. Roalda Amundsena Warszawa
-ul. Robotnicza Warszawa
-ul. Rodziny Połanieckich Warszawa
-ul. Rogalińska Warszawa
-ul. Rolna Warszawa
-ul. Romualda Gutta Warszawa
-ul. Romualda Mielczarskiego Warszawa
-ul. rondo Dmowskiego Warszawa
-ul. Rosy Bailly Warszawa
-ul. Równa Warszawa
-ul. Różana Warszawa
-ul. Rubinowa Warszawa
-ul. Rumiana Warszawa
-ul. Rumiankowa Warszawa
-ul. rynek Starego Miasta Warszawa
-ul. Rysia Warszawa
-ul. Ryżowa Warszawa
-ul. Rzemieślnicza Warszawa
-ul. Sabały Warszawa
-ul. Sadowa Warszawa
-ul. Sałatkowa Warszawa
-ul. Salvadora Dali Warszawa
-ul. Sandomierska Warszawa
-ul. Sarenki Warszawa
-ul. Sasanki Warszawa
-ul. Saska Warszawa
-ul. Sebastiana Klonowica Warszawa
-ul. Sękocińska Warszawa
-ul. Senatorska Warszawa
-ul. Seweryna Goszczyńskiego Warszawa
-ul. Seweryna Krzyżanowskiego Warszawa
-ul. Sewerynów Warszawa
-ul. Sienna Warszawa
-ul. Siennicka Warszawa
-ul. Skalbmierska Warszawa
-ul. Skarbka z Gór Warszawa
-ul. Skaryszewska Warszawa
-ul. Skibicka Warszawa
-ul. Skierniewicka Warszawa
-ul. skwer Adolfa Marii Bocheńskiego Warszawa
-ul. skwer Kardynała Stefana Wyszyńskiego Warszawa
-ul. skwer Pułkownika Zdzisława Kuźmirskiego-Pacaka Warszawa
-ul. Śliska Warszawa
-ul. Słomczyńska Warszawa
-ul. Słoneczna Warszawa
-ul. Słowicza Warszawa
-ul. Śmiała Warszawa
-ul. Smocza Warszawa
-ul. Smolna Warszawa
-ul. Smyczkowa Warszawa
-ul. Śnieżna Warszawa
-ul. Sójki Warszawa
-ul. Solec Warszawa
-ul. Sonaty Warszawa
-ul. Sosnowa Warszawa
-ul. Sosnowiecka Warszawa
-ul. Spacerowa Warszawa
-ul. Spokojna Warszawa
-ul. Spółdzielcza Warszawa
-ul. Sportowa Warszawa
-ul. Środkowa Warszawa
-ul. Stanisława Barcewicza Warszawa
-ul. Stanisława Barei Warszawa
-ul. Stanisława Chudoby Warszawa
-ul. Stanisława Dąbka Warszawa
-ul. Stanisława Dubois Warszawa
-ul. Stanisława Fiszera Warszawa
-ul. Stanisława Grochowiaka Warszawa
-ul. Stanisława Grzesiuka Warszawa
-ul. Stanisława Hempla Warszawa
-ul. Stanisława Herbsta Warszawa
-ul. Stanisława Jachowicza Warszawa
-ul. Stanisława Jagmina Warszawa
-ul. Stanisława Kazury Warszawa
-ul. Stanisława Kierbedzia Warszawa
-ul. Stanisława Konarskiego Warszawa
-ul. Stanisława Kostki Potockiego Warszawa
-ul. Stanisława Krupki Warszawa
-ul. Stanisława Kulczyńskiego Warszawa
-ul. Stanisława Kunickiego Warszawa
-ul. Stanisława Ligonia Warszawa
-ul. Stanisława Moniuszki Warszawa
-ul. Stanisława Przybyszewskiego Warszawa
-ul. Stanisława Staszica Warszawa
-ul. Stanisława Żółkiewskiego Warszawa
-ul. Stefana Baleya Warszawa
-ul. Stefana Banacha Warszawa
-ul. Stefana Batorego Warszawa
-ul. Stefana Berenta Warszawa
-ul. Stefana Bobrowskiego Warszawa
-ul. Stefana Bryły Warszawa
-ul. Stefana Czarnieckiego Warszawa
-ul. Stefana Dembego Warszawa
-ul. Stefana Drzewieckiego Warszawa
-ul. Stefana Hankiewicza Warszawa
-ul. Stefana Jaracza Warszawa
-ul. Stefana Kopcińskiego Warszawa
-ul. Stefana Starzyńskiego Warszawa
-ul. Stefana Żeromskiego Warszawa
-ul. Sternicza Warszawa
-ul. Stokrotki Warszawa
-ul. Stryjeńskich Warszawa
-ul. św. Franciszka Salezego Warszawa
-ul. św. Maksymiliana Kolbego Warszawa
-ul. Świderska Warszawa
-ul. Świebodzińska Warszawa
-ul. Świerkowa Warszawa
-ul. Świerszcza Warszawa
-ul. Świętych Cyryla i Metodego Warszawa
-ul. Sylwestra Bartosika Warszawa
-ul. Sylwestra Kaliskiego Warszawa
-ul. Szafirowa Warszawa
-ul. Szarych Szeregów Warszawa
-ul. Szczepana Grzeszczyka Warszawa
-ul. Szeroka Warszawa
-ul. Szklarniowa Warszawa
-ul. Szkolna Warszawa
-ul. Szlachecka Warszawa
-ul. Szmaragdowa Warszawa
-ul. Szymona Askenazego Warszawa
-ul. Szyszkowa Warszawa
-ul. Tadeusza Borowskiego Warszawa
-ul. Tadeusza Boya-Żeleńskiego Warszawa
-ul. Tadeusza Czackiego Warszawa
-ul. Tadeusza Gajcego Warszawa
-ul. Tadeusza Hennela Warszawa
-ul. Tadeusza Hołówki Warszawa
-ul. Tadeusza Joteyki Warszawa
-ul. Tadeusza Korsaka Warszawa
-ul. Tadeusza Korzona Warszawa
-ul. Tadeusza Kościuszki Warszawa
-ul. Tadeusza Krępowieckiego Warszawa
-ul. Tadeusza Kulisiewicza Warszawa
-ul. Tadeusza Rejtana Warszawa
-ul. Tamka Warszawa
-ul. Tarczyńska Warszawa
-ul. Targowa Warszawa
-ul. Tęczowa Warszawa
-ul. Telimeny Warszawa
-ul. Teodora Axentowicza Warszawa
-ul. Teodora Duracza Warszawa
-ul. Teofila Jaśkiewicza Warszawa
-ul. Tomasza Edisona Warszawa
-ul. Topazowa Warszawa
-ul. Topiel Warszawa
-ul. Topolowa Warszawa
-ul. Torfowa Warszawa
-ul. Towarowa Warszawa
-ul. Trakt Brzeski (Wesoła) Warszawa
-ul. Trakt Lubelski Warszawa
-ul. Transportowców Warszawa
-ul. Turkusowa Warszawa
-ul. Tylmana Gamerskiego Warszawa
-ul. Tymiankowa Warszawa
-ul. Tytusa Chałubińskiego Warszawa
-ul. Ułańska Warszawa
-ul. Ulica Adriatycka Warszawa
-ul. Ulica Dezyderego Adama Chłapowskiego Warszawa
-ul. Ulica Złota Warszawa
-ul. Urocza Warszawa
-ul. Wacława Borowego Warszawa
-ul. Wacława Gąsiorowskiego Warszawa
-ul. Wacława Lachmana Warszawa
-ul. Waligóry Warszawa
-ul. Wallenroda Warszawa
-ul. Wał Miedzeszyński Warszawa
-ul. Wapienna Warszawa
-ul. Warecka Warszawa
-ul. Warszawska Warszawa
-ul. Wąska Warszawa
-ul. Wąski Dunaj Warszawa
-ul. Wawelska Warszawa
-ul. Wawerska Warszawa
-ul. Wenantego Burdzińskiego Warszawa
-ul. Wespazjana Kochowskiego Warszawa
-ul. Weteranów Warszawa
-ul. Widok Warszawa
-ul. Wiejska Warszawa
-ul. Wiertnicza Warszawa
-ul. Wierzbowa Warszawa
-ul. Wikingów Warszawa
-ul. Wiktora Gomulickiego Warszawa
-ul. Wiktorii Kaweckiej Warszawa
-ul. Wilcza Warszawa
-ul. Wileńska Warszawa
-ul. Wilhelma Konrada Roentgena Warszawa
-ul. Wincentego Kadłubka Warszawa
-ul. Wincentego Rzymowskiego Warszawa
-ul. Wincentego Witosa Warszawa
-ul. Wiosenna Warszawa
-ul. Wiślana Warszawa
-ul. Wiśniowa Warszawa
-ul. Wita Stwosza Warszawa
-ul. Witolda Doroszewskiego Warszawa
-ul. Witolda Gombrowicza Warszawa
-ul. Władysława Bandurskiego Warszawa
-ul. Władysława Bełzy Warszawa
-ul. Władysława Bieńczaka Warszawa
-ul. Władysława Broniewskiego Warszawa
-ul. Władysława Hańczy Warszawa
-ul. Władysława Hassa Warszawa
-ul. Władysława Jana Grabskiego Warszawa
-ul. Władysława Korotyńskiego Warszawa
-ul. Władysława Syrokomli Warszawa
-ul. Włodzimierza Dolańskiego Warszawa
-ul. Włodzimierza Kołosa Warszawa
-ul. Wojciecha Bogusławskiego Warszawa
-ul. Wojciecha Chrzanowskiego Warszawa
-ul. Wojciecha Gersona Warszawa
-ul. Wojciecha Górskiego Warszawa
-ul. Wojciecha Korfantego Warszawa
-ul. Wolność Warszawa
-ul. Wołodyjowskiego Warszawa
-ul. Wołoska Warszawa
-ul. Wolska Warszawa
-ul. Wrzosowa Warszawa
-ul. Wschodnia Warszawa
-ul. Współczesna Warszawa
-ul. Wspólna Warszawa
-ul. Wybrzeże Helskie Warszawa
-ul. Wybrzeże Szczecińskie Warszawa
-ul. Wycieczka Warszawa
-ul. Xawerego Dunikowskiego Warszawa
-ul. Zaciszna Warszawa
-ul. Zagajnikowa Warszawa
-ul. Zagórna Warszawa
-ul. Zajęcza Warszawa
-ul. Zakątek Warszawa
-ul. Zakopiańska Warszawa
-ul. Zapiecek Warszawa
-ul. Zaułek Warszawa
-ul. Zbigniewa Burzyńskiego Warszawa
-ul. Zbigniewa Gęsickiego Warszawa
-ul. Zbigniewa Gęsickiego "Juno" Warszawa
-ul. Zbiorowa Warszawa
-ul. Zbyszka Cybulskiego Warszawa
-ul. Zdrojowa Warszawa
-ul. Żeglarska Warszawa
-ul. Żelazna Warszawa
-ul. Zenona Klemensiewicza Warszawa
-ul. Zgoda Warszawa
-ul. Złotej Jesieni Warszawa
-ul. Żołny Warszawa
-ul. Źródlana Warszawa
-ul. Żurawia Warszawa
-ul. Żwirki i Wigury Warszawa
-ul. Zwoleńska Warszawa
-ul. Zwycięzców Warszawa
-ul. Zygmunta Glogera Warszawa
-ul. Zygmunta Jórskiego Warszawa
-ul. Zygmunta Krasińskiego Warszawa
-ul. Zygmunta Słomińskiego Warszawa
-ul. Żytnia Warszawa
-ul. Żywiczna Warszawa
+ul. 11 Listopada 
+ul. 15 Sierpnia 
+ul. 17 Stycznia 
+ul. 1 Maja 
+ul. 1 Praskiego Pułku 
+ul. 1 Praskiego Pułku (Wesoła) 
+ul. 1 Sierpnia 
+ul. 20 Dywizji Piechoty Wojska Polskiego 
+ul. 21 Pułku Piechoty Dzieci Warszawy 
+ul. 27 Grudnia 
+ul. 29 Listopada 
+ul. 2 Armii Wojska Polskiego 
+ul. 36 Pułku Piechoty Legii Akademickiej 
+ul. 3 Maja 
+ul. 6 Sierpnia 
+ul. Abecadło 
+ul. Achillesa 
+ul. Adama Asnyka 
+ul. Adama Branickiego 
+ul. Adama Ciołkosza 
+ul. Adama Idźkowskiego 
+ul. Adama Jarzębskiego 
+ul. Adama Mickiewicza 
+ul. Adampolska 
+ul. Admiralska 
+ul. Adolfa Dygasińskiego 
+ul. Afrodyty 
+ul. Afrykańska 
+ul. Agatowa 
+ul. Agawy 
+ul. Agnieszki 
+ul. Agrarna 
+ul. Agrestowa 
+ul. Agrykola 
+ul. Akacjowa 
+ul. Akademicka 
+ul. Akantu 
+ul. Akcent 
+ul. Akermańska 
+ul. Aksamitna 
+ul. Aktorska 
+ul. Akurat 
+ul. Akustyczna 
+ul. Akwarelowa 
+ul. Alabastrowa 
+ul. Albatrosów 
+ul. Alberta Einsteina 
+ul. Albina Jakiela 
+ul. aleja Dzieci Polskich 
+ul. aleja Hrabska 
+ul. aleja Jana Chrystiana Szucha 
+ul. aleja Jana Pawła II 
+ul. aleja Kazimierza Kumanieckiego 
+ul. aleja Krakowska 
+ul. aleja Legionów 
+ul. Aleja Marszałka Józefa Piłsudskiego 
+ul. aleja Marszałka Józefa Piłsudskiego (Wesoła) 
+ul. aleja Niepodległości 
+ul. aleja Solidarności 
+ul. Aleja Wilanowska 
+ul. aleja Wyzwolenia 
+ul. aleja Zieleniecka 
+ul. Aleje Jerozolimskie 
+ul. Aleje Ujazdowskie 
+ul. Aleksandra Bardiniego 
+ul. Aleksandra Dyżewskiego 
+ul. Aleksandra Fleminga 
+ul. Aleksandra Fredry 
+ul. Aleksandra Gajkowicza 
+ul. Aleksandra Gierymskiego 
+ul. Aleksandra Janowskiego 
+ul. Aleksandra Kamińskiego 
+ul. Aleksandra Kostki-Napierskiego 
+ul. Aleksandra Kotsisa 
+ul. Aleksandra Kowalskiego 
+ul. Aleksandra Kraushara 
+ul. Aleksandra Krywulta 
+ul. Aleksandrowska 
+ul. Algierska 
+ul. Alojzego Felińskiego 
+ul. Alpejska 
+ul. Alternatywy 
+ul. Altowa 
+ul. Aluzyjna 
+ul. Alzacka 
+ul. Amarantowa 
+ul. Ambaras 
+ul. Amelińska 
+ul. Ametystowa 
+ul. Analityczna 
+ul. Ananasowa 
+ul. Anastazego Kowalczyka 
+ul. Andersa 
+ul. Andromedy 
+ul. Andrutowa 
+ul. Andrychowska 
+ul. Andrzeja Frycza-Modrzewskiego 
+ul. Andrzeja Krzyckiego 
+ul. Andrzejowska 
+ul. Andyjska 
+ul. Anecińska 
+ul. Angorska 
+ul. Anieli Krzywoń 
+ul. Anilinowa 
+ul. Animuszu 
+ul. Annopol 
+ul. Anny Jagiellonki 
+ul. Antenowa 
+ul. Antka Rozpylacza 
+ul. Antoniego Bolesława Dobrowolskiego 
+ul. Antoniego Brodowskiego 
+ul. Antoniego Corazziego 
+ul. Antoniego Czechowa 
+ul. Antoniego Dobiszewskiego 
+ul. Antoniego Fontany 
+ul. Antoniego Grabowskiego 
+ul. Antoniego Kacpury 
+ul. Antoniego Kocjana 
+ul. Antoniewska 
+ul. Antyczna 
+ul. Antygony 
+ul. Anyżkowa 
+ul. Apartamentowa 
+ul. Apenińska 
+ul. Aplikancka 
+ul. Apollina 
+ul. Apteczna 
+ul. Arabska 
+ul. Arachidowa 
+ul. Arbuzowa 
+ul. Archimedesa 
+ul. Architektów 
+ul. Archiwalna 
+ul. Argentyńska 
+ul. Arkadowa 
+ul. Arkadyjska 
+ul. Arkony 
+ul. Arktyczna 
+ul. Arkuszowa 
+ul. Armanda Calinescu 
+ul. Armatnia 
+ul. Armii Krajowej 
+ul. Armii Ludowej 
+ul. Arniki 
+ul. Aroniowa 
+ul. Arrasowa 
+ul. Arsenalska 
+ul. Artemidy 
+ul. Artura Grottgera 
+ul. Artyleryjska 
+ul. Artystów 
+ul. Artystyczna 
+ul. Asfaltowa 
+ul. Aspekt 
+ul. Astronautów 
+ul. Astronomów 
+ul. Astrów 
+ul. Astry 
+ul. Ateńska 
+ul. Atlasowa 
+ul. Atutowa 
+ul. Augusta Cieszkowskiego 
+ul. Augustówka 
+ul. Augustyna Kordeckiego 
+ul. Awionetki RWD 
+ul. Azaliowa 
+ul. Babicka 
+ul. Babiego Lata 
+ul. Babie Lato 
+ul. Babimojska 
+ul. Babinicza 
+ul. Baborowska 
+ul. Baboszewska 
+ul. Bachmacka 
+ul. Bachusa 
+ul. Badowska 
+ul. Badylarska 
+ul. Bagatela 
+ul. Bagażowa 
+ul. Bagno 
+ul. Bajeczna 
+ul. Bajkowa 
+ul. Bajońska 
+ul. Bakalarska 
+ul. Bakaliowa 
+ul. Balaton 
+ul. Balbinki 
+ul. Baletowa 
+ul. Balicka 
+ul. Balkonowa 
+ul. Balladyny 
+ul. Balonowa 
+ul. Baltazara 
+ul. Bałtycka 
+ul. Bambusowa 
+ul. Bananowa 
+ul. Banderii 
+ul. Bandoski 
+ul. Banioska 
+ul. Bankowa 
+ul. Baonu Zośka 
+ul. Baranowska 
+ul. Barcelońska 
+ul. Barcicka 
+ul. Barkocińska 
+ul. Barokowa 
+ul. Barska 
+ul. Barszczewska 
+ul. Bartłomieja 
+ul. Bartnicza 
+ul. Bartoka 
+ul. Bartosza Głowackiego 
+ul. Bartoszycka 
+ul. Bartycka 
+ul. Barwinkowa 
+ul. Barwna 
+ul. Barwnicza 
+ul. Baryczków 
+ul. Baśniowa 
+ul. Batalionów Chłopskich 
+ul. Batalionu "Parasol" 
+ul. Batalionu AK "Bałtyk" 
+ul. Batalionu AK "Karpaty" 
+ul. Batalionu AK "Olza" 
+ul. Batalionu AK "Pięść" 
+ul. Batalionu AK "Ryś" 
+ul. Batalionu Miotła 
+ul. Batalionu Oaza 
+ul. Batalionu Platerówek 
+ul. Batumi 
+ul. Batuty 
+ul. Batystowa 
+ul. Bawełniana 
+ul. Bażancia 
+ul. Bazyliańska 
+ul. Beczkowa 
+ul. Bednarska 
+ul. Będzińska 
+ul. Begonii 
+ul. Bekasów 
+ul. Bełchatowska 
+ul. Bełdan 
+ul. Belgijska 
+ul. Belgradzka 
+ul. Bellony 
+ul. Bełska 
+ul. Belwederska 
+ul. Bełżecka 
+ul. Benedykta 
+ul. Benedykta Dybowskiego 
+ul. Benedykta Hertza 
+ul. Berberysowa 
+ul. Berestecka 
+ul. Berezyńska 
+ul. Berka Joselewicza 
+ul. Bernardyńska 
+ul. Berneńska 
+ul. Bertolta Brechta 
+ul. Beskidzka 
+ul. Biała 
+ul. Białej Wody 
+ul. Białoborska 
+ul. Białobrzeska 
+ul. Białogońska 
+ul. Białołęcka 
+ul. Białoskórnicza 
+ul. Białostocka 
+ul. Białowiejska 
+ul. Białowieska 
+ul. Białozora 
+ul. Biały Kamień 
+ul. Biechowska 
+ul. Biedronki 
+ul. Bielańska 
+ul. Bielawska 
+ul. Bielska 
+ul. Bielszowicka 
+ul. Bieniewicka 
+ul. Biernacka 
+ul. Biernata z Lublina 
+ul. Biesiadna 
+ul. Bieszczadzka 
+ul. Bieżanowska 
+ul. Bieżuńska 
+ul. Biłgorajska 
+ul. Biruty 
+ul. Birżańska 
+ul. Biskupia 
+ul. Bitna 
+ul. Bitwy Grochowskiej 
+ul. Bitwy pod Lenino 
+ul. Bitwy pod Rokitną 
+ul. Bitwy Warszawskiej 1920 r. 
+ul. Biwakowa 
+ul. Blacharska 
+ul. Blaszana 
+ul. Bławatków 
+ul. Błażeja 
+ul. Błędowska 
+ul. Błękitna 
+ul. Bliska 
+ul. Blokowa 
+ul. Błonie 
+ul. Błońska 
+ul. Błotna 
+ul. Bluszczańska 
+ul. Bluszczowa 
+ul. Bobrowa 
+ul. Bobrowiecka 
+ul. Bocheńska 
+ul. Bociania 
+ul. Boczańska 
+ul. Boczna 
+ul. Boczniaków 
+ul. Bodzanty 
+ul. Bogatki 
+ul. Bogatyńska 
+ul. Boglarczyków 
+ul. Bogoriów 
+ul. Bogucicka 
+ul. Bogumińska 
+ul. Bogunki 
+ul. Boguszewska 
+ul. Bohaterów 
+ul. Bohaterów Getta 
+ul. Bohdziewicza 
+ul. Bohuna 
+ul. Bokserska 
+ul. Bolecha 
+ul. Boleść 
+ul. Bolesława Chrobrego 
+ul. Bolesława Gidzińskiego 
+ul. Bolesława Krzywoustego 
+ul. Bolesława Limanowskiego 
+ul. Bolesława Prusa 
+ul. Bolesława Prusa (Wesoła) 
+ul. Bolesława Śmiałego 
+ul. Bolesławicka 
+ul. Bolimowska 
+ul. Bolkowska 
+ul. Bombardierów 
+ul. Bonifraterska 
+ul. Bonisławska 
+ul. Borecka 
+ul. Boremlowska 
+ul. Borków 
+ul. Borkowska 
+ul. Borowa 
+ul. Borowej Góry 
+ul. Borowiecka 
+ul. Borowika 
+ul. Borówkowa 
+ul. Borsucza 
+ul. Boruty 
+ul. Boryny 
+ul. Borysławska 
+ul. Boryszewska 
+ul. Borzęcińska 
+ul. Borzymowska 
+ul. Bosmańska 
+ul. Botaniczna 
+ul. Bożka Arki 
+ul. Braci Wagów 
+ul. Bracka 
+ul. Bracławska 
+ul. Bramka 
+ul. Braniewska 
+ul. Brata Alberta 
+ul. Braterstwa Broni 
+ul. Bratka 
+ul. Bratnia 
+ul. Brązownicza 
+ul. Brazylijska 
+ul. Brochowska 
+ul. Brodnicka 
+ul. Brodzik 
+ul. Bronisława Czecha 
+ul. Bronisława Dobrzańskiego 
+ul. Bronisława Gembarzewskiego 
+ul. Broniwoja 
+ul. Bronowska 
+ul. Browarna 
+ul. Brukselska 
+ul. Brunona Kicińskiego 
+ul. Bruszewska 
+ul. Bruzdowa 
+ul. Brwinowska 
+ul. Brygady Pościgowej 
+ul. Brygadzistów 
+ul. Brylantowa 
+ul. Brylowska 
+ul. Brzegowa 
+ul. Brzeska 
+ul. Brzezińska 
+ul. Brzeziny 
+ul. Brzoskwiniowa 
+ul. Brzostowska 
+ul. Brzozowa 
+ul. Brzozowy Zagajnik 
+ul. Buchalteryjna 
+ul. Budki Szczęśliwickie 
+ul. Budnicza 
+ul. Budowlana 
+ul. Budrysów 
+ul. Budy 
+ul. Bugaj 
+ul. Bukietowa 
+ul. Bukowa 
+ul. Bukowiecka 
+ul. Bukowińska 
+ul. Bukszpanowa 
+ul. Buławy 
+ul. Bułgarska 
+ul. Bulwarowa 
+ul. Buńczuk 
+ul. Buraczana 
+ul. Burakowska 
+ul. Burgaska 
+ul. Burleska 
+ul. Burmistrzowska 
+ul. Bursztynowa 
+ul. Burzliwa 
+ul. Buska 
+ul. Busolowa 
+ul. Buszycka 
+ul. Bychowska 
+ul. Byczyńska 
+ul. Bylicowa 
+ul. Bysławska 
+ul. Bystra 
+ul. Bystrzycka 
+ul. Byszewska 
+ul. Bytomska 
+ul. Bzowa 
+ul. Calineczki 
+ul. Calowa 
+ul. Canaletta 
+ul. Capri 
+ul. Carla Goldoniego 
+ul. Cedrowa 
+ul. Cedzyńska 
+ul. Cegielniana 
+ul. Ceglana 
+ul. Cegłowska 
+ul. Celestynowska 
+ul. Celna 
+ul. Celofanowa 
+ul. Celtów 
+ul. Celulozy 
+ul. Cementowa 
+ul. Centralna 
+ul. Centurii 
+ul. Ceramiczna 
+ul. Cesarskiej Korony 
+ul. Chabrów 
+ul. Chabrowa 
+ul. Chałupnicza 
+ul. Chęcińska 
+ul. Chełchowska 
+ul. Chełmska 
+ul. Chełmżyńska 
+ul. Chemiczna 
+ul. Chińskiej Róży 
+ul. Chlebowa 
+ul. Chlewińska 
+ul. Chłodna 
+ul. Chłodnicza 
+ul. Chlubna 
+ul. Chmielna 
+ul. Chmurna 
+ul. Chochołowska 
+ul. Chocimska 
+ul. Chodakowska 
+ul. Chodecka 
+ul. Chodzieska 
+ul. Choinkowa 
+ul. Chojnowska 
+ul. Chorągwi Pancernej 
+ul. Chóralna 
+ul. Chorzelska 
+ul. Chorzowska 
+ul. Chotomowska 
+ul. Christa Botewa 
+ul. Chroszczewska 
+ul. Chryzantemy 
+ul. Chylicka 
+ul. Chylońska 
+ul. Chyrowska 
+ul. Ciasna 
+ul. Cicha 
+ul. Cichej Wody 
+ul. Cichociemnych 
+ul. Ciechanowska 
+ul. Ciechocińska 
+ul. Ciekawa 
+ul. Ciemna 
+ul. Cienista 
+ul. Ciepielowska 
+ul. Ciepła 
+ul. Cieplarniana 
+ul. Cieplicka 
+ul. Cierlicka 
+ul. Ciesielska 
+ul. Cieślewskich 
+ul. Cieszyńska 
+ul. Cietrzewia 
+ul. Cisowa 
+ul. Ciszewska 
+ul. Ciupagi 
+ul. Ciżemki 
+ul. Cmentarna 
+ul. Codzienna 
+ul. Cokołowa 
+ul. Cudna 
+ul. Cudne Manowce 
+ul. Cudnowska 
+ul. Cukrownicza 
+ul. Cybernetyki 
+ul. Cyganeczki 
+ul. Cygańska 
+ul. Cyklamenów 
+ul. Cyklamenowa 
+ul. Cylichowska 
+ul. Cymbalistów 
+ul. Cynamonowa 
+ul. Cynowa 
+ul. Cypriana Godebskiego 
+ul. Cypriana Norwida 
+ul. Cypryjska 
+ul. Cyprysowa 
+ul. Cyraneczki 
+ul. Cyrhli 
+ul. Cyrklowa 
+ul. Cyrkonii 
+ul. Cyrulików 
+ul. Cytadeli 
+ul. Cytrynowa 
+ul. Czajki 
+ul. Czapelska 
+ul. Czapli 
+ul. Czapnicza 
+ul. Czardasza 
+ul. Czarna Droga 
+ul. Czarnocińska 
+ul. Czarnołęcka 
+ul. Czarnoleska 
+ul. Czarnomorska 
+ul. Czarnuszki 
+ul. Czarodzieja 
+ul. Cząstkowska 
+ul. Czatów 
+ul. Czechowicka 
+ul. Czekanowska 
+ul. Czekoladowa 
+ul. Czeladnicza 
+ul. Czempińska 
+ul. Czeremchowa 
+ul. Czereśniowa 
+ul. Czerniakowska 
+ul. Czerniowiecka 
+ul. Czerska 
+ul. Czerwińska 
+ul. Czerwona Droga 
+ul. Czerwonego Krzyża 
+ul. Czerwonych Beretów 
+ul. Czerwonych Maków 
+ul. Czerwonych Wierchów 
+ul. Czeska 
+ul. Czesława Kłosia 
+ul. Cześnika 
+ul. Częstochowska 
+ul. Człuchowska 
+ul. Czółenkowa 
+ul. Czołgistów 
+ul. Czołowa 
+ul. Czorsztyńska 
+ul. Czterech Wiatrów 
+ul. Czubatki 
+ul. Czujna 
+ul. Czumy 
+ul. Czwartaków 
+ul. Czynszowa 
+ul. Czysta 
+ul. Czytelnicza 
+ul. Czyżewska 
+ul. Czyżyka 
+ul. Dąbrowiecka 
+ul. Dąbrowszczaków 
+ul. Dąbrowy 
+ul. Daglezji 
+ul. Daków 
+ul. Daktylowa 
+ul. Dalanowska 
+ul. Daleka 
+ul. Daleszycka 
+ul. Dalibora 
+ul. Daliowa 
+ul. Daniewice 
+ul. Daniłowiczowska 
+ul. Daniszewska 
+ul. Dankowicka 
+ul. Dantego 
+ul. Danusi 
+ul. Darłowska 
+ul. Darniowa 
+ul. Daszowska 
+ul. Dawidowska 
+ul. Dawna 
+ul. Dębicka 
+ul. Dębinki 
+ul. Dęblińska 
+ul. Dębowa 
+ul. Dęby 
+ul. Dedala 
+ul. Dekarska 
+ul. Delfina 
+ul. Denarowa 
+ul. Deotymy 
+ul. Deptak 
+ul. Derby 
+ul. Dereniowa 
+ul. Derkaczy 
+ul. Derwida 
+ul. Deseniowa 
+ul. Deszczowa 
+ul. Dewajtis 
+ul. Diamentowa 
+ul. Dionizosa 
+ul. Długa 
+ul. Długomiła 
+ul. Długopolska 
+ul. Długorzeczna 
+ul. Dmuchawcowa 
+ul. Dobka z Oleśnicy 
+ul. Dobosza 
+ul. Dobra 
+ul. Dobrodzieja 
+ul. Dobrogniewa 
+ul. Dobrowoja 
+ul. Dojazdowa 
+ul. Dokerów 
+ul. Dolina Służewiecka 
+ul. Dolna 
+ul. Dolnośląska 
+ul. Dolomitowa 
+ul. Dołowa 
+ul. Domaniewska 
+ul. Dominikańska 
+ul. Dominiki 
+ul. Domowa 
+ul. Don Kichota 
+ul. Dorodna 
+ul. Dorohuska 
+ul. Dorotowska 
+ul. Doroty Kłuszyńskiej 
+ul. Dorycka 
+ul. Dostatnia 
+ul. Dostępna 
+ul. Dowcip 
+ul. Dowódców 
+ul. Dożynkowa 
+ul. Do Fortu 
+ul. Dragonów 
+ul. Drapińska 
+ul. Drawska 
+ul. Drewniana 
+ul. Drewnicka 
+ul. Drezdeńska 
+ul. Drobiazg 
+ul. Droga Golfowa 
+ul. Droga Krajowa 8 
+ul. Droga Wojewódzka 637 
+ul. Drogistów 
+ul. Drogomilska 
+ul. Drogowa 
+ul. Drohicka 
+ul. Drohobycka 
+ul. Drozdowa 
+ul. Drożdżowa 
+ul. Druciana 
+ul. Drukarzy 
+ul. Drumli 
+ul. Drużynowa 
+ul. Drwali 
+ul. Drzemlika 
+ul. Drzeworytników 
+ul. Dubieńska 
+ul. Duchnicka 
+ul. Dudziarska 
+ul. Dukatowa 
+ul. Dukielska 
+ul. Dulczyńska 
+ul. Dumki 
+ul. Dunajecka 
+ul. Duninów 
+ul. Dusznicka 
+ul. Dwóch Mieczy 
+ul. Dworcowa 
+ul. Dworkowa 
+ul. Dworska 
+ul. Dwusieczna 
+ul. Dychowska 
+ul. Dylewska 
+ul. Dyliżansowa 
+ul. Dymińska 
+ul. Dymna 
+ul. Dynamiczna 
+ul. Dynarska 
+ul. Dynasy 
+ul. Dyngus 
+ul. Dynowska 
+ul. Dywizjonu 303 
+ul. Dywizjonu AK "Jeleń" 
+ul. Działdowska 
+ul. Działkowa 
+ul. Działowa 
+ul. Działyńczyków 
+ul. Dziatwy 
+ul. Dzidka Warszawiaka 
+ul. Dziecięca 
+ul. Dzięcieliny 
+ul. Dzięcioła 
+ul. Dzieci Warszawy 
+ul. Dzięgielowa 
+ul. Dziekania 
+ul. Dziekanowska 
+ul. Dzielna 
+ul. Dzielnicowa 
+ul. Dziennikarska 
+ul. Dzierzby 
+ul. Dzierzgońska 
+ul. Dzierżoniowska 
+ul. Dziewanny 
+ul. Dziewanowska 
+ul. Dziewiarska 
+ul. Dziewierza 
+ul. Dziewosłęby 
+ul. Dzika 
+ul. Dzikiej Kaczki 
+ul. Dzikiej Róży 
+ul. Dziupli 
+ul. Dziwożony 
+ul. Dźwiękowa 
+ul. Dźwigowa 
+ul. Dźwińska 
+ul. Dzwonkowa 
+ul. Dzwonnicza 
+ul. Ebro 
+ul. Echa Leśne 
+ul. Edwarda Abramowskiego 
+ul. Edwarda Dembowskiego 
+ul. Edwarda Fondamińskiego 
+ul. Edwarda Gibalskiego 
+ul. Edwarda Jelinka 
+ul. Edwarda Szymańskiego 
+ul. Egejska 
+ul. Egipska 
+ul. Ekologiczna 
+ul. Ekspresowa 
+ul. Elbląska 
+ul. Elegancka 
+ul. Elegijna 
+ul. Elekcyjna 
+ul. Elektoralna 
+ul. Elektronowa 
+ul. Elektry 
+ul. Elektryczna 
+ul. Elizy Orzeszkowej 
+ul. Elsterska 
+ul. Elżbiety Drużbackiej 
+ul. Emaliowa 
+ul. Emiliana Konopczyńskiego 
+ul. Emilii Gierczak 
+ul. Emilii Plater 
+ul. Encyklopedyczna 
+ul. Epopei 
+ul. Erazma Ciołka 
+ul. Erazma z Zakroczymia 
+ul. Eryka Dahlberga 
+ul. Esej 
+ul. Eskimoska 
+ul. Eskulapów 
+ul. Esperanto 
+ul. Estońska 
+ul. Estrady 
+ul. Etiudy Rewolucyjnej 
+ul. Eugeniusza Bodo 
+ul. Eugeniusza Horbaczewskiego 
+ul. Eugeniusza Kwiatkowskiego 
+ul. Europejska 
+ul. Ewy 
+ul. Ezopa 
+ul. Fabiańska 
+ul. Fabryczna 
+ul. Fajansowa 
+ul. Falęcka 
+ul. Falenicka 
+ul. Falentyńska 
+ul. Falkowska 
+ul. Familijna 
+ul. Fanfarowa 
+ul. Fantazyjna 
+ul. Faraona 
+ul. Farbiarska 
+ul. Farysa 
+ul. Fasolowa 
+ul. Fausta 
+ul. Faustyna Czerwijowskiego 
+ul. Fawory 
+ul. Figara 
+ul. Figiel 
+ul. Figowa 
+ul. Filarecka 
+ul. Filipinki 
+ul. Filipiny Płaskowickiej 
+ul. Filmowa 
+ul. Filomatów 
+ul. Filona 
+ul. Filtrowa 
+ul. Finałowa 
+ul. Finlandzka 
+ul. Fińska 
+ul. Fioletowa 
+ul. Fiołków 
+ul. Firletki 
+ul. Fizyków 
+ul. Fizylierów 
+ul. Flagowa 
+ul. Flamenco 
+ul. Fletniowa 
+ul. Flisaków 
+ul. Floksów 
+ul. Floriana 
+ul. Floriańska 
+ul. Flory 
+ul. Foksal 
+ul. Foliałowa 
+ul. Folwarczna 
+ul. Forsycji 
+ul. Forteczna 
+ul. Fortel 
+ul. Fortowa 
+ul. Fortuny 
+ul. Fort Wola 
+ul. Fosa 
+ul. Frachtowa 
+ul. Franciszkańska 
+ul. Franciszka Achera 
+ul. Franciszka Bartoszka 
+ul. Franciszka Groëra 
+ul. Franciszka Ilskiego 
+ul. Franciszka Karpińskiego 
+ul. Franciszka Kawy 
+ul. Franciszka Kleeberga 
+ul. Franciszka Klimczaka 
+ul. Franciszka Kniaźnina 
+ul. Franciszka Kostrzewskiego 
+ul. Franciszka Ksawerego Dmochowskiego 
+ul. Franciszka Salezego Jezierskiego 
+ul. Francuska 
+ul. Frascati 
+ul. Fraszki 
+ul. Fregaty 
+ul. Freta 
+ul. Frezji 
+ul. Fromborska 
+ul. Frontowa 
+ul. Fryderyka Chopina 
+ul. Frygijska 
+ul. Frysztacka 
+ul. Fukierów 
+ul. Fuksji 
+ul. Fundamentowa 
+ul. Furmańska 
+ul. Gąbińska 
+ul. Gabriela 
+ul. Gabriela Boduena 
+ul. Gabrieli Zapolskiej 
+ul. Gaik 
+ul. Gajdy 
+ul. Gajowa 
+ul. Galaktyki 
+ul. Galileusza 
+ul. Galla Anonima 
+ul. Galopu 
+ul. Garażowa 
+ul. Garbarska 
+ul. Gardenii 
+ul. Garłaczy 
+ul. Garncarska 
+ul. Garwolińska 
+ul. Gąsek 
+ul. Gąsienicowa 
+ul. Gąsocińska 
+ul. Gawędziarzy 
+ul. Gawota 
+ul. Gazowa 
+ul. Gdańska 
+ul. Gdecka 
+ul. Gdyńska 
+ul. Gębicka 
+ul. Gedymina 
+ul. gen. Meriana C. Coopera 
+ul. gen. Mikołaja Bołtucia 
+ul. Generała Władysława Andersa 
+ul. Genewska 
+ul. Geodetów 
+ul. Geodezyjna 
+ul. Geograficzna 
+ul. Geologiczna 
+ul. Geometryczna 
+ul. Geranii 
+ul. Gerberowa 
+ul. Gerwazego 
+ul. Gęślarska 
+ul. Gęsta 
+ul. Gibraltarska 
+ul. Giełdowa 
+ul. Gierdawska 
+ul. Giermków 
+ul. Giewont 
+ul. Gilarska 
+ul. Gimnastyczna 
+ul. Gimnazjalna 
+ul. Gizów 
+ul. Gladioli 
+ul. Gładka 
+ul. Głębocka 
+ul. Głęboka 
+ul. Glebowa 
+ul. Glicynii 
+ul. Gliwicka 
+ul. Globusowa 
+ul. Głogowa 
+ul. Głogowska 
+ul. Główna 
+ul. Głubczycka 
+ul. Głucha 
+ul. Głuszca 
+ul. Głuszycka 
+ul. Gniazdowska 
+ul. Gniewkowska 
+ul. Gnieźnieńska 
+ul. Gocławska 
+ul. Goczałkowicka 
+ul. Godlewska 
+ul. Godowska 
+ul. Godziszowska 
+ul. Gogolińska 
+ul. Goławicka 
+ul. Gołdapska 
+ul. Gołębia 
+ul. Golędzinowska 
+ul. Goleszowska 
+ul. Golfowa 
+ul. Gołkowska 
+ul. Gołuchowska 
+ul. Gontarska 
+ul. Goplańska 
+ul. Gorajska 
+ul. Góralska 
+ul. Goraszewska 
+ul. Górczewska 
+ul. Gorlicka 
+ul. Górna 
+ul. Górna Droga 
+ul. Górnośląska 
+ul. Górska 
+ul. Goryczkowa 
+ul. Gorzelnicza 
+ul. Gorzykowska 
+ul. Gościeradowska 
+ul. Gościniec 
+ul. Gościnna 
+ul. Gospodarcza 
+ul. Gostyńska 
+ul. Gotarda 
+ul. Gottlieba Daimlera 
+ul. Gotycka 
+ul. Goworka 
+ul. Goworowska 
+ul. Gozdawitów 
+ul. Goździków 
+ul. Grabalówki 
+ul. Grabowska 
+ul. Grafitowa 
+ul. Grajewska 
+ul. Graniczna 
+ul. Granitowa 
+ul. Granowska 
+ul. Grawerska 
+ul. Grażyny 
+ul. Grażyny Bacewiczówny 
+ul. Grębałowska 
+ul. Grecka 
+ul. Gremplarska 
+ul. Grenadierów 
+ul. Grenady 
+ul. Grobelska 
+ul. Grocholicka 
+ul. Grochowska 
+ul. Grodkowska 
+ul. Grodzieńska 
+ul. Grodzka 
+ul. Grójecka 
+ul. Gronowa 
+ul. Groszowicka 
+ul. Groteski 
+ul. Grotowska 
+ul. Gruchacza 
+ul. Gruntowa 
+ul. Grupy AK "Kampinos" 
+ul. Grupy AK "Północ" 
+ul. Gruszy 
+ul. Gruzińska 
+ul. Gryczana 
+ul. Gryfitów 
+ul. Grzegorza Fitelberga 
+ul. Grzybowa 
+ul. Grzybowska 
+ul. Grzymalitów 
+ul. Grzywaczy 
+ul. Gubinowska 
+ul. Guliwera 
+ul. Gułowska 
+ul. Guńki 
+ul. Gustawa 
+ul. Gustawa Daniłowskiego 
+ul. Guźca 
+ul. Gwardii 
+ul. Gwarków 
+ul. Gwiaździsta 
+ul. Gwintowa 
+ul. Gżegżółki 
+ul. Haczowska 
+ul. Hafciarska 
+ul. Hajduczka 
+ul. Hajnowska 
+ul. Hajoty 
+ul. Haliny Krahelskiej 
+ul. Halki 
+ul. Halna 
+ul. Handlowa 
+ul. Hanki Czaki 
+ul. Hansa Christiana Andersena 
+ul. Harcerska 
+ul. Harendy 
+ul. Harfowa 
+ul. Harmonistów 
+ul. Harnasie 
+ul. Haubicy 
+ul. Hawajska 
+ul. Hebanowa 
+ul. Hejnałowa 
+ul. Hektarowa 
+ul. Heleny Junkiewicz 
+ul. Heleny Kozłowskiej 
+ul. Heliotropów 
+ul. Heloizy 
+ul. Henryka Arctowskiego 
+ul. Henryka Barona 
+ul. Henryka Brodatego 
+ul. Henryka Dembińskiego 
+ul. Henryka Jędrzejowskiego 
+ul. Henryka Pobożnego 
+ul. Henryka Probusa 
+ul. Henryka Sienkiewicza 
+ul. Henrykowska 
+ul. Herakliusza Billewicza 
+ul. Herbaciana 
+ul. Herbowa 
+ul. Hermanowska 
+ul. Heroldów 
+ul. Hery 
+ul. Hetmańska 
+ul. Hiacyntowa 
+ul. Hieroglif 
+ul. Himalajska 
+ul. Hipolitowo 
+ul. Hipoteczna 
+ul. Hipotezy 
+ul. Hodowlana 
+ul. Holenderska 
+ul. Hołubcowa 
+ul. Homera 
+ul. Honoriusza Balzaka 
+ul. Horacego 
+ul. Horodelska 
+ul. Hortensji 
+ul. Hoserów 
+ul. Hoża 
+ul. Hrubieszowska 
+ul. Hucisko 
+ul. Huculska 
+ul. Huczna 
+ul. Hufcowa 
+ul. Humanistów 
+ul. Humańska 
+ul. Husarii 
+ul. Husarska 
+ul. Hutnicza 
+ul. Iberyjska 
+ul. Ibisa 
+ul. Igańska 
+ul. Iglasta 
+ul. Ignacego Domeyki 
+ul. Ignacego Krasickiego 
+ul. Ignacego Kruszewskiego 
+ul. Igrzyskowa 
+ul. III Poprzeczna 
+ul. II Poprzeczna 
+ul. II Rejonu AK 
+ul. Ikara 
+ul. Iłżecka 
+ul. Imbirowa 
+ul. Imielińska 
+ul. Improwizacji 
+ul. Indiry Gandhi 
+ul. Indycza 
+ul. Indyjska 
+ul. Inflancka 
+ul. Inna 
+ul. Inowłodzka 
+ul. Inowrocławska 
+ul. Inspektowa 
+ul. Instalatorów 
+ul. Instruktorska 
+ul. Instytutowa 
+ul. Insurekcji 
+ul. Internetowa 
+ul. Inżynierska 
+ul. Ireny 
+ul. Ireny Kosmowskiej 
+ul. Irlandzka 
+ul. Irminy 
+ul. Irydowa 
+ul. Irysów 
+ul. Irysowa 
+ul. Iskry 
+ul. IV Poprzeczna 
+ul. Iwicka 
+ul. Iwonicka 
+ul. IX Poprzeczna 
+ul. Izabelli 
+ul. Izbicka 
+ul. Izdebnicka 
+ul. Izerska 
+ul. Izoldy 
+ul. I Poprzeczna 
+ul. Jabłeczna 
+ul. Jabłoni 
+ul. Jachtowa 
+ul. Jacka i Agatki 
+ul. Jadowska 
+ul. Jadwigi i Witolda Kokoszków 
+ul. Jadźwingów 
+ul. Jagiellońska 
+ul. Jagielska 
+ul. Jagienki 
+ul. Jagny 
+ul. Jagodowa 
+ul. Jagody 
+ul. Jakobinów 
+ul. Jaktorowska 
+ul. Jakuba Jasińskiego 
+ul. Jakuba Kubickiego 
+ul. Jakubowska 
+ul. Jałowcowa 
+ul. Jałtańska 
+ul. Jamesa Gordona Bennetta 
+ul. Jamińska 
+ul. Jamki 
+ul. Jana Blatona 
+ul. Jana Brożka 
+ul. Jana Brzechwy 
+ul. Jana Bułhaka 
+ul. Jana Cybisa 
+ul. Jana Czeczota 
+ul. Jana Dantyszka 
+ul. Jana Długosza 
+ul. Jana Gawińskiego 
+ul. Jana Husa 
+ul. Jana III Sobieskiego 
+ul. Jana Jabłonowskiego 
+ul. Jana Jeziorańskiego 
+ul. Jana Karola Chodkiewicza 
+ul. Jana Kasprowicza 
+ul. Jana Kazimierza 
+ul. Jana Kędzierskiego 
+ul. Jana Kiepury 
+ul. Jana Kilińskiego 
+ul. Jana Kochanowskiego 
+ul. Jana Kossakowskiego 
+ul. Jana Kozietulskiego 
+ul. Jana Krysta 
+ul. Jana Matejki 
+ul. Jana Nowaka Jeziorańskiego 
+ul. Jana Olbrachta 
+ul. Jana Pawła II 
+ul. Jana Sebastiana Bacha 
+ul. Jana Zamoyskiego 
+ul. Janczarów 
+ul. Janinówka 
+ul. Janiszowska 
+ul. Janka Bytnara „Rudego” 
+ul. Janka Muzykanta 
+ul. Jankowska 
+ul. Janosika 
+ul. Janowiecka 
+ul. Jantar 
+ul. Jantarowy Szlak 
+ul. Janusza Groszkowskiego 
+ul. Janusza Korczaka 
+ul. Janusza Kusocińskiego 
+ul. Januszewska 
+ul. Jara 
+ul. Jarmużowa 
+ul. Jarocińska 
+ul. Jarosława Dąbrowskiego 
+ul. Jarosławska 
+ul. Jarząbków 
+ul. Jarzębinowa 
+ul. Jasielska 
+ul. Jasiniec 
+ul. Jaskółcza 
+ul. Jaskrów 
+ul. Jaśminowa 
+ul. Jasna 
+ul. Jasnodworska 
+ul. Jasnoty 
+ul. Jasówka 
+ul. Jaspisowa 
+ul. Jastrzębia 
+ul. Jastrzębowskiego 
+ul. Jaszczurcza 
+ul. Jaszowiecka 
+ul. Jaworowska 
+ul. Jaworzniaków 
+ul. Jaworzyńska 
+ul. Jazdów 
+ul. Jazgarzewska 
+ul. Jedlińska 
+ul. Jedwabnicka 
+ul. Jedwabnicza 
+ul. Jelenia 
+ul. Jeleniogórska 
+ul. Jemiołowa 
+ul. Jemiołuszki 
+ul. Jerzego 
+ul. Jerzego Bajana 
+ul. Jerzego Bukowskiego 
+ul. Jerzego Iwanowa-Szajnowicza 
+ul. Jerzego Kukuczki 
+ul. Jerzego Waldorffa 
+ul. Jerzyka 
+ul. Jesienna 
+ul. Jesiennych Liści 
+ul. Jesionowa 
+ul. Jesiotrowa 
+ul. Jeża 
+ul. Jeździecka 
+ul. Jeziorki 
+ul. Jeziorna 
+ul. Jeziorowa 
+ul. Jeżowa 
+ul. Jezuicka 
+ul. Jeżynowa 
+ul. Jodłowa 
+ul. Jontka 
+ul. Jordanowska 
+ul. Josepha Conrada 
+ul. Jowisza 
+ul. Józefa Antalla 
+ul. Józefa Balcerzaka 
+ul. Józefa Bellottiego 
+ul. Józefa Bema 
+ul. Józefa Brandta 
+ul. Józefa Chełmońskiego 
+ul. Józefa Chłopickiego 
+ul. Józefa Chmiela 
+ul. Józefa Ciszewskiego 
+ul. Józefa Czechowicza 
+ul. Józefa Dwernickiego 
+ul. Józefa Elsnera 
+ul. Józefa Garibaldiego 
+ul. Józefa Hauke-Bosaka 
+ul. Józefa Hoene-Wrońskiego 
+ul. Józefa Korzeniowskiego 
+ul. Józefa Kraszewskiego 
+ul. Józefa Szymańskiego 
+ul. Józefowska 
+ul. Jubilerska 
+ul. Jugosłowiańska 
+ul. Juhasów 
+ul. Juliana Bartoszewicza 
+ul. Juliana Bruna 
+ul. Juliana Ejsmonda 
+ul. Juliana Fałata 
+ul. Juliana Kulskiego 
+ul. Juliana Smulikowskiego 
+ul. Juliana Tuwima 
+ul. Juliana Ursyna Niemcewicza 
+ul. Julianowska 
+ul. Juliusa Fučika 
+ul. Juliusza Kaden-Bandrowskiego 
+ul. Juliusza Kossaka 
+ul. Juliusza Ordona 
+ul. Juliusza Słowackiego 
+ul. Junaków 
+ul. Juranda ze Spychowa 
+ul. Juraty 
+ul. Jurija Gagarina 
+ul. Justyny Budzyńskiej-Tylickiej 
+ul. Jutrzenki 
+ul. Kabacka 
+ul. Kabacki Dukt 
+ul. Kabaretowa 
+ul. Kabrioletu 
+ul. Kacpra Karlińskiego 
+ul. Kacza 
+ul. Kaczeńca 
+ul. Kaczorowa 
+ul. Kaczorowska 
+ul. Kaczy Dół 
+ul. Kadetów 
+ul. Kadrowa 
+ul. Kadryla 
+ul. Kądziołeczki 
+ul. Kaflowa 
+ul. Kajakowa 
+ul. Kajetana Garbińskiego 
+ul. Kajetana Koźmiana 
+ul. Kajetańska 
+ul. Kakaowa 
+ul. Kąkolewska 
+ul. Kąkolowa 
+ul. Kaktusowa 
+ul. Kalambur 
+ul. Kalatówki 
+ul. Kalendarzowa 
+ul. Kaleńska 
+ul. Kaletnicza 
+ul. Kalinowa 
+ul. Kalinowej Łąki 
+ul. Kalinowska 
+ul. Kaliska 
+ul. Kaliszówka 
+ul. Kaloryczna 
+ul. Kałuszyńska 
+ul. Kamasznicza 
+ul. Kamedulska 
+ul. Kameliowa 
+ul. Kameralna 
+ul. Kamienna 
+ul. Kamienne Schodki 
+ul. Kamionkowska 
+ul. Kampinoska 
+ul. Kamyk 
+ul. Kamykowa 
+ul. Kanadyjska 
+ul. Kanałowa 
+ul. Kanarkowa 
+ul. Kaniowska 
+ul. Kanonia 
+ul. Kanonierska 
+ul. Kapelanów Armii Krajowej 
+ul. Kapeli 
+ul. Kapelusznicza 
+ul. Kąpielowa 
+ul. Kapitańska 
+ul. Kapitulna 
+ul. Kaprys 
+ul. Kapucyńska 
+ul. Karabeli 
+ul. Karatowa 
+ul. Karczewska 
+ul. Karczocha 
+ul. Karczunkowska 
+ul. Kardynała Stanisława Hozjusza 
+ul. Karkonoska 
+ul. Karkonoszy 
+ul. Karla 
+ul. Karmazynowa 
+ul. Karmelicka 
+ul. Karminowa 
+ul. Karnawał 
+ul. Karnicka 
+ul. Karola Adamieckiego 
+ul. Karola Bohdanowicza 
+ul. Karola Borsuka 
+ul. Karola Darwina 
+ul. Karola Dickensa 
+ul. Karola Irzykowskiego 
+ul. Karola Kurpińskiego 
+ul. Karolinki 
+ul. Karolkowa 
+ul. Karolówka 
+ul. Karowa 
+ul. Karpacka 
+ul. Karska 
+ul. Kartaginy 
+ul. Kartezjusza 
+ul. Kartograficzna 
+ul. Kartonowa 
+ul. Karuzela 
+ul. Karwińska 
+ul. Kąsek 
+ul. Kasjopei 
+ul. Kaskadowa 
+ul. Kaśki Kariatydy 
+ul. Kaspijska 
+ul. Kasprzaka 
+ul. Kasztanowa 
+ul. Kaszubska 
+ul. Katalogowa 
+ul. Katalońska 
+ul. Katarynki 
+ul. Katiuszy 
+ul. Kątna 
+ul. Kątowa 
+ul. Katowicka 
+ul. Kąty Grodziskie 
+ul. Kaukaska 
+ul. Kawalerii 
+ul. Kawcza 
+ul. Kawęczyńska 
+ul. Kazachska 
+ul. Kazimierza Brodzińskiego 
+ul. Kazimierza Deyny 
+ul. Kazimierza Drewnowskiego 
+ul. Kazimierza Gierdziejewskiego 
+ul. Kazimierza Grodeckiego 
+ul. Kazimierza Jagiellończyka 
+ul. Kazimierza Jeżewskiego 
+ul. Kazimierza Karasia 
+ul. Kazimierza Kuratowskiego 
+ul. Kazimierza Odnowiciela 
+ul. Kazimierza Sprawiedliwego 
+ul. Kazimierza Wielkiego 
+ul. Kazimierzowska 
+ul. Kazita 
+ul. Kazubów 
+ul. Kazuńska 
+ul. Kędzierzyńska 
+ul. Kępa Tarchomińska 
+ul. Kępna 
+ul. Ketlinga 
+ul. Kibiców 
+ul. Kiejstuta 
+ul. Kielecka 
+ul. Kiełpińska 
+ul. Kiermaszowa 
+ul. Kijowska 
+ul. Kinetyczna 
+ul. Kingi 
+ul. Kinowa 
+ul. Kiprów 
+ul. Kirasjerów 
+ul. Kircholmska 
+ul. Kisielicka 
+ul. Kiwerska 
+ul. Klamrowa 
+ul. Klarnecistów 
+ul. Klarysewska 
+ul. Klasyków 
+ul. Klasztorna 
+ul. Klaudyny 
+ul. Klecka 
+ul. Kleczewska 
+ul. Klembowska 
+ul. Klementowicka 
+ul. Klementyny Hoffmanowej 
+ul. Kleopatry 
+ul. Kleszczowa 
+ul. Klimatyczna 
+ul. Klimontowska 
+ul. Kłobucka 
+ul. Kłodawska 
+ul. Kłodzka 
+ul. Klonowa 
+ul. Kłopot 
+ul. Kłosowa 
+ul. Klubowa 
+ul. Kluczborska 
+ul. Kluczowa 
+ul. Klukowska 
+ul. Kmicica 
+ul. Kminkowa 
+ul. Kniei 
+ul. Knyszyńska 
+ul. Kobielska 
+ul. Kobierzycka 
+ul. Kobryńska 
+ul. Kobuza 
+ul. Kobylańska 
+ul. Kobzy 
+ul. Kociszewskich 
+ul. Kocka 
+ul. Kogucia 
+ul. Kokarda 
+ul. Kokoryczki 
+ul. Kokosowa 
+ul. Kołacińska 
+ul. Kolady 
+ul. Kolarska 
+ul. Kolbaczewska 
+ul. Kołczana 
+ul. Kolegiacka 
+ul. Kolejarska 
+ul. Kolejowa 
+ul. Kolektorska 
+ul. Kolendrowa 
+ul. Kolibrów 
+ul. Kolista 
+ul. Kolneńska 
+ul. Kołobrzeska 
+ul. Kołodziejska 
+ul. Kolorowa 
+ul. Kołowa 
+ul. Kolska 
+ul. Kolumbijska 
+ul. Kombajnistów 
+ul. Kominiarska 
+ul. Komorowska 
+ul. Komorska 
+ul. Kompanii Kordian 
+ul. Kompasowa 
+ul. Komputerowa 
+ul. Komunardów 
+ul. Konarowa 
+ul. Koncertowa 
+ul. Kondracka 
+ul. Konduktorska 
+ul. Konewki 
+ul. Koniczynowa 
+ul. Koniecpolska 
+ul. Konińska 
+ul. Konopacka 
+ul. Konopna 
+ul. Konotopska 
+ul. Konrada Guderskiego 
+ul. Koński Jar 
+ul. Konstancińska 
+ul. Konstantego Ciołkowskiego 
+ul. Konstantego Ildefonsa Gałczyńskiego 
+ul. Konstruktorska 
+ul. Konturowa 
+ul. Kontuszowa 
+ul. Konwaliowa 
+ul. Konwiktorska 
+ul. Konwisarska 
+ul. Kopalniana 
+ul. Kopernika 
+ul. Kopijników 
+ul. Kopińska 
+ul. Koprowa 
+ul. Koprzywiańska 
+ul. Koralowa 
+ul. Korczyńska 
+ul. Kordiana 
+ul. Koreańska 
+ul. Korkowa 
+ul. Kormoranów 
+ul. Kórnicka 
+ul. Koronacyjna 
+ul. Koronowska 
+ul. Korowodu 
+ul. Korsarska 
+ul. Korsuńska 
+ul. Korsykańska 
+ul. Koryncka 
+ul. Korytnicka 
+ul. Korzenna 
+ul. Korzystna 
+ul. Kosaćcowa 
+ul. Kośby 
+ul. Kościańska 
+ul. Kościeliska 
+ul. Kościelna 
+ul. Kościerska 
+ul. Kościeszów 
+ul. Kościuszki 
+ul. Kościuszkowców 
+ul. Kosiarzy 
+ul. Kosmatki 
+ul. Kosmosu 
+ul. Kosobudzka 
+ul. Kosodrzewiny 
+ul. Kostrzyńska 
+ul. Kosynierów 
+ul. Koszalińska 
+ul. Koszęcińska 
+ul. Koszycka 
+ul. Koszykarska 
+ul. Koszykowa 
+ul. Kotlarska 
+ul. Kotwiczna 
+ul. Kotylion 
+ul. Kowelska 
+ul. Kowieńska 
+ul. Kozia 
+ul. Kozia Górka 
+ul. Kozielska 
+ul. Koziorożca 
+ul. Koźla 
+ul. Koźlaków 
+ul. Kozłowicka 
+ul. Koźmińska 
+ul. Kożuchowska 
+ul. Krajeńska 
+ul. Krakowiaków 
+ul. Krakowskie Przedmieście 
+ul. Krakusa 
+ul. Kramarska 
+ul. Krańcowa 
+ul. Krasiczyńska 
+ul. Kraski 
+ul. Kraśnicka 
+ul. Krasnobrodzka 
+ul. Krasnołęcka 
+ul. Krasnoludków 
+ul. Krasnowolska 
+ul. Krawiecka 
+ul. Krechowiecka 
+ul. Kredytowa 
+ul. Kremowa 
+ul. Kresowa 
+ul. Kręta 
+ul. Kretonowa 
+ul. Krobińska 
+ul. Krochmalna 
+ul. Kroczewska 
+ul. Krokusów 
+ul. Krokwi 
+ul. Króla Artura 
+ul. Króla Kazimierza 
+ul. Króla Maciusia 
+ul. Królewicza Aleksandra 
+ul. Królewicza Jakuba 
+ul. Królewska 
+ul. Królowej Aldony 
+ul. Królowej Jadwigi 
+ul. Królowej Marysieńki 
+ul. Królów Polskich 
+ul. Kronikarska 
+ul. Krośniewicka 
+ul. Krótka 
+ul. Krotoszyńska 
+ul. Krowia 
+ul. Króżańska 
+ul. Krucza 
+ul. Krupnicza 
+ul. Kruszwicka 
+ul. Kruszyńska 
+ul. Kruszyny 
+ul. Krymska 
+ul. Kryniczna 
+ul. Krynoliny 
+ul. Krypska 
+ul. Kryształowa 
+ul. Krzesanego 
+ul. Krzesiwa 
+ul. Krzewna 
+ul. Krzysztofa Arciszewskiego 
+ul. Krzysztofa Kamila Baczyńskiego 
+ul. Krzysztofa Kiersnowskiego 
+ul. Krzysztofa Kieślowskiego 
+ul. Krzysztofa Klenczona 
+ul. Krzysztofa Kolumba 
+ul. Krzysztofa Komedy 
+ul. Krzywa 
+ul. Krzywe Koło 
+ul. Krzywińska 
+ul. Krzywopoboczna 
+ul. Ksawerego Bronikowskiego 
+ul. Książęca 
+ul. Książkowa 
+ul. Księcia Bolesława 
+ul. Księcia Janusza 
+ul. Księcia Trojdena 
+ul. Księcia Witolda 
+ul. Księcia Ziemowita 
+ul. księdza Biskupa Juliusza Burschego 
+ul. Księdza Ignacego Kłopotowskiego 
+ul. Księdza Ignacego Skorupki 
+ul. Księdza Jerzego Popiełuszki 
+ul. Księdza Juliana Chrościckiego 
+ul. Księdza Skorupki 
+ul. Księdza Teofila Boguckiego 
+ul. Księgarzy 
+ul. Księżnej Anny 
+ul. Księżycowa 
+ul. Kubańska 
+ul. Kubusia Puchatka 
+ul. Kudowska 
+ul. Kuflewska 
+ul. Kuglarska 
+ul. Kujawska 
+ul. Kukiełki 
+ul. Kukułki 
+ul. Kulczycka 
+ul. Kuligowska 
+ul. Kuniecka 
+ul. Kuny 
+ul. Kupiecka 
+ul. Kuracyjna 
+ul. Kurantów 
+ul. Kurhan 
+ul. Kurkowa 
+ul. Kuropatwy 
+ul. Kurpiowska 
+ul. Kurzawska 
+ul. Kuszników 
+ul. Kutnowska 
+ul. Kutrzeby 
+ul. Kuźnicy Kołłątajowskiej 
+ul. Ku Wiśle 
+ul. Kwarciana 
+ul. Kwatery Głównej 
+ul. Kwiatowa 
+ul. Kwiatów Polnych 
+ul. Kwiatów Polskich 
+ul. Kwidzyńska 
+ul. Kwitnąca 
+ul. Kwitnącego Sadu 
+ul. Kwitnącej Akacji 
+ul. Kwitnącej Łąki 
+ul. Kwitnącej Wiśni 
+ul. Łagodna 
+ul. Lajosa Kossutha 
+ul. Lakowa 
+ul. Lanciego 
+ul. Lasek Brzozowy 
+ul. Lawendowa 
+ul. Lechicka 
+ul. Lekarska 
+ul. Leonarda Buczkowskiego 
+ul. Leona Berensona 
+ul. Leona Kruczkowskiego 
+ul. Leonidasa 
+ul. Leśna 
+ul. Leszczynowa 
+ul. Leszno 
+ul. Letnia 
+ul. Lewicka 
+ul. Limby 
+ul. Lipowa 
+ul. Liryczna 
+ul. Literacka 
+ul. Lokalna 
+ul. Londyńska 
+ul. Lotnicza 
+ul. Łucka 
+ul. Ludwika Hirszfelda 
+ul. Ludwika Idzikowskiego 
+ul. Ludwika Kickiego 
+ul. Ludwika Kondratowicza 
+ul. Ludwika Krzywickiego 
+ul. Ludwika Rydygiera 
+ul. Ludwika van Beethovena 
+ul. Ludwika Waryńskiego 
+ul. Ludwinowska 
+ul. Łukasza Drewny 
+ul. Łukasza Gołębiowskiego 
+ul. Łukasza Górnickiego 
+ul. Macieja Kamieńskiego 
+ul. Macierzanki 
+ul. Magnolii 
+ul. Mahatmy Gandhiego 
+ul. Majora Franciszka M. Amałowicza „Tatara” 
+ul. Majowa 
+ul. Maksymiliana Hubera 
+ul. Mała 
+ul. Malachitowa 
+ul. Malinowa 
+ul. Mangalia 
+ul. Marcelego Bacciarellego 
+ul. Marcina Bielskiego 
+ul. Marcina Flisa 
+ul. Marcina Kątskiego 
+ul. Marcina Kromera 
+ul. Mariana Falskiego 
+ul. Mariana Keniga 
+ul. Mariana Krawczyka 
+ul. Mariana Pisarka 
+ul. Mariensztat 
+ul. Marii Bohuszewiczówny 
+ul. Marii Dąbrowskiej 
+ul. Marii Grzegorzewskiej 
+ul. Marii Jasnorzewskiej 
+ul. Marii Konopnickiej 
+ul. Marii Ludwiki Gonzagi 
+ul. Marii Rodziewiczówny 
+ul. Marii Skłodowskiej-Curie 
+ul. Marka Hłaski 
+ul. Markowska 
+ul. Marmurowa 
+ul. Marszałkowska 
+ul. Marymoncka 
+ul. Marywilska 
+ul. Maślaków 
+ul. Matuszewska 
+ul. Mazowiecka 
+ul. Melchiora Wańkowicza 
+ul. Metro Wierzbno 
+ul. Michała Andriollego 
+ul. Michała Bałuckiego 
+ul. Michała Drzymały 
+ul. Michała Faradaya 
+ul. Michała Kajki 
+ul. Michała Spisaka 
+ul. Mieczysława Fersta 
+ul. Mieczysława Frenkla 
+ul. Mieczysława Karłowicza 
+ul. Mieczysława Słowikowskiego 
+ul. Miedziana 
+ul. Międzynarodowa 
+ul. Międzyparkowa 
+ul. Mikołaja Drygały 
+ul. Mikołaja Gomółki 
+ul. Mikołaja Kopernika 
+ul. Mikołaja Reja 
+ul. Mikołajska 
+ul. Miła 
+ul. Minerska 
+ul. Miodowa 
+ul. Młodzieńcza 
+ul. Młynarska 
+ul. Modlińska 
+ul. Modrzewiowa 
+ul. Mokotowska 
+ul. Mokra 
+ul. Mołdawska 
+ul. Mordechaja Anielewicza 
+ul. Morelowa 
+ul. Mszczonowska 
+ul. Muranowska 
+ul. Myśliwiecka 
+ul. Napoleona Bonaparte 
+ul. Natalii Gąsiorowskiej 
+ul. Na Grobli 
+ul. Nefrytowa 
+ul. Nizinna 
+ul. Norberta Barlickiego 
+ul. Nowa 
+ul. Nowogrodzka 
+ul. Nowomiejska 
+ul. Nowoursynowska 
+ul. Nowy Świat 
+ul. Obiegowa 
+ul. Objazdowa 
+ul. Oboźna 
+ul. Obozowa 
+ul. Odolańska 
+ul. Odrębna 
+ul. Ogrodowa 
+ul. Okopowa 
+ul. Okrężna 
+ul. Okuniewska 
+ul. Olchy 
+ul. Olgi Boznańskiej 
+ul. Omulewska 
+ul. Orla 
+ul. Orzechowa 
+ul. Oskara Kolberga 
+ul. Ossowska 
+ul. Ostrobramska 
+ul. Ostródzka 
+ul. Oszmiańska 
+ul. Otwocka 
+ul. Pańska 
+ul. Parkowa 
+ul. Patriotów 
+ul. Perłowa 
+ul. Piaskowa 
+ul. Piastowska 
+ul. Piękna 
+ul. Pionierów 
+ul. Piotra Bardowskiego 
+ul. Piotra Gruszczyńskiego 
+ul. Piotra Skargi 
+ul. plac Dąbrowskiego 
+ul. plac Konstytucji 
+ul. plac Tadeusza Kotarbińskiego 
+ul. plac Trzech Krzyży 
+ul. plac Zamkowy 
+ul. Platynowa 
+ul. Płochocińska 
+ul. Płowiecka 
+ul. Plutonowego Jerzego Ciećwierza 
+ul. Podbipięty 
+ul. Podleśna 
+ul. Podpułkownika Zbigniewa Stanisława Kiedacza 
+ul. Podskarbińska 
+ul. Podwale 
+ul. Poezji 
+ul. Pogodna 
+ul. Połczyńska 
+ul. Poleczki 
+ul. Poli Gojawiczyńskiej 
+ul. Polna 
+ul. Południowa 
+ul. Porostowa 
+ul. Powstańców Śląskich 
+ul. Poziomkowa 
+ul. Poznańska 
+ul. Promienna 
+ul. Prosta 
+ul. Przechodnia 
+ul. Przejazdowa 
+ul. Przekorna 
+ul. Przeworska 
+ul. Przyce 
+ul. Przyleśna 
+ul. Ptasia 
+ul. Pułaskiego 
+ul. Puławska 
+ul. Pułkownika Zoltána Baló 
+ul. Racławicka 
+ul. Radarowa 
+ul. Radna 
+ul. Radosna 
+ul. Raduńska 
+ul. Rafała Krajewskiego 
+ul. Regulska 
+ul. Roalda Amundsena 
+ul. Robotnicza 
+ul. Rodziny Połanieckich 
+ul. Rogalińska 
+ul. Rolna 
+ul. Romualda Gutta 
+ul. Romualda Mielczarskiego 
+ul. rondo Dmowskiego 
+ul. Rosy Bailly 
+ul. Równa 
+ul. Różana 
+ul. Rubinowa 
+ul. Rumiana 
+ul. Rumiankowa 
+ul. rynek Starego Miasta 
+ul. Rysia 
+ul. Ryżowa 
+ul. Rzemieślnicza 
+ul. Sabały 
+ul. Sadowa 
+ul. Sałatkowa 
+ul. Salvadora Dali 
+ul. Sandomierska 
+ul. Sarenki 
+ul. Sasanki 
+ul. Saska 
+ul. Sebastiana Klonowica 
+ul. Sękocińska 
+ul. Senatorska 
+ul. Seweryna Goszczyńskiego 
+ul. Seweryna Krzyżanowskiego 
+ul. Sewerynów 
+ul. Sienna 
+ul. Siennicka 
+ul. Skalbmierska 
+ul. Skarbka z Gór 
+ul. Skaryszewska 
+ul. Skibicka 
+ul. Skierniewicka 
+ul. skwer Adolfa Marii Bocheńskiego 
+ul. skwer Kardynała Stefana Wyszyńskiego 
+ul. skwer Pułkownika Zdzisława Kuźmirskiego-Pacaka 
+ul. Śliska 
+ul. Słomczyńska 
+ul. Słoneczna 
+ul. Słowicza 
+ul. Śmiała 
+ul. Smocza 
+ul. Smolna 
+ul. Smyczkowa 
+ul. Śnieżna 
+ul. Sójki 
+ul. Solec 
+ul. Sonaty 
+ul. Sosnowa 
+ul. Sosnowiecka 
+ul. Spacerowa 
+ul. Spokojna 
+ul. Spółdzielcza 
+ul. Sportowa 
+ul. Środkowa 
+ul. Stanisława Barcewicza 
+ul. Stanisława Barei 
+ul. Stanisława Chudoby 
+ul. Stanisława Dąbka 
+ul. Stanisława Dubois 
+ul. Stanisława Fiszera 
+ul. Stanisława Grochowiaka 
+ul. Stanisława Grzesiuka 
+ul. Stanisława Hempla 
+ul. Stanisława Herbsta 
+ul. Stanisława Jachowicza 
+ul. Stanisława Jagmina 
+ul. Stanisława Kazury 
+ul. Stanisława Kierbedzia 
+ul. Stanisława Konarskiego 
+ul. Stanisława Kostki Potockiego 
+ul. Stanisława Krupki 
+ul. Stanisława Kulczyńskiego 
+ul. Stanisława Kunickiego 
+ul. Stanisława Ligonia 
+ul. Stanisława Moniuszki 
+ul. Stanisława Przybyszewskiego 
+ul. Stanisława Staszica 
+ul. Stanisława Żółkiewskiego 
+ul. Stefana Baleya 
+ul. Stefana Banacha 
+ul. Stefana Batorego 
+ul. Stefana Berenta 
+ul. Stefana Bobrowskiego 
+ul. Stefana Bryły 
+ul. Stefana Czarnieckiego 
+ul. Stefana Dembego 
+ul. Stefana Drzewieckiego 
+ul. Stefana Hankiewicza 
+ul. Stefana Jaracza 
+ul. Stefana Kopcińskiego 
+ul. Stefana Starzyńskiego 
+ul. Stefana Żeromskiego 
+ul. Sternicza 
+ul. Stokrotki 
+ul. Stryjeńskich 
+ul. św. Franciszka Salezego 
+ul. św. Maksymiliana Kolbego 
+ul. Świderska 
+ul. Świebodzińska 
+ul. Świerkowa 
+ul. Świerszcza 
+ul. Świętych Cyryla i Metodego 
+ul. Sylwestra Bartosika 
+ul. Sylwestra Kaliskiego 
+ul. Szafirowa 
+ul. Szarych Szeregów 
+ul. Szczepana Grzeszczyka 
+ul. Szeroka 
+ul. Szklarniowa 
+ul. Szkolna 
+ul. Szlachecka 
+ul. Szmaragdowa 
+ul. Szymona Askenazego 
+ul. Szyszkowa 
+ul. Tadeusza Borowskiego 
+ul. Tadeusza Boya-Żeleńskiego 
+ul. Tadeusza Czackiego 
+ul. Tadeusza Gajcego 
+ul. Tadeusza Hennela 
+ul. Tadeusza Hołówki 
+ul. Tadeusza Joteyki 
+ul. Tadeusza Korsaka 
+ul. Tadeusza Korzona 
+ul. Tadeusza Kościuszki 
+ul. Tadeusza Krępowieckiego 
+ul. Tadeusza Kulisiewicza 
+ul. Tadeusza Rejtana 
+ul. Tamka 
+ul. Tarczyńska 
+ul. Targowa 
+ul. Tęczowa 
+ul. Telimeny 
+ul. Teodora Axentowicza 
+ul. Teodora Duracza 
+ul. Teofila Jaśkiewicza 
+ul. Tomasza Edisona 
+ul. Topazowa 
+ul. Topiel 
+ul. Topolowa 
+ul. Torfowa 
+ul. Towarowa 
+ul. Trakt Brzeski (Wesoła) 
+ul. Trakt Lubelski 
+ul. Transportowców 
+ul. Turkusowa 
+ul. Tylmana Gamerskiego 
+ul. Tymiankowa 
+ul. Tytusa Chałubińskiego 
+ul. Ułańska 
+ul. Ulica Adriatycka 
+ul. Ulica Dezyderego Adama Chłapowskiego 
+ul. Ulica Złota 
+ul. Urocza 
+ul. Wacława Borowego 
+ul. Wacława Gąsiorowskiego 
+ul. Wacława Lachmana 
+ul. Waligóry 
+ul. Wallenroda 
+ul. Wał Miedzeszyński 
+ul. Wapienna 
+ul. Warecka 
+ul. Warszawska 
+ul. Wąska 
+ul. Wąski Dunaj 
+ul. Wawelska 
+ul. Wawerska 
+ul. Wenantego Burdzińskiego 
+ul. Wespazjana Kochowskiego 
+ul. Weteranów 
+ul. Widok 
+ul. Wiejska 
+ul. Wiertnicza 
+ul. Wierzbowa 
+ul. Wikingów 
+ul. Wiktora Gomulickiego 
+ul. Wiktorii Kaweckiej 
+ul. Wilcza 
+ul. Wileńska 
+ul. Wilhelma Konrada Roentgena 
+ul. Wincentego Kadłubka 
+ul. Wincentego Rzymowskiego 
+ul. Wincentego Witosa 
+ul. Wiosenna 
+ul. Wiślana 
+ul. Wiśniowa 
+ul. Wita Stwosza 
+ul. Witolda Doroszewskiego 
+ul. Witolda Gombrowicza 
+ul. Władysława Bandurskiego 
+ul. Władysława Bełzy 
+ul. Władysława Bieńczaka 
+ul. Władysława Broniewskiego 
+ul. Władysława Hańczy 
+ul. Władysława Hassa 
+ul. Władysława Jana Grabskiego 
+ul. Władysława Korotyńskiego 
+ul. Władysława Syrokomli 
+ul. Włodzimierza Dolańskiego 
+ul. Włodzimierza Kołosa 
+ul. Wojciecha Bogusławskiego 
+ul. Wojciecha Chrzanowskiego 
+ul. Wojciecha Gersona 
+ul. Wojciecha Górskiego 
+ul. Wojciecha Korfantego 
+ul. Wolność 
+ul. Wołodyjowskiego 
+ul. Wołoska 
+ul. Wolska 
+ul. Wrzosowa 
+ul. Wschodnia 
+ul. Współczesna 
+ul. Wspólna 
+ul. Wybrzeże Helskie 
+ul. Wybrzeże Szczecińskie 
+ul. Wycieczka 
+ul. Xawerego Dunikowskiego 
+ul. Zaciszna 
+ul. Zagajnikowa 
+ul. Zagórna 
+ul. Zajęcza 
+ul. Zakątek 
+ul. Zakopiańska 
+ul. Zapiecek 
+ul. Zaułek 
+ul. Zbigniewa Burzyńskiego 
+ul. Zbigniewa Gęsickiego 
+ul. Zbigniewa Gęsickiego "Juno" 
+ul. Zbiorowa 
+ul. Zbyszka Cybulskiego 
+ul. Zdrojowa 
+ul. Żeglarska 
+ul. Żelazna 
+ul. Zenona Klemensiewicza 
+ul. Zgoda 
+ul. Złotej Jesieni 
+ul. Żołny 
+ul. Źródlana 
+ul. Żurawia 
+ul. Żwirki i Wigury 
+ul. Zwoleńska 
+ul. Zwycięzców 
+ul. Zygmunta Glogera 
+ul. Zygmunta Jórskiego 
+ul. Zygmunta Krasińskiego 
+ul. Zygmunta Słomińskiego 
+ul. Żytnia 
+ul. Żywiczna 
