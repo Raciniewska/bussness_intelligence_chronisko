@@ -1,0 +1,9 @@
+reklamacja
+zwrot
+zagubiona paczka
+zniszczona paczka
+brakujace zamowienie
+spoznione zamowienie
+zaginione zamowienie
+zawmowienie uszkodzone
+inne
