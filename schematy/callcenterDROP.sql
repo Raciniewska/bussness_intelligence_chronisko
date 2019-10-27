@@ -1,0 +1,10 @@
+drop table rozmowa
+drop table sprawa
+drop table produkty_w_zamowieniu
+drop table produkt
+drop table zamowienie
+drop table agent
+drop table klient
+drop table magazyn
+drop table firma_kurierska
+drop table fabryka
