@@ -8,6 +8,7 @@ import math
 import codecs
 
 rozp_zatrudniania = datetime.strptime('2000-05-04', '%Y-%m-%d')
+zak_produkcji=datetime.strptime('2000-05-03', '%Y-%m-%d')
 teraz = datetime.strptime('2019-10-26', '%Y-%m-%d')
 urodzenie_start = datetime.strptime('1919-10-26', '%Y-%m-%d')
 urodzenie_koniec = datetime.strptime('2001-10-26', '%Y-%m-%d')
@@ -100,7 +101,6 @@ del imiona_m[:]
 del nazwiska_d[:]
 del nazwiska_m[:]
 
-
 #PRODUKT BULK
 produkt_bulk=open("bulks/produkt.bulk", "w",encoding='utf-8')
 nazwy_produktow = open('dane_do_generowania/nazwy_produktow.txt',encoding="utf-8").read().splitlines()
@@ -108,7 +108,7 @@ nazwy_producentow = open('dane_do_generowania/producenci.txt',encoding="utf-8").
 liczba_produktow=len(nazwy_producentow)*len(nazwy_produktow)+1
 for id in range(len(nazwy_producentow)*len(nazwy_produktow)):
     produkt_bulk.write(str(id+1)+"|"+nazwy_produktow[id%len(nazwy_produktow)]+"|"+str(random.randint(15,1000))+"."+str(random.randint(0,99))
-    +"|"+nazwy_producentow[math.ceil(id/len(nazwy_produktow))-1]+"|" + str(random_date(rozp_produkcji,teraz).date())+"|"+
+    +"|"+nazwy_producentow[math.ceil(id/len(nazwy_produktow))-1]+"|" + str(random_date(rozp_produkcji,zak_produkcji).date())+"|"+
     str(random.randint(1,liczba_fabryk))+"|"+str(random.randint(1,liczba_magazynow))+"\n")
 id=0
 produkt_bulk.close()

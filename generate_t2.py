@@ -9,6 +9,8 @@ koniec_czasu = datetime.strptime('2019-12-27', '%Y-%m-%d')
 rozpo_czasu=datetime.strptime('2019-10-27', '%Y-%m-%d')
 urodzenie_start = datetime.strptime('1919-10-26', '%Y-%m-%d')
 urodzenie_koniec = datetime.strptime('2001-10-26', '%Y-%m-%d')
+rozp_produkcji = datetime.strptime('2018-01-01', '%Y-%m-%d')
+zak_produkcji = datetime.strptime('2019-10-26', '%Y-%m-%d')
 maile = ['gmail','onet','wp','o2']
 
 def random_date(start, end):
@@ -69,7 +71,7 @@ liczba_magazynow = len(open('dane_do_generowania/magazyn_nazwa_i_adres.txt',enco
 liczba_produktow = len(open('bulks/produkt.bulk',encoding="utf-8").read().splitlines())
 for id in range(len(nazwy_producentow)):
     produkt_bulk.write(str(liczba_produktow+1)+"|"+"brytwanna szklana"+"|"+str(random.randint(15,1000))+"."+str(random.randint(0,99))
-    +"|"+nazwy_producentow[id]+"|" + str(random_date(rozpo_czasu,koniec_czasu).date())+"|"+
+    +"|"+nazwy_producentow[id]+"|" + str(random_date(rozp_produkcji,zak_produkcji).date())+"|"+
     str(random.randint(1,liczba_fabryk))+"|"+str(random.randint(1,liczba_magazynow))+"\n")
     liczba_produktow=liczba_produktow+1
 id=0
