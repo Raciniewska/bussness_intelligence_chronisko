@@ -83,11 +83,11 @@ czas_zakonczenia datetime,
 )
 
 create table produkty_w_zamowieniu(
-ID_zamowienia integer,
 ID_produktu integer,
+ID_zamowienia integer,
+ilosc integer,
+cena numeric (8,2),
 PRIMARY KEY (ID_zamowienia, ID_produktu),
 FOREIGN KEY(ID_zamowienia) REFERENCES zamowienie(ID_zamowienia),
 FOREIGN KEY(ID_produktu) REFERENCES produkt(ID_produktu),
-cena numeric (8,2),
-)
 
