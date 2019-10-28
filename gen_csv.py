@@ -19,14 +19,14 @@ urodzenie_start = datetime.strptime('1919-10-26', '%Y-%m-%d')
 urodzenie_koniec = datetime.strptime('2001-10-26', '%Y-%m-%d')
 maile = ['gmail','onet','wp','o2']
 
-rozmowy = open("bulks/rozmowa.bulk")
+rozmowy = open("bulks/rozmowa.bulk", encoding="utf-8")
 miasta = open('dane_do_generowania/ludnosc_do_miasta.txt', encoding="utf-8").read().splitlines()
 ulice = open('dane_do_generowania/ulice_polskie.txt', encoding="utf-8").read().splitlines()
 
 #---------------------------------------------#
 #-------------ANKIETA KLIENTA-----------------#
 
-ankieta_klienta = open("arkusze_csv/ankieta_klienta.csv", mode='w')
+ankieta_klienta = open("arkusze_csv/ankieta_klienta.csv", mode='w', encoding="utf-8")
 print("Jaki procent klientów ma wypełniac ankietę po rozmowie?")
 #procent_klientow = input()
 procent_klientow = 10
@@ -53,7 +53,7 @@ for line in rozmowy:
 #---------------------------------------------#
 #-------------ANKIETA MANAGERA 1----------------#
 
-agenci = open("bulks/agent.bulk")
+agenci = open("bulks/agent.bulk", encoding="utf-8")
 arkusz_men_1 = open("arkusze_csv/arkusz_managera_1.csv", mode ='w')
 arkusz_men_1.write("numer pracownika, imię i nazwisko, adres, data urodzenia, adres email, numer zespołu" + '\n')
 for line in agenci:
@@ -71,8 +71,8 @@ for line in agenci:
 #---------------------------------------------#
 #-------------ANKIETA MANAGERA 2----------------#
 
-rozmowy = open("bulks/rozmowa.bulk")
-ankieta_menagera = open("arkusze_csv/arkusz_managera_2.csv", mode = 'w')
+rozmowy = open("bulks/rozmowa.bulk", encoding="utf-8")
+ankieta_menagera = open("arkusze_csv/arkusz_managera_2.csv", mode = 'w', encoding="utf-8")
 ankieta_menagera.write("identyfikator rozmowy, numer pracownika, ocena ogólna jakości, "
                        "ocena rzeczowości, ocena uprzejmości, ocena cieprliwości, "
                        "ocena poprawności podanych informacji, data przeprowadzenia oceny" + '\n')
