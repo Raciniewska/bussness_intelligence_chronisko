@@ -113,14 +113,15 @@ prod_do_zam_bulk=open("bulks_t2/produkt_do_zamowienia_t2.bulk", "w",encoding="ut
 id_do_zam=liczba_zamowien
 for id in range(liczba_zamowien):
     produkty=[]
-    for ile_prod in range(1,3):
+    losuj_ilosc = random.randint(1,4)
+    for ile_prod in range(1,losuj_ilosc):
         produkt = random.randint(1, liczba_produktow)
         while check_if_on_list(produkty,produkt):
             produkt = random.randint(1, liczba_produktow)
         produkty.append(produkt)
-        for item in produkty:
-            prod_do_zam_bulk.write(str(item)+"|"+str(id_do_zam+1)+"|"+str(random.randrange(1,10))+"|"+str(random.randint(15,1000))+"."+str(random.randint(0,99))+"\n")
-        id_do_zam=id_do_zam+1
+    for item in produkty:
+        prod_do_zam_bulk.write(str(item)+"|"+str(id_do_zam+1)+"|"+str(random.randrange(1,10))+"|"+str(random.randint(15,1000))+"."+str(random.randint(0,99))+"\n")
+    id_do_zam=id_do_zam+1
 id=0
 prod_do_zam_bulk.close()
 

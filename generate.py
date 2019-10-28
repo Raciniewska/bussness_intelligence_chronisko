@@ -148,13 +148,14 @@ def check_if_on_list(lista,produkt):
 prod_do_zam_bulk=open("bulks/produkt_do_zamowienia.bulk", "w",encoding='utf-8')
 for id in range(liczba_zamowien):
     produkty=[]
-    for ile_prod in range(1,6):
+    losuj_ilosc = random.randint(1, 4)
+    for ile_prod in range(1,losuj_ilosc):
         produkt = random.randint(1, liczba_produktow)
         while check_if_on_list(produkty,produkt):
             produkt = random.randint(1, liczba_produktow)
         produkty.append(produkt)
-        for item in produkty:
-            prod_do_zam_bulk.write(str(item)+"|"+str(id+1)+"|"+str(random.randrange(1,10))+"|"+str(random.randint(15,1000))+"."+str(random.randint(0,99))+"\n")
+    for item in produkty:
+        prod_do_zam_bulk.write(str(item)+"|"+str(id+1)+"|"+str(random.randrange(1,10))+"|"+str(random.randint(15,1000))+"."+str(random.randint(0,99))+"\n")
 id=0
 prod_do_zam_bulk.close()
 
