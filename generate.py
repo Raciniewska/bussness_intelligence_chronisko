@@ -90,7 +90,7 @@ for id in range(liczba_klientow):
         klient_bulk.write(str(id + 1) + "|" + imiona_d[random.randint(0,len(imiona_d)-1)] + "|" + nazwiska_d[random.randint(0,len(nazwiska_d)-1)])
     else:
         klient_bulk.write(str(id + 1) + "|" + imiona_m[random.randint(0,len(imiona_m)-1)] + "|" + nazwiska_m[random.randint(0,len(nazwiska_m)-1)])
-    klient_bulk.write("|" +miasta[random.randrange(0,len(miasta)-1,1)].split(',')[1]+"|"+random.choice(ulice)+
+    klient_bulk.write("|" +miasta[random.randrange(0,len(miasta)-1,1)].split(',')[1]+"|"+random.choice(ulice)+"|"+
     str(random.randint(1,200))+"/"+str(random.randint(1,50))+"|" + str(random.randrange(100000000, 999999999, 1)) + "|" +
     str(random_date(urodzenie_start,urodzenie_koniec).date()) +"|"+ ''.join(secrets.choice(string.ascii_uppercase + string.digits) for _ in range(12))
     +"@"+maile[random.randint(0,len(maile)-1)]+".com|"+str(pesel_start)+"\n")
@@ -168,6 +168,7 @@ sprawa_bulk=open("bulks/sprawa.bulk", "w",encoding='utf-8')
 liczba_spraw=10000
 szczeg_zam = open('bulks/zamowienie.bulk', encoding="utf-8").read().splitlines()
 typ_sprawy = open('dane_do_generowania/typy_spraw.txt', encoding="utf-8").read().splitlines()
+ID_sprawy=1
 for id in range(liczba_spraw):
     numer_zam=random.randint(1,liczba_zamowien)
     data_pocz_zam=datetime.strptime(szczeg_zam[numer_zam-1].split('|')[4],'%Y-%m-%d')
@@ -180,7 +181,8 @@ for id in range(liczba_spraw):
     klient = szczeg_zam[numer_zam-1].split('|')[1]
     #TODO sprawdzac produkt do zamowienia
     sprawa_bulk.write(str(id + 1) + "|" +str(data_pocz_zam.date())+"|"+str(zakonczenie.date())+"|"+
-        klient+"|"+str(random.randint(1,liczba_agentow))+"|"+str(numer_zam)+"|"+str(random.randint(1,liczba_produktow))+"|"+typ_sprawy[random.randint(0,len(typ_sprawy)-1)]+"\n")
+        klient+"|"+str(random.randint(1,liczba_agentow))+"|"+str(numer_zam)+"|"+str(random.randint(1,liczba_produktow))+"|"+typ_sprawy[random.randint(0,len(typ_sprawy)-1)]+"|"+str(ID_sprawy)+"\n")
+    ID_sprawy=ID_sprawy+1
 id=0
 sprawa_bulk.close()
 del szczeg_zam[:]
