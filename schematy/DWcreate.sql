@@ -33,17 +33,8 @@ ID_Miesiąca numeric foreign key references miesiąc(ID_Miesiąca),
 Dzień_Tygodnia varchar(20) not null check(Dzień_Tygodnia in('poniedziałek','wtorek', 'środa', 'czwartek', 'piątek', 'sobota', 'niedziela')),
 Dzień_Pracujący varchar(20) not null check(Dzień_Pracujący in('wolny','roboczy')),
 Czas_Wakacyjny varchar(50) not null check(Czas_Wakacyjny in('poza wakacjami', 'wakacje zimowe', 'wakacje letnie')),
-Święto varchar(100) check(Święto in('Nowy Rok', 'Trzech Króli', 'Walentynki', 'Dzień Babci', 'Dzień Dziadka',
- 'Dzień Kobiet', 'Wielkanoc', 'Poniedziałek Wielkanocny', 'Święto Pracy', 'Święto Narodowe Trzeciego Maja',
-  'Dzień Matki', 'Dzień Dziecka', 'Dzień Ojca', 'Dzień Chłopaka', 'Wszystkich Świętych', 'Narodowe Święto Niepodległości'
-  , 'Boże Narodzenie', 'drugi dzień Bożego Narodzenia')),
-Dzień_Przedświąteczny varchar(100) check(Dzień_Przedświąteczny in('jutro Nowy Rok', 'jutro Trzech Króli',
- 'jutro Walentynki', 'jutro Dzień Babci', 'jutro Dzień Dziadka',
- 'jutro Dzień Kobiet', 'jutro Wielkanoc', 'jutro Poniedziałek Wielkanocny',
- 'jutro Święto Pracy', 'jutro Święto Narodowe Trzeciego Maja', 'jutro Dzień Matki',
- 'jutro Dzień Dziecka', 'jutro Dzień Ojca', 'jutro Dzień Chłopaka',
- 'jutro Wszystkich Świętych', 'jutro Narodowe Święto Niepodległości',
- 'jutro Boże Narodzenie', 'jutro drugi dzień Bożego Narodzenia'))
+Święto varchar(100) ,
+Dzień_Przedświąteczny varchar(100)
 );
 
 create table sprawa(
