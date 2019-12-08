@@ -21,6 +21,7 @@ adres_wysylki varchar(80),
 numer_telefonu numeric,
 data_urodzenia date,
 email varchar(40),
+PESEL varchar(11)
 )
 
 create table firma_kurierska(
