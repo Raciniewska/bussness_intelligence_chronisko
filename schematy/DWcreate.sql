@@ -77,7 +77,8 @@ Numer_Domu varchar(10),
 Miasto varchar(80),
 Status varchar(30) not null check(Status in('nowy', 'okazjonalny', 'częsty', 'stały')),
 ID_Daty_Dołączenia numeric foreign key references data(ID_Daty),
-Aktualność varchar(20) not null check (Aktualność in('aktualny','nieaktualny'))
+Aktualność BIT NOT NULL DEFAULT 1,
+PESEL varchar(11),
 );
 
 create table rozmowa(
