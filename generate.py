@@ -66,12 +66,14 @@ nazwiska_d = open('dane_do_generowania/nazwiska_damskie_polskie.txt',encoding='u
 nazwiska_m = open('dane_do_generowania/nazwiska_meskie_polskie.txt',encoding='utf-8').read().splitlines()
 #liczba_agentow = input()
 liczba_agentow = 25
+pesel_start=10000000000
 for id in range(liczba_agentow):
     if random.randrange(20) % 2 == 0:
        agent_bulk.write(str(id+1)+"|"+random.choice(imiona_d)+"|"+random.choice(nazwiska_d))
     else :
         agent_bulk.write(str(id+1) + "|" + (random.choice(imiona_m)) +"|"+ random.choice(nazwiska_m))
-    agent_bulk.write("|"+str(random.randrange(10000000000,99999999999,1))+"|"+str(random_date(rozp_zatrudniania, teraz).date())+"\n")
+    agent_bulk.write("|"+str(pesel_start)+"|"+str(random_date(rozp_zatrudniania, teraz).date())+"\n")
+    pesel_start=pesel_start+1
 id =0
 agent_bulk.close()
 
@@ -82,6 +84,7 @@ liczba_klientow = 10000
 klient_bulk=open("bulks/klient.bulk", "w",encoding='utf-8')
 miasta = open('dane_do_generowania/ludnosc_do_miasta.txt',encoding="utf-8").read().splitlines()
 ulice = open('dane_do_generowania/ulice_polskie.txt',encoding="utf-8").read().splitlines()
+pesel_start=10000000000
 for id in range(liczba_klientow):
     if random.randrange(20) % 2 == 0:
         klient_bulk.write(str(id + 1) + "|" + imiona_d[random.randint(0,len(imiona_d)-1)] + "|" + nazwiska_d[random.randint(0,len(nazwiska_d)-1)])
@@ -90,7 +93,8 @@ for id in range(liczba_klientow):
     klient_bulk.write("|" +miasta[random.randrange(0,len(miasta)-1,1)].split(',')[1]+"|"+random.choice(ulice)+
     str(random.randint(1,200))+"/"+str(random.randint(1,50))+"|" + str(random.randrange(100000000, 999999999, 1)) + "|" +
     str(random_date(urodzenie_start,urodzenie_koniec).date()) +"|"+ ''.join(secrets.choice(string.ascii_uppercase + string.digits) for _ in range(12))
-    +"@"+maile[random.randint(0,len(maile)-1)]+".com"+"\n")
+    +"@"+maile[random.randint(0,len(maile)-1)]+".com|"+str(pesel_start)+"\n")
+    pesel_start=pesel_start+1
 id = 0
 klient_bulk.close()
 
