@@ -6,7 +6,7 @@ create table agent(
 ID_agenta integer not null identity (1,1) primary key,
 imie varchar(40),
 nazwisko varchar(80),
-PESEL bigint check (PESEL < 99999999999 AND PESEL > 00010000000),
+PESEL bigint check (PESEL < 99999999999 AND PESEL > 00000000000),
 data_zatrudnienia date,
 data_zakonczenia date,
 
