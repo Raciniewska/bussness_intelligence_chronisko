@@ -11,8 +11,8 @@
   DTS:LocaleID="1045"
   DTS:ObjectName="data"
   DTS:PackageType="5"
-  DTS:VersionBuild="19"
-  DTS:VersionGUID="{A4D0AB0E-B4A3-4435-B673-ACF9D7F8A2B0}">
+  DTS:VersionBuild="21"
+  DTS:VersionGUID="{AA0F6905-31C7-4369-918B-8337F9321CF8}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -780,13 +780,13 @@ where [refTable].[start] = ?</property>
                   description="Specifies the SQL statement that generates the lookup table."
                   expressionType="Notify"
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT DATEADD("dd", -1, data) as d, 'Jutro ' + swieto as HolidayEve FROM swieta;</property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT DATEADD("dd", -1, data) as d, 'jutro ' + swieto as HolidayEve FROM swieta;</property>
                 <property
                   dataType="System.String"
                   description="Specifies a SQL statement that uses parameters to generate the lookup table."
                   expressionType="Notify"
                   name="SqlCommandParam"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">select * from (SELECT DATEADD("dd", -1, data) as d, 'Jutro ' + swieto as HolidayEve FROM swieta;) [refTable]
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">select * from (SELECT DATEADD("dd", -1, data) as d, 'jutro ' + swieto as HolidayEve FROM swieta;) [refTable]
 where [refTable].[d] = ?</property>
                 <property
                   dataType="System.Int32"
@@ -1193,81 +1193,6 @@ where [refTable].[d] = ?</property>
               </outputs>
             </component>
             <component
-              refId="Package\insert into date\no holiday"
-              componentClassID="Microsoft.DerivedColumn"
-              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
-              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
-              name="no holiday"
-              usesDispositions="true">
-              <inputs>
-                <input
-                  refId="Package\insert into date\no holiday.Inputs[Derived Column Input]"
-                  description="Input to the Derived Column Transformation"
-                  name="Derived Column Input">
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\insert into date\no holiday.Outputs[Derived Column Output]"
-                  description="Default Output of the Derived Column Transformation"
-                  exclusionGroup="1"
-                  name="Derived Column Output"
-                  synchronousInputId="Package\insert into date\no holiday.Inputs[Derived Column Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\insert into date\no holiday.Outputs[Derived Column Output].Columns[holiday]"
-                      codePage="1250"
-                      dataType="str"
-                      errorOrTruncationOperation="Computation"
-                      errorRowDisposition="FailComponent"
-                      length="128"
-                      lineageId="Package\insert into date\no holiday.Outputs[Derived Column Output].Columns[holiday]"
-                      name="holiday"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Expression"
-                          name="Expression">(DT_STR,128,1250)("Zwykły dzień")</property>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Friendly Expression"
-                          expressionType="Notify"
-                          name="FriendlyExpression">(DT_STR,128,1250)("Zwykły dzień")</property>
-                      </properties>
-                    </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\insert into date\no holiday.Outputs[Derived Column Error Output]"
-                  description="Error Output of the Derived Column Transformation"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="Derived Column Error Output"
-                  synchronousInputId="Package\insert into date\no holiday.Inputs[Derived Column Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\insert into date\no holiday.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\insert into date\no holiday.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\insert into date\no holiday.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\insert into date\no holiday.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
               refId="Package\insert into date\not a vacation"
               componentClassID="Microsoft.DerivedColumn"
               contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
@@ -1335,81 +1260,6 @@ where [refTable].[d] = ?</property>
                       refId="Package\insert into date\not a vacation.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
                       dataType="i4"
                       lineageId="Package\insert into date\not a vacation.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\insert into date\not an Eve"
-              componentClassID="Microsoft.DerivedColumn"
-              contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
-              description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
-              name="not an Eve"
-              usesDispositions="true">
-              <inputs>
-                <input
-                  refId="Package\insert into date\not an Eve.Inputs[Derived Column Input]"
-                  description="Input to the Derived Column Transformation"
-                  name="Derived Column Input">
-                  <externalMetadataColumns />
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\insert into date\not an Eve.Outputs[Derived Column Output]"
-                  description="Default Output of the Derived Column Transformation"
-                  exclusionGroup="1"
-                  name="Derived Column Output"
-                  synchronousInputId="Package\insert into date\not an Eve.Inputs[Derived Column Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\insert into date\not an Eve.Outputs[Derived Column Output].Columns[HolidayEve]"
-                      codePage="1250"
-                      dataType="str"
-                      errorOrTruncationOperation="Computation"
-                      errorRowDisposition="FailComponent"
-                      length="128"
-                      lineageId="Package\insert into date\not an Eve.Outputs[Derived Column Output].Columns[HolidayEve]"
-                      name="HolidayEve"
-                      truncationRowDisposition="FailComponent">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Expression"
-                          name="Expression">(DT_STR,128,1250)("Brak")</property>
-                        <property
-                          containsID="true"
-                          dataType="System.String"
-                          description="Derived Column Friendly Expression"
-                          expressionType="Notify"
-                          name="FriendlyExpression">(DT_STR,128,1250)("Brak")</property>
-                      </properties>
-                    </outputColumn>
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-                <output
-                  refId="Package\insert into date\not an Eve.Outputs[Derived Column Error Output]"
-                  description="Error Output of the Derived Column Transformation"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="Derived Column Error Output"
-                  synchronousInputId="Package\insert into date\not an Eve.Inputs[Derived Column Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\insert into date\not an Eve.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\insert into date\not an Eve.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\insert into date\not an Eve.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\insert into date\not an Eve.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
                       name="ErrorColumn"
                       specialFlags="2" />
                   </outputColumns>
@@ -2627,12 +2477,12 @@ END as "Dzień pracujący"
                   <externalMetadataColumns />
                 </input>
                 <input
-                  refId="Package\insert into date\Union All.Inputs[Union All Input 2]"
+                  refId="Package\insert into date\Union All.Inputs[Union All Input 3]"
                   hasSideEffects="true"
-                  name="Union All Input 2">
+                  name="Union All Input 3">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\insert into date\Union All.Inputs[Union All Input 2].Columns[Data]"
+                      refId="Package\insert into date\Union All.Inputs[Union All Input 3].Columns[Data]"
                       cachedDataType="dbTimeStamp"
                       cachedName="Data"
                       lineageId="Package\insert into date\OLE DB Source 1.Outputs[OLE DB Source Output].Columns[Data]">
@@ -2645,7 +2495,7 @@ END as "Dzień pracujący"
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\insert into date\Union All.Inputs[Union All Input 2].Columns[Rok]"
+                      refId="Package\insert into date\Union All.Inputs[Union All Input 3].Columns[Rok]"
                       cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="4"
@@ -2660,7 +2510,7 @@ END as "Dzień pracujący"
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\insert into date\Union All.Inputs[Union All Input 2].Columns[Miesiąc]"
+                      refId="Package\insert into date\Union All.Inputs[Union All Input 3].Columns[Miesiąc]"
                       cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="11"
@@ -2675,7 +2525,7 @@ END as "Dzień pracujący"
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\insert into date\Union All.Inputs[Union All Input 2].Columns[Dzień tygodnia]"
+                      refId="Package\insert into date\Union All.Inputs[Union All Input 3].Columns[Dzień tygodnia]"
                       cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="12"
@@ -2690,7 +2540,7 @@ END as "Dzień pracujący"
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\insert into date\Union All.Inputs[Union All Input 2].Columns[Dzień pracujący]"
+                      refId="Package\insert into date\Union All.Inputs[Union All Input 3].Columns[Dzień pracujący]"
                       cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="15"
@@ -2704,29 +2554,14 @@ END as "Dzień pracujący"
                           name="OutputColumnLineageID">#{Package\insert into date\Union All.Outputs[Union All Output 1].Columns[Dzień pracujący]}</property>
                       </properties>
                     </inputColumn>
-                    <inputColumn
-                      refId="Package\insert into date\Union All.Inputs[Union All Input 2].Columns[holiday]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="128"
-                      cachedName="holiday"
-                      lineageId="Package\insert into date\no holiday.Outputs[Derived Column Output].Columns[holiday]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\insert into date\Union All.Outputs[Union All Output 1].Columns[holiday]}</property>
-                      </properties>
-                    </inputColumn>
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
                 <input
-                  refId="Package\insert into date\Union All.Inputs[Union All Input 3]"
+                  refId="Package\insert into date\Union All.Inputs[Union All Input 2]"
                   dangling="true"
                   hasSideEffects="true"
-                  name="Union All Input 3">
+                  name="Union All Input 2">
                   <externalMetadataColumns />
                 </input>
               </inputs>
@@ -2899,12 +2734,12 @@ END as "Dzień pracujący"
                   <externalMetadataColumns />
                 </input>
                 <input
-                  refId="Package\insert into date\Union All 1.Inputs[Union All Input 2]"
+                  refId="Package\insert into date\Union All 1.Inputs[Union All Input 3]"
                   hasSideEffects="true"
-                  name="Union All Input 2">
+                  name="Union All Input 3">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 2].Columns[Data]"
+                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 3].Columns[Data]"
                       cachedDataType="dbTimeStamp"
                       cachedName="Data"
                       lineageId="Package\insert into date\Union All.Outputs[Union All Output 1].Columns[Data]">
@@ -2917,7 +2752,7 @@ END as "Dzień pracujący"
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 2].Columns[Rok]"
+                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 3].Columns[Rok]"
                       cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="4"
@@ -2932,7 +2767,7 @@ END as "Dzień pracujący"
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 2].Columns[Miesiąc]"
+                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 3].Columns[Miesiąc]"
                       cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="11"
@@ -2947,7 +2782,7 @@ END as "Dzień pracujący"
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 2].Columns[Dzień tygodnia]"
+                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 3].Columns[Dzień tygodnia]"
                       cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="12"
@@ -2962,7 +2797,7 @@ END as "Dzień pracujący"
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 2].Columns[Dzień pracujący]"
+                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 3].Columns[Dzień pracujący]"
                       cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="15"
@@ -2977,7 +2812,7 @@ END as "Dzień pracujący"
                       </properties>
                     </inputColumn>
                     <inputColumn
-                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 2].Columns[holiday]"
+                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 3].Columns[holiday]"
                       cachedCodepage="1250"
                       cachedDataType="str"
                       cachedLength="500"
@@ -2991,29 +2826,14 @@ END as "Dzień pracujący"
                           name="OutputColumnLineageID">#{Package\insert into date\Union All 1.Outputs[Union All Output 1].Columns[holiday]}</property>
                       </properties>
                     </inputColumn>
-                    <inputColumn
-                      refId="Package\insert into date\Union All 1.Inputs[Union All Input 2].Columns[HolidayEve]"
-                      cachedCodepage="1250"
-                      cachedDataType="str"
-                      cachedLength="128"
-                      cachedName="HolidayEve"
-                      lineageId="Package\insert into date\not an Eve.Outputs[Derived Column Output].Columns[HolidayEve]">
-                      <properties>
-                        <property
-                          containsID="true"
-                          dataType="System.Int32"
-                          description="Output column lineage ID"
-                          name="OutputColumnLineageID">#{Package\insert into date\Union All 1.Outputs[Union All Output 1].Columns[HolidayEve]}</property>
-                      </properties>
-                    </inputColumn>
                   </inputColumns>
                   <externalMetadataColumns />
                 </input>
                 <input
-                  refId="Package\insert into date\Union All 1.Inputs[Union All Input 3]"
+                  refId="Package\insert into date\Union All 1.Inputs[Union All Input 2]"
                   dangling="true"
                   hasSideEffects="true"
-                  name="Union All Input 3">
+                  name="Union All Input 2">
                   <externalMetadataColumns />
                 </input>
               </inputs>
@@ -3409,45 +3229,40 @@ END as "Dzień pracujący"
           </components>
           <paths>
             <path
-              refId="Package\insert into date.Paths[Data Conversion Output]"
-              endId="Package\insert into date\Sort.Inputs[Sort Input]"
-              name="Data Conversion Output"
-              startId="Package\insert into date\Data Conversion 1.Outputs[Data Conversion Output]" />
-            <path
               refId="Package\insert into date.Paths[Data Conversion Output1]"
               endId="Package\insert into date\Sort 1.Inputs[Sort Input]"
               name="Data Conversion Output"
               startId="Package\insert into date\Data Conversion.Outputs[Data Conversion Output]" />
+            <path
+              refId="Package\insert into date.Paths[Data Conversion Output]"
+              endId="Package\insert into date\Sort.Inputs[Sort Input]"
+              name="Data Conversion Output"
+              startId="Package\insert into date\Data Conversion 1.Outputs[Data Conversion Output]" />
             <path
               refId="Package\insert into date.Paths[Derived Column Output]"
               endId="Package\insert into date\Union All.Inputs[Union All Input 1]"
               name="Derived Column Output"
               startId="Package\insert into date\day off.Outputs[Derived Column Output]" />
             <path
-              refId="Package\insert into date.Paths[Derived Column Output1]"
-              endId="Package\insert into date\Union All.Inputs[Union All Input 2]"
-              name="Derived Column Output"
-              startId="Package\insert into date\no holiday.Outputs[Derived Column Output]" />
-            <path
-              refId="Package\insert into date.Paths[Derived Column Output2]"
-              endId="Package\insert into date\Union All 1.Inputs[Union All Input 2]"
-              name="Derived Column Output"
-              startId="Package\insert into date\not an Eve.Outputs[Derived Column Output]" />
-            <path
-              refId="Package\insert into date.Paths[Derived Column Output5]"
+              refId="Package\insert into date.Paths[Derived Column Output3]"
               endId="Package\insert into date\Union All 3.Inputs[Union All Input 1]"
               name="Derived Column Output"
               startId="Package\insert into date\Derived Column 1.Outputs[Derived Column Output]" />
             <path
-              refId="Package\insert into date.Paths[Derived Column Output3]"
+              refId="Package\insert into date.Paths[Derived Column Output2]"
+              endId="Package\insert into date\Derived Column 1.Inputs[Derived Column Input]"
+              name="Derived Column Output"
+              startId="Package\insert into date\Derived Column.Outputs[Derived Column Output]" />
+            <path
+              refId="Package\insert into date.Paths[Derived Column Output1]"
               endId="Package\insert into date\Union All 3.Inputs[Union All Input 2]"
               name="Derived Column Output"
               startId="Package\insert into date\not a vacation.Outputs[Derived Column Output]" />
             <path
-              refId="Package\insert into date.Paths[Derived Column Output4]"
-              endId="Package\insert into date\Derived Column 1.Inputs[Derived Column Input]"
-              name="Derived Column Output"
-              startId="Package\insert into date\Derived Column.Outputs[Derived Column Output]" />
+              refId="Package\insert into date.Paths[Lookup Match Output2]"
+              endId="Package\insert into date\Derived Column.Inputs[Derived Column Input]"
+              name="Lookup Match Output"
+              startId="Package\insert into date\is vacation.Outputs[Lookup Match Output]" />
             <path
               refId="Package\insert into date.Paths[Lookup Match Output]"
               endId="Package\insert into date\day off.Inputs[Derived Column Input]"
@@ -3459,25 +3274,20 @@ END as "Dzień pracujący"
               name="Lookup Match Output"
               startId="Package\insert into date\Lookup 1.Outputs[Lookup Match Output]" />
             <path
-              refId="Package\insert into date.Paths[Lookup Match Output2]"
-              endId="Package\insert into date\Derived Column.Inputs[Derived Column Input]"
-              name="Lookup Match Output"
-              startId="Package\insert into date\is vacation.Outputs[Lookup Match Output]" />
-            <path
-              refId="Package\insert into date.Paths[Lookup No Match Output]"
-              endId="Package\insert into date\no holiday.Inputs[Derived Column Input]"
+              refId="Package\insert into date.Paths[Lookup No Match Output1]"
+              endId="Package\insert into date\Union All.Inputs[Union All Input 3]"
               name="Lookup No Match Output"
               startId="Package\insert into date\is holiday.Outputs[Lookup No Match Output]" />
             <path
-              refId="Package\insert into date.Paths[Lookup No Match Output1]"
-              endId="Package\insert into date\not an Eve.Inputs[Derived Column Input]"
-              name="Lookup No Match Output"
-              startId="Package\insert into date\Lookup 1.Outputs[Lookup No Match Output]" />
-            <path
-              refId="Package\insert into date.Paths[Lookup No Match Output2]"
+              refId="Package\insert into date.Paths[Lookup No Match Output]"
               endId="Package\insert into date\not a vacation.Inputs[Derived Column Input]"
               name="Lookup No Match Output"
               startId="Package\insert into date\is vacation.Outputs[Lookup No Match Output]" />
+            <path
+              refId="Package\insert into date.Paths[Lookup No Match Output2]"
+              endId="Package\insert into date\Union All 1.Inputs[Union All Input 3]"
+              name="Lookup No Match Output"
+              startId="Package\insert into date\Lookup 1.Outputs[Lookup No Match Output]" />
             <path
               refId="Package\insert into date.Paths[Merge Join Output]"
               endId="Package\insert into date\OLE DB Destination.Inputs[OLE DB Destination Input]"
@@ -3504,11 +3314,6 @@ END as "Dzień pracujący"
               name="Sort Output"
               startId="Package\insert into date\Sort.Outputs[Sort Output]" />
             <path
-              refId="Package\insert into date.Paths[Union All Output 11]"
-              endId="Package\insert into date\Data Conversion 1.Inputs[Data Conversion Input]"
-              name="Union All Output 1"
-              startId="Package\insert into date\Union All 3.Outputs[Union All Output 1]" />
-            <path
               refId="Package\insert into date.Paths[Union All Output 1]"
               endId="Package\insert into date\is vacation.Inputs[Lookup Input]"
               name="Union All Output 1"
@@ -3518,6 +3323,11 @@ END as "Dzień pracujący"
               endId="Package\insert into date\Lookup 1.Inputs[Lookup Input]"
               name="Union All Output 1"
               startId="Package\insert into date\Union All.Outputs[Union All Output 1]" />
+            <path
+              refId="Package\insert into date.Paths[Union All Output 11]"
+              endId="Package\insert into date\Data Conversion 1.Inputs[Data Conversion Input]"
+              name="Union All Output 1"
+              startId="Package\insert into date\Union All 3.Outputs[Union All Output 1]" />
           </paths>
         </pipeline>
       </DTS:ObjectData>
@@ -3643,10 +3453,6 @@ END as "Dzień pracujący"
           Id="Package\insert into date\is holiday"
           TopLeft="140.571430488509,103.388236744099" />
         <NodeLayout
-          Size="127.2,41.6"
-          Id="Package\insert into date\no holiday"
-          TopLeft="246.357145971182,239.829414630349" />
-        <NodeLayout
           Size="111.2,41.6"
           Id="Package\insert into date\day off"
           TopLeft="14.8571426333213,235.529415067917" />
@@ -3683,42 +3489,6 @@ END as "Dzień pracujący"
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
               BoundingBox="-104.31519731301,41.917435290744,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\insert into date.Paths[Lookup No Match Output]"
-          TopLeft="220.838097155175,144.988236744099">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="89.1190488160062,94.8411778862501"
-              Start="0,0"
-              End="89.1190488160062,87.3411778862501">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,34.6707254349097" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,34.6707254349097"
-                    Point2="0,38.6707254349097"
-                    Point3="4,38.6707254349097" />
-                  <mssgle:LineSegment
-                    End="85.1190488160062,38.6707254349097" />
-                  <mssgle:CubicBezierSegment
-                    Point1="85.1190488160062,38.6707254349097"
-                    Point2="89.1190488160062,38.6707254349097"
-                    Point3="89.1190488160062,42.6707254349097" />
-                  <mssgle:LineSegment
-                    End="89.1190488160062,87.3411778862501" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-11.2468623107469,43.6707254349097,111.6127734375,11.609375"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -3760,84 +3530,10 @@ END as "Dzień pracujący"
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <EdgeLayout
-          Id="Package\insert into date.Paths[Derived Column Output1]"
-          TopLeft="309.957145971182,281.429414630349">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-99.2904775334055,48.3117664647349"
-              Start="0,0"
-              End="-99.2904775334055,40.8117664647349">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,24.6056511962246" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,24.6056511962246"
-                    Point2="0,28.6056511962246"
-                    Point3="-4,28.6056511962246" />
-                  <mssgle:LineSegment
-                    End="-95.2904775334055,28.6056511962246" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-95.2904775334055,28.6056511962246"
-                    Point2="-99.2904775334055,28.6056511962246"
-                    Point3="-99.2904775334055,32.6056511962246" />
-                  <mssgle:LineSegment
-                    End="-99.2904775334055,40.8117664647349" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <NodeLayout
           Size="121.6,41.6"
           Id="Package\insert into date\Lookup 1"
           TopLeft="129.14285886531,439.717652541296" />
-        <NodeLayout
-          Size="128.8,41.6"
-          Id="Package\insert into date\not an Eve"
-          TopLeft="230.28571773062,507.71765239544" />
-        <EdgeLayout
-          Id="Package\insert into date.Paths[Lookup No Match Output1]"
-          TopLeft="208.876192198643,481.317652541296">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="85.8095255319764,26.399999854144"
-              Start="0,0"
-              End="85.8095255319764,18.899999854144">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,6.76571422623536" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,6.76571422623536"
-                    Point2="0,10.7657142262354"
-                    Point3="4,10.7657142262354" />
-                  <mssgle:LineSegment
-                    End="81.8095255319764,10.7657142262354" />
-                  <mssgle:CubicBezierSegment
-                    Point1="81.8095255319764,10.7657142262354"
-                    Point2="85.8095255319764,10.7657142262354"
-                    Point3="85.8095255319764,14.7657142262354" />
-                  <mssgle:LineSegment
-                    End="85.8095255319764,18.899999854144" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-12.9016239527618,15.7657142262354,111.6127734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <NodeLayout
           Size="129.6,41.6"
           Id="Package\insert into date\Union All 1"
@@ -3864,40 +3560,6 @@ END as "Dzień pracujący"
             <mssgm:EdgeLabel
               BoundingBox="-48.19138671875,41.762959644621,96.3827734375,11.609375"
               RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\insert into date.Paths[Derived Column Output2]"
-          TopLeft="294.68571773062,549.31765239544">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-82.190477942123,34.6352944350982"
-              Start="0,0"
-              End="-82.190477942123,27.1352944350982">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16.5277476773875" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16.5277476773875"
-                    Point2="0,20.5277476773875"
-                    Point3="-4,20.5277476773875" />
-                  <mssgle:LineSegment
-                    End="-78.190477942123,20.5277476773875" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-78.190477942123,20.5277476773875"
-                    Point2="-82.190477942123,20.5277476773875"
-                    Point3="-82.190477942123,24.5277476773875" />
-                  <mssgle:LineSegment
-                    End="-82.190477942123,27.1352944350982" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <NodeLayout
@@ -3931,7 +3593,7 @@ END as "Dzień pracujący"
           Id="Package\insert into date\not a vacation"
           TopLeft="233.142860636419,759.29412354994" />
         <EdgeLayout
-          Id="Package\insert into date.Paths[Lookup No Match Output2]"
+          Id="Package\insert into date.Paths[Lookup No Match Output]"
           TopLeft="214.85714460879,708.894123404084">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -3971,7 +3633,7 @@ END as "Dzień pracujący"
           Id="Package\insert into date\Union All 3"
           TopLeft="118.285715823271,895.058830135834" />
         <EdgeLayout
-          Id="Package\insert into date.Paths[Derived Column Output3]"
+          Id="Package\insert into date.Paths[Derived Column Output1]"
           TopLeft="305.542860636419,800.89412354994">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -4285,7 +3947,7 @@ END as "Dzień pracujący"
           Id="Package\insert into date\Derived Column 1"
           TopLeft="28,806.6823557725" />
         <EdgeLayout
-          Id="Package\insert into date.Paths[Derived Column Output4]"
+          Id="Package\insert into date.Paths[Derived Column Output2]"
           TopLeft="30.8571429057997,776.705884472144">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -4319,7 +3981,7 @@ END as "Dzień pracujący"
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\insert into date.Paths[Derived Column Output5]"
+          Id="Package\insert into date.Paths[Derived Column Output3]"
           TopLeft="109.2,848.2823557725">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -4394,6 +4056,66 @@ END as "Dzień pracujący"
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\insert into date.Paths[Lookup No Match Output1]"
+          TopLeft="220.838097155175,144.988236744099">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-10.1714287173993,184.752944350985"
+              Start="0,0"
+              End="-10.1714287173993,177.252944350985">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,88.3472483627196" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,88.3472483627196"
+                    Point2="0,92.3472483627196"
+                    Point3="-4,92.3472483627196" />
+                  <mssgle:LineSegment
+                    End="-6.17142871739927,92.3472483627196" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-6.17142871739927,92.3472483627196"
+                    Point2="-10.1714287173993,92.3472483627196"
+                    Point3="-10.1714287173993,96.3472483627196" />
+                  <mssgle:LineSegment
+                    End="-10.1714287173993,177.252944350985" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-60.8921010774496,97.3472483627196,111.6127734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\insert into date.Paths[Lookup No Match Output2]"
+          TopLeft="191.08571599357,481.317652541296">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,102.635294289242"
+              Start="0,0"
+              End="0,95.1352942892421">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,95.1352942892421" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-55.80638671875,41.762959644621,111.6127734375,11.609375"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
