@@ -71,6 +71,7 @@ FK_agent INTEGER FOREIGN KEY REFERENCES agent(id_agenta),
 FK_zamowienie INTEGER FOREIGN KEY REFERENCES zamowienie(ID_zamowienia),
 FK_produkt INTEGER FOREIGN KEY REFERENCES produkt(ID_produktu),
 typ_sprawy varchar(80),
+numer_sprawy integer,
 )
 
 create table rozmowa(
