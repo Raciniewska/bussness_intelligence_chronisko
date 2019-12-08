@@ -11,8 +11,8 @@
   DTS:LocaleID="1045"
   DTS:ObjectName="miesiac"
   DTS:PackageType="5"
-  DTS:VersionBuild="46"
-  DTS:VersionGUID="{FEB94965-39E4-4362-9AB4-A03C04EFC86E}">
+  DTS:VersionBuild="50"
+  DTS:VersionGUID="{320E63B5-9DF6-4444-B880-1D423673D814}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -1816,7 +1816,7 @@ WHEN 8 THEN 'sierpień'
 WHEN 9 THEN 'wrzesień'
 WHEN 10 THEN 'październik'
 WHEN 11 THEN 'listopad'
-WHEN 12 THEN 'grudzeń'
+WHEN 12 THEN 'grudzień'
 END as "Miesiąc nazwa"
 		FROM ( SELECT ROW_NUMBER() OVER (ORDER BY n)
 			FROM Nbrs ) D ( n )
@@ -3018,7 +3018,7 @@ END as "Miesiąc nazwa"
         <NodeLayout
           Size="142.4,41.6"
           Id="Package\drop auxiliary"
-          TopLeft="220.000003746578,275.294121507955" />
+          TopLeft="210.285717866859,286.305886368273" />
         <NodeLayout
           Size="167.2,41.6"
           Id="Package\insert into holidays"
@@ -3026,21 +3026,21 @@ END as "Miesiąc nazwa"
         <NodeLayout
           Size="164,41.6"
           Id="Package\insert into miesiac"
-          TopLeft="206.07143198714,194.535296768796" />
+          TopLeft="206.07143198714,200.041179198955" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
           TopLeft="286.6928605683,161.505884034576">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,33.02941273422"
+              EndConnector="0,38.5352951643791"
               Start="0,0"
-              End="0,25.52941273422">
+              End="0,31.0352951643791">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,25.52941273422" />
+                    End="0,31.0352951643791" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -3051,18 +3051,18 @@ END as "Miesiąc nazwa"
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="289.635717866859,236.135296768796">
+          TopLeft="284.778574927,241.641179198955">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,39.158824739159"
+              EndConnector="0,44.6647071693181"
               Start="0,0"
-              End="0,31.658824739159">
+              End="0,37.1647071693181">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,31.658824739159" />
+                    End="0,37.1647071693181" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
