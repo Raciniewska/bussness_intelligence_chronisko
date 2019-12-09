@@ -50,8 +50,7 @@ cena numeric(8,2) check (cena>0),
 producent varchar(80),
 data_produkcji date,
 FK_fabryka INTEGER FOREIGN KEY REFERENCES fabryka(ID_fabryki),
-FK_magazyn INTEGER FOREIGN KEY REFERENCES magazyn(ID_magazynu),
-opis varchar(200),
+FK_magazyn INTEGER FOREIGN KEY REFERENCES magazyn(ID_magazynu)
 )
 
 create table zamowienie(
