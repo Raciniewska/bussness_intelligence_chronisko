@@ -72,7 +72,7 @@ for id in range(liczba_agentow):
        agent_bulk.write(str(id+1)+"|"+random.choice(imiona_d)+"|"+random.choice(nazwiska_d))
     else :
         agent_bulk.write(str(id+1) + "|" + (random.choice(imiona_m)) +"|"+ random.choice(nazwiska_m))
-    agent_bulk.write("|"+str(pesel_start)+"|"+str(random_date(rozp_zatrudniania, teraz).date())+"\n")
+    agent_bulk.write("|"+str(pesel_start)+"|"+str(random_date(rozp_zatrudniania, teraz).date())+"|\n")
     pesel_start=pesel_start+1
 id =0
 agent_bulk.close()
