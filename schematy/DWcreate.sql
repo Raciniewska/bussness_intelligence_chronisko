@@ -42,7 +42,8 @@ ID_Sprawy numeric not null identity (1,1) primary key,
 ID_Daty_Otwarcia numeric foreign key references data(ID_Daty),
 ID_Daty_Zamknięcia numeric foreign key references data(ID_Daty),
 Czas_Rozwiązania varchar(30) not null check(Czas_Rozwiązania in('bardzo szybko', 'szybko', 'przeciętnie', 'długo', 'bardzo długo', 'nierozwiązana')),
-Typ_Sprawy varchar(30) not null check(Typ_Sprawy in('reklamacja', 'brak zwrotu za zamówienie', 'zagubiona paczka', 'zwrot', 'informacja'))
+Typ_Sprawy varchar(30),
+Numer_Sprawy integer
 );
 
 create table agent(
